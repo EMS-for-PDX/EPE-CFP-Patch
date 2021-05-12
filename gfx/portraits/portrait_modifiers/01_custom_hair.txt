@@ -20,6 +20,17 @@ custom_hair = {
 
 	add_accessory_modifiers = {
 		gene = hairstyles
+		template = all_hairstyles
+		
+		weight = {
+			base = 0
+
+		}
+	}	
+
+
+	add_accessory_modifiers = {
+		gene = hairstyles
 		is_valid_custom = {
 			has_fp1_dlc_trigger = yes
 		}

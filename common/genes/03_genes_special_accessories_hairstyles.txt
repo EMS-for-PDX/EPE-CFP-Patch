@@ -50,6 +50,18 @@ special_genes = {
 				1 = male_hair_northern_03
 				1 = male_hair_steppe_01
 				1 = male_hair_steppe_02
+               ###CFP hairstyles
+				1 = cfp_male_hair_bald_western_01
+				1 = cfp_male_hair_bald_western_02
+				1 = cfp_male_hair_bald_western_03
+				1 = cfp_male_hair_viking_01
+				1 = cfp_male_hair_slavic_01
+				1 = cfp_male_hair_slavic_02
+				1 = cfp_male_hair_turkic_01
+				1 = cfp_male_hair_steppe_01
+				1 = cfp_male_hair_steppe_02
+				1 = cfp_male_hair_steppe_03
+				1 = cfp_male_hair_steppe_04				
 			}
 
 			female = {
@@ -82,6 +94,15 @@ special_genes = {
 				1 = female_hair_northern_03
 				1 = female_hair_steppe_01
 				1 = female_hair_steppe_02
+               ###CFP hairstyles
+				1 = cfp_female_hair_mena_01
+				1 = cfp_female_hair_mena_02
+				1 = cfp_female_hair_byzantine_02
+				1 = cfp_female_hair_indian_01
+				1 = cfp_female_hair_indian_02
+				1 = cfp_female_hair_indian_03	
+				1 = cfp_female_hair_steppe_01
+				1 = cfp_female_hair_steppe_02				
 			}
 			boy = male
 			girl = female
@@ -1538,7 +1559,7 @@ special_genes = {
 				index = 64
 				set_tags = "very_curly_hair"
 			male = {
-                1 = empty
+                1 = bald
 				5 = male_hair_ethiopian_01
 				5 = male_hair_ethiopian_02
 				5 = male_hair_ethiopian_03				
