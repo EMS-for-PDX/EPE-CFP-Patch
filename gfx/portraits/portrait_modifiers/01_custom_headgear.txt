@@ -9,6 +9,11 @@
 
 	add_accessory_modifiers = {
 		gene = headgear
+		template = all_headgear
+	}
+
+	add_accessory_modifiers = {
+		gene = headgear
 		template = fp1_common
 		is_valid_custom = {
 			has_fp1_dlc_trigger = yes
