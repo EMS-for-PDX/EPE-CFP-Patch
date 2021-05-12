@@ -220,8 +220,21 @@ accessory_genes = {
 
 	
 	legwear = {
-		all_legwear = {
+	
+		no_legwear = {
 			index = 0
+			male = {
+				1 = empty
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+			girl = female
+		}	
+	
+		all_legwear = {
+			index = 1
 			male = {
 				1 = male_legwear_secular_western_common_01
 				1 = male_legwear_secular_fp1_common_01
@@ -233,17 +246,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		no_legwear = {
-			index = 1
-			male = {
-				1 = empty
-			}
-			female = {
-				1 = empty
-			}
-			boy = male
-			girl = female
-		}
+
 
 		western_common_legwear = {
 			index = 2
@@ -331,8 +334,17 @@ accessory_genes = {
 				1 = empty
 			}
 		}
-		western_royalty = {
+		all_cloak = {
 			index = 1
+			male = {
+				100 = empty
+			}
+			female = {
+				100 = empty
+			}
+		}		
+		western_royalty = {
+			index = 2
 			male = {
 				1 = male_cloaks_secular_western_royalty_01
 			}
@@ -343,7 +355,7 @@ accessory_genes = {
 		}
 		
 		french_royalty = {
-			index = 2
+			index = 3
 			male = {
 				1 = male_cloaks_secular_french_royalty_01
 			}
@@ -354,7 +366,7 @@ accessory_genes = {
 		}		
 		
 		byzantine_royalty = {
-			index = 3
+			index = 4
 			male = {
 				1 = male_cloaks_secular_byzantine_royalty_01
 			}
@@ -365,7 +377,7 @@ accessory_genes = {
 		}			
 		
 		italian_royalty = {
-			index = 4
+			index = 5
 			male = {
 				1 = male_cloaks_secular_italian_royalty_01
 			}
@@ -377,7 +389,7 @@ accessory_genes = {
 				
 		
 		early_iranian_royalty = {
-			index = 5
+			index = 6
 			male = {
 				1 = male_cloak_early_iranian_nobility
 				1 = male_cloak_early_iranian_nobility_v2				
@@ -388,7 +400,7 @@ accessory_genes = {
 		}		
 		
 		eastern_iranian_royalty = {
-			index = 6
+			index = 7
 			male = {
 				1 = male_cloak_eastern_iranian_nobility_v2			
 			}
@@ -400,7 +412,7 @@ accessory_genes = {
 	
 
 		fp1_cloak = {
-			index = 7
+			index = 8
 			male = {
 				1 = male_cloaks_secular_fp1_nobility_01
 				1 = male_cloaks_secular_fp1_nobility_02
@@ -421,7 +433,7 @@ accessory_genes = {
 			}
 		}
 		fp1_cloak_ruler = {
-			index = 8
+			index = 9
 			male = {
 				1 = male_cloaks_secular_fp1_nobility_01
 				1 = male_cloaks_secular_fp1_nobility_02
@@ -440,7 +452,7 @@ accessory_genes = {
 			}
 		}		
 		fp1_cloak_berserker = {
-			index = 9
+			index = 10
 			male = {
 				1 = male_furs_secular_fp1_nobility_03
 			}
@@ -450,7 +462,7 @@ accessory_genes = {
 		}
 
 		northern_cloak = {
-			index = 10
+			index = 11
 			male = {
 				1 = male_cloaks_secular_fp1_nobility_01
 				1 = male_cloaks_secular_fp1_nobility_02
@@ -466,7 +478,7 @@ accessory_genes = {
 		}
 
 		northern_cloak_ruler = {
-			index = 11
+			index = 12
 			male = {
 				1 = male_cloaks_secular_fp1_nobility_01
 				1 = male_cloaks_secular_fp1_nobility_02
@@ -485,7 +497,7 @@ accessory_genes = {
 	
 	
 		northern_slav_cloak = {
-			index = 12
+			index = 13
 			male = {
 				5 = empty			
 				2 = male_cloaks_northern_slav_low_01
@@ -504,7 +516,7 @@ accessory_genes = {
 	
 	
 		northern_slav_cloak_high_nobility = {
-			index = 13
+			index = 14
 			male = {
 				2 = male_cloaks_northern_slav_high_01
 				5 = male_cloaks_northern_slav_high_02
@@ -517,7 +529,7 @@ accessory_genes = {
 		}	
 	
 		northern_slav_cloak_royalty = {
-			index = 14
+			index = 15
 			male = {
 				5 = male_cloaks_northern_slav_royalty_01
 				5 = male_cloaks_northern_slav_royalty_02
@@ -534,7 +546,7 @@ accessory_genes = {
 ##########################################################################
 
 		gaelic_cloak = {
-			index = 15
+			index = 16
 			male = {
 				5 = empty			
 				2 = male_cloaks_irish_low_01
@@ -554,7 +566,7 @@ accessory_genes = {
 	
 	
 		gaelic_cloak_high_nobility = {
-			index = 16
+			index = 17
 			male = {
 				2 = male_cloaks_irish_high_01
 				2 = male_cloaks_irish_high_02
@@ -574,7 +586,7 @@ accessory_genes = {
 
 
 		balto_finnic_cloak = {
-			index = 17
+			index = 18
 			male = {
 				5 = empty			
 				2 = male_cloaks_balto_finnic_low_01
@@ -594,7 +606,7 @@ accessory_genes = {
 	
 	
 		balto_finnic_cloak_high_nobility = {
-			index = 18
+			index = 19
 			male = {
 				2 = male_cloaks_balto_finnic_high_01
 				2 = male_cloaks_balto_finnic_high_02
