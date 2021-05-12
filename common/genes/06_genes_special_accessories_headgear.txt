@@ -978,7 +978,7 @@ accessory_genes = {
 			male = {
 				1 = empty
 				1 = male_headgear_secular_northern_common_01
-				
+				1 = male_norse_pannonian_cap_01					
 			}
 			female = {
 				10 = empty
@@ -3297,7 +3297,7 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp1_common_01
 				1 = male_headgear_secular_fp1_common_02
-				
+				1 = male_norse_pannonian_cap_01					
 			}
 			female = {
 				1 = female_headgear_secular_fp1_common_01
