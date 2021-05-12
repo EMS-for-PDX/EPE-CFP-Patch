@@ -1,6 +1,11 @@
 ﻿custom_clothes = {
 	usage = customization
 	interface_position = 0
+
+	add_accessory_modifiers = {
+		gene = clothes
+		template = most_clothes
+	}
 	
 	add_accessory_modifiers = {
 		gene = clothes

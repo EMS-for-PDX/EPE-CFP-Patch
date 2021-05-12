@@ -9,6 +9,11 @@
 
 	add_accessory_modifiers = {
 		gene = cloaks
+		template = all_cloak
+	}
+
+	add_accessory_modifiers = {
+		gene = cloaks
 		#is_valid_custom = {
 		#	highest_held_title_tier >= tier_kingdom
 		#}

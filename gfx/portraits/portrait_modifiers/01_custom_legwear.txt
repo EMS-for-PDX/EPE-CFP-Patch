@@ -6,6 +6,14 @@
 		gene = legwear
 		template = no_legwear
 	}
+
+	add_accessory_modifiers = {
+		gene = legwear
+		# is_valid_custom = {
+		# 	highest_held_title_tier >= tier_duchy
+		# }
+		template = all_legwear
+	}
 	
 	add_accessory_modifiers = {
 		gene = legwear
