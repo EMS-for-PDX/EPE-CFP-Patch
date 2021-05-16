@@ -4141,6 +4141,314 @@ accessory_genes = {
             girl = female
 		}
 
+##########################################################################
+####North africa
+##########################################################################
+
+		maghreb_common = {
+			index = 202
+			male = {
+				5 = empty
+				10 = male_headgear_secular_sub_saharan_common_01				
+				10 = male_maghreb_common_01				
+				10 = male_headgear_secular_mena_common_01
+				10 = male_headgear_secular_dde_abbasid_common_02
+			
+			}
+			female = {
+				5 = female_headgear_secular_mena_common_01
+				5 = female_headgear_secular_mena_common_02
+				5 = female_headgear_secular_dde_abbasid_common_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		maghreb_low_nobility = {
+            index = 203
+            male = {
+				1 = male_headgear_secular_sub_saharan_common_01				
+                1 = male_headgear_secular_mena_common_01
+				1 = male_headgear_secular_dde_abbasid_common_02
+		
+            }
+            female = {
+                5 = female_headgear_secular_mena_common_01
+                5 = female_headgear_secular_mena_common_02
+            }
+            boy = male
+            girl = female
+        }	
+
+        maghreb_high_nobility = {
+            index = 204
+            male = {
+                10 = male_maghreb_high_noble_01			
+                5 = male_headgear_secular_mena_high_nobility_01
+				5 = male_headgear_secular_dde_abbasid_common_01		
+            }
+            female = {
+                5 = female_headgear_secular_mena_nobility_01
+                5 = female_headgear_secular_mena_common_01
+                5 = female_headgear_secular_mena_common_02				
+            }
+            boy = male
+            girl = female
+        }	
+
+		maghreb_royalty = {
+			index = 205
+			male = {
+				1 = male_headgear_secular_mena_royalty_01
+			}
+			female = {
+				1 = female_maghreb_royalty_01
+			}
+			boy = male
+            girl = female
+		}
+
+
+		maghreb_imperial = {
+			index = 206
+			male = {
+				1 = male_headgear_secular_mena_imperial_01
+				
+			}
+			female = {
+				1 = female_maghreb_royalty_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		maghreb_war = {
+			index = 207
+			male = {
+				1 = male_headgear_secular_mena_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01			
+			}
+			female = {
+				1 = female_headgear_secular_mena_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		yusuf_ibn_tashfin_headgear = {
+			index = 208
+			male = {
+				3 = male_yusuf_ibn_tashfin_headgear		
+			}
+			female = {
+				1 = female_maghreb_royalty_01						
+			}
+			boy = male
+			girl = female
+		}	
+		
+				
+##########################################################################
+####Hungarian
+##########################################################################
+		
+		
+
+		hungarian_common = {
+			index = 209
+			male = {
+				1 = male_headgear_secular_western_common_01
+				1 = male_headgear_secular_western_common_02
+			}
+			female = {
+				35 = empty
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+			}
+			boy = male
+            girl = female
+		}
+		
+		hungarian_low_nobility = {
+            index = 210
+            male = {
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            }
+            female = {
+                10 = female_headgear_secular_western_nobility_05				
+                10 = female_headgear_secular_western_nobility_01
+                10 = female_headgear_secular_western_nobility_01_2
+				10 = female_headgear_secular_western_nobility_02
+				10 = female_headgear_secular_western_nobility_03
+            }
+            boy = male
+            girl = female
+        }
+		
+		hungarian_count = {
+            index = 211
+            male = {
+                2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+	
+            }
+            female = {
+                10 = female_headgear_secular_western_nobility_01
+                10 = female_headgear_secular_western_nobility_01_2
+				10 = female_headgear_secular_western_nobility_02
+				10 = female_headgear_secular_western_nobility_03
+            }
+            boy = male
+            girl = female
+        }
+		
+
+		hungarian_high_nobility = {
+			index = 212
+			male = {
+				1 = male_headgear_secular_western_high_nobility_01
+				1 = male_Circlet_High_Noble_Headwear_Silver_01
+				1 = male_Circlet_High_Noble_Headwear_Gold_02				
+				1 = male_western_high_noble_circlet_4
+				1 = male_western_high_noble_circlet_5
+				1 = male_western_high_noble_circlet_6
+				1 = male_western_high_noble_circlet_7	
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				1 = male_Circlets_Western_Small_Silver_Pearls	
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver	
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            ####CFP hungarian headgears	
+				3 = male_headgear_secular_hungarian_high_nobility_01				
+			}
+			female = {
+				1 = female_headgear_secular_western_high_nobility_01
+				1 = female_Circlet_High_Noble_Headwear_Silver_01
+				1 = female_Circlet_High_Noble_Headwear_Gold_02				
+				1 = female_western_high_noble_circlet_4
+				1 = female_western_high_noble_circlet_5 
+				1 = female_western_high_noble_circlet_6 
+				1 = female_western_high_noble_circlet_7 					
+				1 = female_Circlet_High_Noble_Headvail_Silver_01 	
+				1 = female_Circlet_High_Noble_Headvail_Gold_01 		
+				1 = female_Circlet_High_Noble_covervail_Silver_01 			
+				1 = female_Circlet_High_Noble_covervail_gold_01 
+				1 = female_Circlet_High_Noble_covervail_circlet_04 			
+				1 = female_Circlet_High_Noble_covervail_circlet_05 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_04 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_05 
+				1 = female_Circlet_High_Noble_Headvail_Gold_02 
+				1 = female_Circlet_High_Noble_covervail_gold_02 
+				1 = female_Circlet_High_Noble_Headvail_circlet_06 
+				1 = female_Circlet_High_Noble_covervail_circlet_06 	
+				1 = female_Circlet_High_Noble_Headvail_circlet_07 
+				1 = female_Circlet_High_Noble_covervail_circlet_07
+            ####CFP hungarian headgears			
+				3 = female_headgear_secular_hungarian_high_nobility_01				
+			}
+			boy = male
+            girl = female
+		}
+
+		hungarian_royalty = {
+			index = 213
+			male = {
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03		
+            ####CFP hungarian headgears	
+				10 = male_headgear_secular_hungarian_royalty_01				
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+            ####CFP hungarian headgears			
+				10 = female_headgear_secular_hungarian_royalty_01					
+			}
+			boy = male
+            girl = female
+		}
+
+
+		hungarian_imperial = {
+			index = 214
+			male = {
+				1 = male_headgear_secular_dde_hre_imperial_01
+				#1 = male_headgear_secular_polish_imperial_01
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		hungarian_war = {
+			index = 215
+			male = {
+				1 = male_headgear_secular_western_war_nobility_01
+				1 = male_headgear_secular_crusades_western_war_nobility_01				
+				1 = male_early_west_nasalhelm_01
+				1 = male_early_west_nasalhelm_02	
+				1 = male_high_west_phrygian_01	
+				1 = male_high_west_phrygian_02	
+				1 = male_high_west_phrygian_03	
+				1 = male_High_West_Phrygian_Round_Helm_01	
+				1 = male_High_West_Phrygian_Round_Helm_02
+            ####CFP hungarian war headgears	
+				1 = male_headgears_secular_hungarian_war_helmet_01				
+			}
+			female = {
+				1 = female_headgear_secular_western_war_nobility_01
+				1 = female_headgear_secular_crusades_western_war_nobility_01
+            ####CFP hungarian war headgears				
+				1 = female_headgears_secular_hungarian_war_helmet_01					
+			}
+			boy = male
+            girl = female
+		}
+				
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+
 	
 ##############################
 		test_headgears_hairstyles = {
