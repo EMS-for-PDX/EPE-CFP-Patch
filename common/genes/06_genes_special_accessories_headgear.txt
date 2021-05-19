@@ -4966,7 +4966,49 @@ accessory_genes = {
 		}
 				
 			
+			
+##########################################################################
+####Italian Merchant republics
+##########################################################################
 		
+		italian_republic_low_nobility = {
+            index = 237
+			male = {
+				1 = male_headgear_secular_dde_hre_common_01			
+				1 = male_headgear_secular_rtt_nobility_01_low				
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_french_common_01						
+				3 = female_headgear_secular_dde_hre_common_02				
+				5 = female_headgear_secular_dde_hre_common_01				
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+			}
+            boy = male
+            girl = female
+        }
+
+		italian_republic_high_nobility = {
+			index = 238
+            male = {
+				1 = male_headgear_secular_italian_nobility_01					
+				1 = male_headgear_secular_italian_nobility_02
+            }
+            female = {
+				10 = female_headgear_secular_dde_hre_common_02
+				10 = female_headgear_secular_dde_hre_common_01
+                1 = Women_Hair_Alternate_13th_Century		
+            }
+			boy = male
+            girl = female
+		}
+		
+		
+		
+				
 		
 		
 		
@@ -4976,7 +5018,7 @@ accessory_genes = {
 	
 ##############################
 		test_headgears_hairstyles = {
-			index = 270
+			index = 255
 			male = {
 				1 = hairstyle_test_crown
 				1 = hairstyle_test_cap
