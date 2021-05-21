@@ -2180,7 +2180,7 @@ accessory_genes = {
         french_imperial = {
             index = 107
             male = {
-                1 = male_headgear_secular_dde_hre_imperial_01
+                1 = male_crown_louis_pious_01
 	            ####CFP western headgears				
 				1 = male_headgear_secular_western_cfp_imperial_01					
             }
@@ -3613,7 +3613,7 @@ accessory_genes = {
 			index = 176
 			male = {
 				1 = male_headgear_secular_steppe_war_nobility_01
-				2 = male_headgear_secular_cuman_war_helmet_01	
+				2 = male_kipchak_war_helmet_01	
             ####CFP turkic war headgears
 				1 = male_headgears_secular_turkic_war_cuman_01
 				1 = male_headgears_secular_turkic_war_cuman_02				
@@ -3736,7 +3736,7 @@ accessory_genes = {
 			index = 182
 			male = {
 				1 = male_headgear_secular_steppe_war_nobility_01
-				2 = male_headgear_secular_cuman_war_helmet_01	
+				2 = male_kipchak_war_helmet_01	
             ####CFP turkic war headgears
 				1 = male_headgears_secular_turkic_war_cuman_01
 				1 = male_headgears_secular_turkic_war_cuman_02				
@@ -4117,8 +4117,7 @@ accessory_genes = {
 		iberia_war = {
 			index = 201
 			male = {
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01				
+				3 = male_iberian_nasalhelm_01				
 				1 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
 				1 = male_high_west_phrygian_01	
@@ -4127,8 +4126,8 @@ accessory_genes = {
 				1 = male_High_West_Phrygian_Round_Helm_01	
 				1 = male_High_West_Phrygian_Round_Helm_02	
            ####CFP iberian war headgears					
-				1 = male_headgear_secular_iberian_cfp_war_cervelliere_01
-				1 = male_headgear_secular_iberian_cfp_war_nasal_01				
+				3 = male_headgear_secular_iberian_cfp_war_cervelliere_01
+				3 = male_headgear_secular_iberian_cfp_war_nasal_01				
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
@@ -4595,19 +4594,11 @@ accessory_genes = {
 		anglo_saxon_war = {
 			index = 222
 			male = {
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01				
-				1 = male_early_west_nasalhelm_01
-				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03	
-				1 = male_High_West_Phrygian_Round_Helm_01	
-				1 = male_High_West_Phrygian_Round_Helm_02							
+				1 = male_banded_helmet_britain_01
+				1 = male_banded_helmet_britain_02									
 			}
 			female = {
-				1 = female_headgear_secular_western_war_nobility_01
-				1 = female_headgear_secular_crusades_western_war_nobility_01				
+				1 = female_headgear_secular_western_war_nobility_01			
 			}
 			boy = male
             girl = female
@@ -5242,6 +5233,27 @@ accessory_genes = {
             girl = female
 		}		
 	
+	
+	###Lombard Italian title
+        lombard_iron_crown = {
+            index = 252
+            male = {
+				1 = male_iron_crown_of_lombardy_01	
+            }
+            female = {
+                1 = female_headgear_secular_western_royalty_01
+                1 = female_headgear_secular_western_royalty_02  
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02
+				2 = female_headgear_secular_dde_hre_royalty_01
+				2 = female_hre_royalty_Headvail_01					
+				2 = female_hre_royalty_covervail_01						
+            }
+            boy = male
+            girl = female
+        }		
 
 
 

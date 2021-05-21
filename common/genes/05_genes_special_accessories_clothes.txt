@@ -2584,11 +2584,11 @@ accessory_genes = {
 			index = 136
 
 			male = {
-				1 = male_clothes_secular_western_war_nobility_01_low
+				1 = male_clothes_secular_northern_war_nobility_01_common
 			}
 
 			female = {
-				1 = female_clothes_secular_western_war_nobility_01_low
+				1 = female_clothes_secular_northern_war_nobility_01
 			}
 
 			boy = male
