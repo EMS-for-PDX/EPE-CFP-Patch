@@ -5090,7 +5090,7 @@ accessory_genes = {
 		Khazar_war = {
 			index = 244
 			male = {
-				1 = male_headgear_secular_steppe_war_nobility_01				
+				1 = male_khazar_helmet_01				
 			}
 			female = {
 				1 = female_headgear_secular_steppe_war_nobility_01
