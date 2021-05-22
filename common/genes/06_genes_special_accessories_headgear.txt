@@ -2184,7 +2184,7 @@ accessory_genes = {
             male = {
                 1 = male_crown_louis_pious_01
 	            ####CFP western headgears				
-				1 = male_headgear_secular_western_cfp_imperial_01					
+				#1 = male_headgear_secular_western_cfp_imperial_01					
             }
             female = {
                 1 = female_headgear_secular_western_royalty_01
