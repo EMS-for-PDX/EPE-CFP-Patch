@@ -2076,7 +2076,6 @@ accessory_genes = {
 				1 = male_headgear_secular_dde_hre_common_01			
 				1 = male_headgear_secular_western_common_01
 				1 = male_headgear_secular_western_common_02
-				1 = male_headgear_secular_rtt_nobility_01_low	
 				5 = male_headgear_secular_byzantine_common_01				
 			}
 			female = {
@@ -2437,8 +2436,8 @@ accessory_genes = {
 				2 = male_headgear_secular_latin_war_curved_01
 				2 = male_headgear_secular_latin_war_curved_02	
             ####CFP norman sicily war headgears					
-				2 = male_headgear_secular_latin_war_norman_01
-				2 = male_headgear_secular_latin_war_norman_02				
+				1 = male_headgear_secular_latin_war_norman_01
+				1 = male_headgear_secular_latin_war_norman_02				
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
@@ -3913,14 +3912,10 @@ accessory_genes = {
 		balto_finnic_royalty = {
 			index = 192
 			male = {
-				1 = male_Turkic_Fur_Cap_05
-
+				1 = male_headgear_secular_fp1_royalty_01
 			}
 			female = {
-				1 = female_headgear_secular_fp1_nobility_01
-				1 = female_headgear_secular_fp1_nobility_02
-				1 = female_headgear_secular_fp1_nobility_03		
-				1 = female_headgear_secular_northern_common_01	
+				1 = female_headgear_secular_fp1_royalty_01
 						
 			}
 		}
