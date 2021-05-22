@@ -1320,6 +1320,8 @@ accessory_genes = {
 		crusades_western_war = {
 			index = 55
 			male = {
+				2 = male_western_great_helm_01	
+				2 = male_western_great_helm_02				
 				1 = male_headgear_secular_crusades_western_war_nobility_01
 				
 			}
@@ -2417,27 +2419,23 @@ accessory_genes = {
 		italian_war = {
 			index = 115
 			male = {
-				4 = male_headgear_secular_dde_hre_war_nobility_01				
-				4 = male_headgear_secular_dde_hre_war_nobility_02	
-				4 = male_headgear_secular_dde_hre_war_nobility_02b				
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01	
-				1 = male_headgear_secular_dde_hre_war_nobility_01				
+				5 = male_norman_fpl_helmet_01
+				5 = male_norman_fpl_helmet_02						
+				1 = male_headgear_secular_dde_hre_war_nobility_02	
+				1 = male_headgear_secular_dde_hre_war_nobility_02b						
 				1 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
 				1 = male_high_west_phrygian_01	
 				1 = male_high_west_phrygian_02	
 				1 = male_high_west_phrygian_03	
-				1 = male_High_West_Phrygian_Round_Helm_01	
-				1 = male_High_West_Phrygian_Round_Helm_02
            ####CFP latin war headgears
-				1 = male_headgear_secular_latin_war_flat_top_01
-				1 = male_headgear_secular_latin_war_flat_top_02
-				1 = male_headgear_secular_latin_war_curved_01
-				1 = male_headgear_secular_latin_war_curved_02	
+				2 = male_headgear_secular_latin_war_flat_top_01
+				2 = male_headgear_secular_latin_war_flat_top_02
+				2 = male_headgear_secular_latin_war_curved_01
+				2 = male_headgear_secular_latin_war_curved_02	
             ####CFP norman sicily war headgears					
-				1 = male_headgear_secular_latin_war_norman_01
-				1 = male_headgear_secular_latin_war_norman_02				
+				2 = male_headgear_secular_latin_war_norman_01
+				2 = male_headgear_secular_latin_war_norman_02				
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
