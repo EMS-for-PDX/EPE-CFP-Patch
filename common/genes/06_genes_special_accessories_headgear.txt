@@ -426,7 +426,7 @@ accessory_genes = {
 				1 = male_Western_Royal_Crown_03		
             ####CFP western headgears		
 				1 = male_headgear_secular_western_cfp_royalty_01
-				1 = male_headgear_secular_western_cfp_royalty_02				
+				#1 = male_headgear_secular_western_cfp_royalty_02				
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -437,7 +437,7 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_02		
             ####CFP western headgears	
 				1 = female_headgear_secular_western_cfp_royalty_01
-				1 = female_headgear_secular_western_cfp_royalty_02				
+				#1 = female_headgear_secular_western_cfp_royalty_02				
 			}
 			boy = male
             girl = female
@@ -2289,7 +2289,6 @@ accessory_genes = {
 		italian_nobility = {
             index = 111
             male = {
-
 				1 = male_headgear_secular_italian_nobility_01					
 				1 = male_headgear_secular_italian_nobility_02
 				1 = male_Circlets_Western_Small_Gold_Pearls
@@ -2375,6 +2374,7 @@ accessory_genes = {
                 1 = male_headgear_secular_western_royalty_02
            ####CFP latin headgears
 				1 = male_headgear_secular_latin_cfp_icol_01
+				1 = male_headgear_secular_western_cfp_royalty_02	
 		   
             }
             female = {
@@ -2388,7 +2388,8 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
            ####CFP latin headgears
-				1 = female_headgear_secular_latin_cfp_icol_01				
+				1 = female_headgear_secular_latin_cfp_icol_01
+				1 = female_headgear_secular_western_cfp_royalty_02			
             }
             boy = male
             girl = female
@@ -2397,7 +2398,9 @@ accessory_genes = {
         italian_imperial = {
             index = 114
             male = {
-				1 = male_headgear_secular_dde_hre_royalty_02	
+				1 = male_Western_Royal_Crown_03						
+                1 = male_headgear_secular_western_royalty_01
+                1 = male_headgear_secular_western_royalty_02	
             }
             female = {
                 1 = female_headgear_secular_western_royalty_01
@@ -2419,15 +2422,15 @@ accessory_genes = {
 		italian_war = {
 			index = 115
 			male = {
-				5 = male_norman_fpl_helmet_01
-				5 = male_norman_fpl_helmet_02						
+				4 = male_norman_fpl_helmet_01
+				3 = male_norman_fpl_helmet_02						
 				1 = male_headgear_secular_dde_hre_war_nobility_02	
 				1 = male_headgear_secular_dde_hre_war_nobility_02b						
 				1 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03	
+				2 = male_high_west_phrygian_01	
+				2 = male_high_west_phrygian_02	
+				2 = male_high_west_phrygian_03	
            ####CFP latin war headgears
 				2 = male_headgear_secular_latin_war_flat_top_01
 				2 = male_headgear_secular_latin_war_flat_top_02
@@ -4097,7 +4100,9 @@ accessory_genes = {
 		iberia_imperial = {
 			index = 200
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03	
 				#1 = male_headgear_secular_polish_imperial_01
 			}
 			female = {
@@ -4395,7 +4400,7 @@ accessory_genes = {
 		hungarian_imperial = {
 			index = 214
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				10 = male_headgear_secular_hungarian_royalty_01			
 				#1 = male_headgear_secular_polish_imperial_01
 			}
 			female = {
@@ -4574,7 +4579,9 @@ accessory_genes = {
 		anglo_saxon_imperial = {
 			index = 221
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03	
 				#1 = male_headgear_secular_polish_imperial_01
 			}
 			female = {
@@ -4742,7 +4749,9 @@ accessory_genes = {
 		polish_imperial = {
 			index = 228
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03	
 				#1 = male_headgear_secular_polish_imperial_01
 			}
 			female = {
@@ -4918,7 +4927,9 @@ accessory_genes = {
 		west_slav_imperial = {
 			index = 235
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03	
 				#1 = male_headgear_secular_west_slav_imperial_01
 			}
 			female = {
@@ -5229,7 +5240,7 @@ accessory_genes = {
         lombard_iron_crown = {
             index = 252
             male = {
-				1 = male_iron_crown_of_lombardy_01	
+				4 = male_iron_crown_of_lombardy_01	
             }
             female = {
                 1 = female_headgear_secular_western_royalty_01
