@@ -3753,6 +3753,23 @@ accessory_genes = {
 			girl = female
 		}	
 	
+###Teutonic war crusade		
+		teutonic_crusades = {
+			index = 194
+
+			male = {
+				1 = male_clothes_teutonic_grandmaster_war_nobility_01
+				1 = male_clothes_teutonic_grandmaster_war_nobility_02
+			}
+
+			female = {
+				1 = female_clothes_secular_crusades_western_war_nobility_01_common
+				1 = female_clothes_secular_crusades_western_war_nobility_02_common
+			}
+
+			boy = male
+			girl = female
+		}		
 	
 	
 

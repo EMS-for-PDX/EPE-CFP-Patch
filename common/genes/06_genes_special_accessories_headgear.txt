@@ -2420,9 +2420,7 @@ accessory_genes = {
 
 		italian_war = {
 			index = 115
-			male = {
-				4 = male_norman_fpl_helmet_01
-				3 = male_norman_fpl_helmet_02						
+			male = {				
 				1 = male_headgear_secular_dde_hre_war_nobility_02	
 				1 = male_headgear_secular_dde_hre_war_nobility_02b						
 				1 = male_early_west_nasalhelm_01
@@ -2435,9 +2433,7 @@ accessory_genes = {
 				2 = male_headgear_secular_latin_war_flat_top_02
 				2 = male_headgear_secular_latin_war_curved_01
 				2 = male_headgear_secular_latin_war_curved_02	
-            ####CFP norman sicily war headgears					
-				1 = male_headgear_secular_latin_war_norman_01
-				1 = male_headgear_secular_latin_war_norman_02				
+			
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
@@ -2448,9 +2444,7 @@ accessory_genes = {
 				1 = female_headgear_secular_latin_war_flat_top_02
 				1 = female_headgear_secular_latin_war_curved_01
 				1 = female_headgear_secular_latin_war_curved_02
-            ####CFP norman sicily war headgears					
-				1 = female_headgear_secular_latin_war_norman_01
-				1 = female_headgear_secular_latin_war_norman_02						
+				
 			}
 			boy = male
             girl = female
@@ -2670,6 +2664,8 @@ accessory_genes = {
 		seljuk_war = {
 			index = 125
 			male = {
+				1 = male_seljuk_war_helmet_03	
+				1 = male_seljuk_war_helmet_04				
 				1 = male_headgear_secular_mena_war_nobility_01
 				1 = male_Seljuk_Warrior_Helmet_01
 				1 = male_Seljuk_Warrior_Helmet_02				
@@ -3212,11 +3208,15 @@ accessory_genes = {
 		early_eastern_iranian_war = {
 			index = 153
 			male = {
+				3 = male_khorasan_helmet_02v2				
+				3 = male_khorasan_helmet_02				
+				3 = male_khorasan_helmet_01				
+				3 = male_khorasan_helmet_01v2					
 				3 = male_secular_iranian_early_conical_helmet_01
-				3 = male_secular_Iranian_Samanid_Nasal_Helmet_Crest_01		
-				3 = male_secular_Iranian_Samanid_Nasal_Helmet_Crest_02
 				3 = male_secular_Iranian_Early_North_Nasal_Helmet_Crest_01		
 				3 = male_secular_Iranian_Early_North_Nasal_Helmet_Crest_02	
+				1 = male_secular_Iranian_Samanid_Nasal_Helmet_Crest_01		
+				1 = male_secular_Iranian_Samanid_Nasal_Helmet_Crest_02				
 				1 = male_Iranian_Samanid_Nasal_Helmet_02		
 				1 = male_Iranian_Samanid_Nasal_Helmet_02_02	
 				1 = male_Iranian_Early_North_Nasal_Helmet_02		
@@ -5251,36 +5251,79 @@ accessory_genes = {
             boy = male
             girl = female
         }		
-
-
-
-
 	
-	
-	
-	
-	
-	
-	
-	
-	
-		test_headgears_hairstyles = {
-			index = 255
-            male = {
-				1 = hairstyle_test_crown
-				1 = hairstyle_test_cap
-				1 = hairstyle_test_cap_02			
-            }
-            female = {
-				1 = hairstyle_test_crown
-				1 = hairstyle_test_cap
-				1 = hairstyle_test_cap_02		
-            }
+###French war helmet closed face		
+		french_war_closed = {
+			index = 253
+			male = {
+				1 = male_western_great_helm_01	
+				1 = male_western_great_helm_02			
+				
+			}
+			female = {
+				1 = female_headgear_secular_crusades_western_war_nobility_01
+				
+			}
 			boy = male
             girl = female
-		}		
-			
+		}
+###Italian war helmet closed face	
+		italian_war_closed = {
+			index = 254
+			male = {
+				5 = male_norman_fpl_helmet_01
+				5 = male_norman_fpl_helmet_02						
+				1 = male_western_great_helm_01	
+				1 = male_western_great_helm_02	
+            ####CFP norman sicily war headgears					
+				5 = male_headgear_secular_latin_war_norman_01
+				5 = male_headgear_secular_latin_war_norman_02					
+			}
+			female = {
+            ####CFP norman sicily war headgears					
+				1 = female_headgear_secular_latin_war_norman_01
+				1 = female_headgear_secular_latin_war_norman_02		
+				
+			}
+			boy = male
+            girl = female
+		}
+
+
+###Teutonic war helmet closed face		
+		teutonic_war_closed = {
+			index = 255
+			male = {
+				3 = male_great_helm_01_teutonic
+				3 = male_great_helm_02_teutonic					
+				1 = male_western_great_helm_01	
+				1 = male_western_great_helm_02			
+				
+			}
+			female = {
+				1 = female_headgear_secular_crusades_western_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
 	
+
 	
 	
 	
