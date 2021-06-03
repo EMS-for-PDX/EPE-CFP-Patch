@@ -3771,9 +3771,74 @@ accessory_genes = {
 			girl = female
 		}		
 	
-	
+######################################		
+####Generic western era Armors
+######################################
 
+##tribal era aka early medieval 
+		tribal_era_western_war = {
+			index = 195
+			male = {
+				1 = male_clothes_secular_northern_war_nobility_01_common
+			}
 
+			female = {
+				1 = female_clothes_secular_northern_war_nobility_01	
+			}
+
+			boy = male
+			girl = female
+		}	
+		
+		
+##Early  medieval 
+		##early_western_war_nobility_clothes = {
+			##index = 92			
+		
+		
+##High medieval  
+		##western_war_nobility_clothes = {
+			##index = 7		
+		
+##Late medieval 
+		late_medieval_era_western_war = {
+			index = 196
+			male = {
+				1 = male_clothes_secular_dde_hre_war_nobility_01_low
+				1 = male_clothes_secular_western_war_nobility_01_low			
+			}
+
+			female = {
+				1 = female_clothes_secular_dde_hre_war_nobility_01_low
+				1 = female_clothes_secular_western_war_nobility_01_low				
+			}
+
+			boy = male
+			girl = female
+		}	
+		
+				
+##Late medieval plate armor innovation 
+		late_medieval_era_plate_western_war = {
+			index = 197
+			male = {
+				1 = male_clothes_secular_dde_hre_war_nobility_01_low
+				1 = male_clothes_secular_western_war_nobility_01_low			
+			}
+
+			female = {
+				1 = female_clothes_secular_dde_hre_war_nobility_01_low
+				1 = female_clothes_secular_western_war_nobility_01_low				
+			}
+
+			boy = male
+			girl = female
+		}			
+							
+		
+		
+###################################################################################################################################	
+###################################################################################################################################	
 
 
 
