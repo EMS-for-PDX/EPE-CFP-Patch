@@ -25,7 +25,8 @@ accessory_genes = {
 		all_headgear = {
 			index = 1
 			male = {
-				100 = empty
+            ###Sir Eplerud's Great Helm				
+				1 = male_sir_eplerud_helmet_01	
 			}
 			female = {
 				100 = empty
