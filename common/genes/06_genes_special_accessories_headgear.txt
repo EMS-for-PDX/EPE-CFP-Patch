@@ -1342,6 +1342,7 @@ accessory_genes = {
 				2 = male_western_great_helm_01	
 				2 = male_western_great_helm_02				
 				1 = male_headgear_secular_crusades_western_war_nobility_01
+				2 = male_early_great_helm_01
 				
 			}
 			female = {
@@ -5404,7 +5405,8 @@ accessory_genes = {
 			male = {
 				1 = male_western_great_helm_01	
 				1 = male_western_great_helm_02			
-				
+				1 = male_early_great_helm_01
+				1 = male_early_great_helm_01_painted
 			}
 			female = {
 				1 = female_headgear_secular_crusades_western_war_nobility_01
@@ -5443,8 +5445,8 @@ accessory_genes = {
 				3 = male_great_helm_01_teutonic
 				3 = male_great_helm_02_teutonic					
 				1 = male_western_great_helm_01	
-				1 = male_western_great_helm_02			
-				
+				1 = male_western_great_helm_02
+				1 = male_early_great_helm_01			
 			}
 			female = {
 				1 = female_headgear_secular_crusades_western_war_nobility_01
