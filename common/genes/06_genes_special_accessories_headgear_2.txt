@@ -233,6 +233,107 @@ accessory_genes = {
 		}			
 		
 		
+###non-dlc Abbasid early high court
+
+		non_dlc_abbasid_high_nobility = {
+            index = 13
+            male = {
+				1 = male_headgear_secular_arabic_qalansuwwa_01_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_01_noble_v2					
+				1 = male_headgear_secular_arabic_qalansuwwa_02_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_03_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_04_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_05_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_06_noble					
+				1 = male_headgear_secular_arabic_qalansuwwa_08_noble
+				3 = male_headgear_secular_mena_high_nobility_01
+				#3 = male_headgear_secular_dde_abbasid_high_nobility_01		
+            }
+            female = {
+            	1 = female_headgear_secular_mena_nobility_01
+                #1 = female_headgear_secular_dde_abbasid_high_nobility_01
+            }
+        }	
+
+		non_dlc_abbasid_common = {
+			index = 14
+			male = {
+				1 = male_secular_arabic_qayah_cap_01
+				1 = male_secular_arabic_qub_cap_02
+				1 = male_secular_arabic_qayah_qub_cap_01
+				3 = male_headgear_secular_mena_common_01
+				3 = male_headgear_secular_dde_abbasid_common_02
+			}
+			female = {
+				5 = female_headgear_secular_mena_common_01
+				5 = female_headgear_secular_mena_common_02
+				5 = female_headgear_secular_dde_abbasid_common_01
+			}
+			boy = male
+            girl = female
+		}
+
+		non_dlc_abbasid_imperial = {
+			index = 15
+			male = {
+				1 = male_headgear_secular_mena_imperial_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_mena_royalty_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		non_dlc_abbasid_war = {
+			index = 16
+			male = {
+				1 = male_headgear_secular_mena_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01			
+			}
+			female = {
+				1 = female_headgear_secular_mena_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		non_dlc_abbasid_royalty = {
+			index = 17
+			male = {
+				1 = male_headgear_secular_arabic_qalansuwwa_02_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_03_noble	
+				1 = male_headgear_secular_arabic_qalansuwwa_04_noble	
+				1 = male_headgear_secular_arabic_qalansuwwa_05_noble			
+				#1 = male_headgear_secular_mena_royalty_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_mena_royalty_01
+				
+			}
+			boy = male
+            girl = female
+		}
+		non_dlc_abbasid_low_nobility = {
+            index = 18
+            male = {
+                1 = male_headgear_secular_arabic_qalansuwwa_01_low_noble
+				1 = male_headgear_secular_arabic_qalansuwwa_07_01_noble	
+                1 = male_headgear_secular_arabic_qalansuwwa_07_02_noble
+				2 = male_headgear_secular_mena_common_01
+                2 = male_headgear_secular_mena_nobility_01
+            }
+            female = {
+                5 = female_headgear_secular_mena_common_01
+                5 = female_headgear_secular_mena_common_02
+            }
+            boy = male
+            girl = female
+        }		
 		
 		
 		
