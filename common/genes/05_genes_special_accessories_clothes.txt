@@ -1727,22 +1727,24 @@ accessory_genes = {
 			index = 93
 
 			male = {
-			    1 = male_clothes_secular_french_nobility_01_common
-				1 = male_clothes_secular_french_nobility_02_common
-				1 = male_clothes_secular_french_nobility_03_common
+			    2 = male_clothes_secular_french_nobility_01_common
 				1 = male_clothes_secular_french_nobility_04_common	
 				1 = male_clothes_secular_french_nobility_05_common	
-				1 = male_clothes_secular_french_nobility_06_common					
+				1 = male_clothes_secular_french_nobility_06_common	
+                ###HRE DLC clothes
+				1 = male_clothes_secular_french_nobility_02_common		
+				1 = male_clothes_secular_french_nobility_03_common				
 			}
 
 			female = {
 				1 = female_clothes_secular_french_nobility_01_common
-				1 = female_clothes_secular_french_nobility_02_common
-				1 = female_clothes_secular_french_nobility_03_common
 				1 = female_clothes_secular_french_nobility_04_common	
 				1 = female_clothes_secular_french_nobility_05_common	
 				1 = female_clothes_secular_french_nobility_06_common		
-				1 = female_clothes_secular_french_nobility_07_common					
+				1 = female_clothes_secular_french_nobility_07_common	
+                ###HRE DLC clothes
+				1 = female_clothes_secular_french_nobility_02_common
+				1 = female_clothes_secular_french_nobility_03_common				
 			}
 
 			boy = male
@@ -1753,22 +1755,24 @@ accessory_genes = {
 			index = 94
 
 			male = {
-				1 = male_clothes_secular_french_nobility_01_low
-				1 = male_clothes_secular_french_nobility_02_low
-				1 = male_clothes_secular_french_nobility_03_low
+				2 = male_clothes_secular_french_nobility_01_low
 				1 = male_clothes_secular_french_nobility_04_low		
 				1 = male_clothes_secular_french_nobility_05_low		
-				1 = male_clothes_secular_french_nobility_06_low					
+				1 = male_clothes_secular_french_nobility_06_low	
+                ###HRE DLC clothes
+				1 = male_clothes_secular_french_nobility_02_low
+				1 = male_clothes_secular_french_nobility_03_low				
 			}
 
 			female = {
 				1 = female_clothes_secular_french_nobility_01_low
-				1 = female_clothes_secular_french_nobility_02_low
-				1 = female_clothes_secular_french_nobility_03_low
 				1 = female_clothes_secular_french_nobility_04_low	
 				1 = female_clothes_secular_french_nobility_05_low
 				1 = female_clothes_secular_french_nobility_06_low		
-				1 = female_clothes_secular_french_nobility_07_low					
+				1 = female_clothes_secular_french_nobility_07_low	
+                ###HRE DLC clothes
+				1 = female_clothes_secular_french_nobility_02_low
+				1 = female_clothes_secular_french_nobility_03_low				
 			}
 
 			boy = male
@@ -1780,21 +1784,23 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_secular_french_nobility_01_high
-				1 = male_clothes_secular_french_nobility_02_high
-				1 = male_clothes_secular_french_nobility_03_high
 				1 = male_clothes_secular_french_nobility_04_high	
 				1 = male_clothes_secular_french_nobility_05_high
-				1 = male_clothes_secular_french_nobility_06_high				
+				1 = male_clothes_secular_french_nobility_06_high	
+                ###HRE DLC clothes		
+				1 = male_clothes_secular_french_nobility_02_high
+				1 = male_clothes_secular_french_nobility_03_high				
 			}
 
 			female = {
 				1 = female_clothes_secular_french_nobility_01_high
-				1 = female_clothes_secular_french_nobility_02_high
-				1 = female_clothes_secular_french_nobility_03_high
 				1 = female_clothes_secular_french_nobility_04_high	
 				1 = female_clothes_secular_french_nobility_05_high		
 				1 = female_clothes_secular_french_nobility_06_high		
-				1 = female_clothes_secular_french_nobility_07_high						
+				1 = female_clothes_secular_french_nobility_07_high	
+                ###HRE DLC clothes
+				1 = female_clothes_secular_french_nobility_02_high
+				1 = female_clothes_secular_french_nobility_03_high				
 			}
 
 			boy = male
@@ -1805,12 +1811,15 @@ accessory_genes = {
 			index = 96
 
 			male = {
-				2 = male_clothes_secular_french_war_nobility_01_low
-				1 = male_clothes_secular_french_war_nobility_02_low				
+				1 = male_clothes_secular_french_war_nobility_02_low		
+                ###HRE DLC clothes
+				2 = male_clothes_secular_french_war_nobility_01_low				
 			}
 
 			female = {
-				1 = female_clothes_secular_french_war_nobility_01_low
+				1 = female_clothes_secular_french_war_nobility_02_low		
+                ###HRE DLC clothes			
+				2 = female_clothes_secular_french_war_nobility_01_low
 			}
 
 			boy = male
@@ -1825,6 +1834,8 @@ accessory_genes = {
 			male = {
 			    1 = male_clothes_secular_italian_nobility_01_common
 				1 = male_clothes_secular_italian_nobility_02_common
+				1 = male_clothes_secular_italian_nobility_05_common				
+                ###HRE DLC clothes
 				1 = male_clothes_secular_italian_nobility_03_common
 				1 = male_clothes_secular_italian_nobility_04_common					
 			}
@@ -1833,8 +1844,9 @@ accessory_genes = {
 				1 = female_clothes_secular_italian_nobility_01_common
 				1 = female_clothes_secular_italian_nobility_02_common
 				1 = female_clothes_secular_italian_nobility_03_common
+                ###HRE DLC clothes
 				1 = female_clothes_secular_italian_nobility_04_common	
-				1 = female_clothes_secular_italian_nobility_05_common						
+				1 = female_clothes_secular_italian_nobility_05_common				
 			}
 
 			boy = male
@@ -1847,17 +1859,19 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_secular_italian_nobility_01_low
 				1 = male_clothes_secular_italian_nobility_02_low
+				1 = male_clothes_secular_italian_nobility_05_low				
+                ###HRE DLC clothes
 				1 = male_clothes_secular_italian_nobility_03_low
-				1 = male_clothes_secular_italian_nobility_04_low						
+				1 = male_clothes_secular_italian_nobility_04_low					
 			}
 
 			female = {
 				1 = female_clothes_secular_italian_nobility_01_low
 				1 = female_clothes_secular_italian_nobility_02_low
 				1 = female_clothes_secular_italian_nobility_03_low
+                ###HRE DLC clothes
 				1 = female_clothes_secular_italian_nobility_04_low	
-				1 = female_clothes_secular_italian_nobility_05_low
-					
+				1 = female_clothes_secular_italian_nobility_05_low									
 			}
 
 			boy = male
@@ -1870,16 +1884,19 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_secular_italian_nobility_01_high
 				1 = male_clothes_secular_italian_nobility_02_high
+				1 = male_clothes_secular_italian_nobility_05_high				
+                ###HRE DLC clothes
 				1 = male_clothes_secular_italian_nobility_03_high
-				1 = male_clothes_secular_italian_nobility_04_high					
+				1 = male_clothes_secular_italian_nobility_04_high				
 			}
 
 			female = {
 				1 = female_clothes_secular_italian_nobility_01_high
 				1 = female_clothes_secular_italian_nobility_02_high
-				1 = female_clothes_secular_italian_nobility_03_high
+				1 = female_clothes_secular_italian_nobility_03_high	
+                ###HRE DLC clothes
 				1 = female_clothes_secular_italian_nobility_04_high	
-				1 = female_clothes_secular_italian_nobility_05_high								
+				1 = female_clothes_secular_italian_nobility_05_high					
 			}
 
 			boy = male
