@@ -2911,6 +2911,7 @@ accessory_genes = {
 				2 = male_headgear_secular_mena_common_01
 				2 = male_headgear_secular_dde_abbasid_common_01
 				2 = male_headgear_secular_dde_abbasid_common_02
+				2 = male_headgear_secular_iranian_cfp_panel_common_01
 			}
 			female = {
 				2 = female_headgear_iranian_qub_01_common			
@@ -2942,6 +2943,9 @@ accessory_genes = {
 				3 = male_headgear_secular_mena_nobility_01
 				3 = male_headgear_secular_dde_abbasid_high_nobility_01
 				3 = male_headgear_secular_dde_abbasid_common_01
+				3 = male_headgear_secular_iranian_cfp_qalansuwah_low_01
+				3 = male_headgear_secular_iranian_cfp_qalansuwah_low_02	
+				3 = male_headgear_secular_iranian_cfp_panel_low_01
             }
             female = {
                 #12 = empty
@@ -2971,6 +2975,7 @@ accessory_genes = {
 				3 = male_headgear_secular_iranian_qalansuwwa_06_high
 				3 = male_headgear_secular_mena_nobility_01
 				3 = male_headgear_secular_mena_high_nobility_01
+				3 = male_headgear_secular_iranian_cfp_qalansuwah_high_01
 				
 			}
 			female = {
