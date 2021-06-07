@@ -1992,8 +1992,7 @@ accessory_genes = {
 		
 		french_common = {
 			index = 103
-			male = {
-				1 = male_headgear_secular_dde_hre_common_01			
+			male = {	
 				1 = male_headgear_secular_western_common_01
 				1 = male_headgear_secular_western_common_02
 				5 = male_headgear_secular_byzantine_common_01				
@@ -2015,8 +2014,6 @@ accessory_genes = {
 		french_nobility = {
             index = 104
             male = {
-				1 = male_headgear_secular_dde_hre_common_01					
-				1 = male_headgear_secular_dde_hre_common_02
 				1 = male_headgear_secular_french_nobility_01
 				1 = male_Circlets_Western_Small_Gold_Pearls
 				1 = male_Circlets_Western_Small_Silver_Pearls
@@ -2031,9 +2028,7 @@ accessory_genes = {
                 10 = female_headgear_secular_western_nobility_01
                 10 = female_headgear_secular_western_nobility_01_2
 				10 = female_headgear_secular_western_nobility_02
-				10 = female_headgear_secular_western_nobility_03
-				10 = female_headgear_secular_dde_hre_common_02
-				10 = female_headgear_secular_dde_hre_common_01					
+				10 = female_headgear_secular_western_nobility_03			
             }
             boy = male
             girl = female
@@ -2135,8 +2130,7 @@ accessory_genes = {
 			index = 109
 			male = {
 				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01	
-				1 = male_headgear_secular_dde_hre_war_nobility_01				
+				1 = male_headgear_secular_crusades_western_war_nobility_01				
 				1 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
 				1 = male_high_west_phrygian_01	
@@ -2157,7 +2151,6 @@ accessory_genes = {
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
 				1 = female_headgear_secular_crusades_western_war_nobility_01
-				1 = female_headgear_secular_dde_hre_war_nobility_01		
             ####CFP western war headgears
 				1 = female_headgear_secular_western_war_kettle_hat_01
 				1 = female_headgear_secular_western_war_kettle_hat_02
@@ -2177,8 +2170,7 @@ accessory_genes = {
 ## italian ##		
 		italian_common = {
 			index = 110
-			male = {
-				1 = male_headgear_secular_dde_hre_common_01			
+			male = {	
 				1 = male_headgear_secular_western_common_01
 				1 = male_headgear_secular_western_common_02
 				1 = male_headgear_secular_rtt_nobility_01_low	
@@ -2189,9 +2181,7 @@ accessory_genes = {
 			}
 			female = {
 				20 = empty
-				5 = female_headgear_secular_french_common_01						
-				3 = female_headgear_secular_dde_hre_common_02				
-				5 = female_headgear_secular_dde_hre_common_01				
+				5 = female_headgear_secular_french_common_01										
                 5 = female_headgear_secular_western_nobility_01
                 5 = female_headgear_secular_western_nobility_01_2
 				5 = female_headgear_secular_western_nobility_02
@@ -2222,8 +2212,8 @@ accessory_genes = {
 				10 = female_headgear_secular_western_nobility_03
 				10 = female_headgear_secular_dde_hre_common_02
 				10 = female_headgear_secular_dde_hre_common_01
-				1 = Pointed_Toque_Hair_Chinstrap
-                1 = Women_Hair_Alternate_13th_Century		
+				10 = Pointed_Toque_Hair_Chinstrap
+                10 = Women_Hair_Alternate_13th_Century		
            ####CFP latin headgears
 				1 = female_headgear_secular_latin_cfp_high_nobility_01		   
             }
@@ -2233,9 +2223,7 @@ accessory_genes = {
 
 		italian_high_nobility = {
 			index = 112
-			male = {
-				2 = male_headgear_secular_dde_hre_high_nobility_02
-				2 = male_headgear_secular_dde_hre_high_nobility_03			
+			male = {	
 				1 = male_headgear_secular_western_high_nobility_01
 				1 = male_Circlet_High_Noble_Headwear_Silver_01
 				1 = male_Circlet_High_Noble_Headwear_Gold_02				
@@ -2293,9 +2281,7 @@ accessory_genes = {
 		   
             }
             female = {
-				2 = female_headgear_secular_dde_hre_royalty_01
-				2 = female_hre_royalty_Headvail_01					
-				2 = female_hre_royalty_covervail_01					
+				2 = female_headgear_secular_dde_hre_royalty_01				
                 1 = female_headgear_secular_western_royalty_01
                 1 = female_headgear_secular_western_royalty_02
 				1 = female_Western_Royal_Crown_03					
@@ -2338,9 +2324,7 @@ accessory_genes = {
 
 		italian_war = {
 			index = 115
-			male = {				
-				1 = male_headgear_secular_dde_hre_war_nobility_02	
-				1 = male_headgear_secular_dde_hre_war_nobility_02b						
+			male = {								
 				1 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
 				2 = male_high_west_phrygian_01	
@@ -2356,7 +2340,6 @@ accessory_genes = {
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
 				1 = female_headgear_secular_crusades_western_war_nobility_01
-				1 = female_headgear_secular_dde_hre_war_nobility_01	
            ####CFP latin war headgears
 				1 = female_headgear_secular_latin_war_flat_top_01
 				1 = female_headgear_secular_latin_war_flat_top_02
@@ -2451,8 +2434,6 @@ accessory_genes = {
 				1 = male_Circlets_Western_Small_Simple_silver
 				1 = male_Circlets_Western_Small_Jewells
 				1 = male_Circlets_Western_Small_Jewells_silver	
-				1 = male_headgear_secular_dde_hre_common_01					
-				1 = male_headgear_secular_dde_hre_common_02
 				1 = male_headgear_secular_french_nobility_01					
             }
             female = {
@@ -2467,9 +2448,7 @@ accessory_genes = {
                 10 = female_headgear_secular_western_nobility_01
                 10 = female_headgear_secular_western_nobility_01_2
 				10 = female_headgear_secular_western_nobility_02
-				10 = female_headgear_secular_western_nobility_03
-				10 = female_headgear_secular_dde_hre_common_02
-				10 = female_headgear_secular_dde_hre_common_01					
+				10 = female_headgear_secular_western_nobility_03				
             }
             boy = male
             girl = female
@@ -2502,9 +2481,7 @@ accessory_genes = {
                 10 = female_headgear_secular_western_nobility_01
                 10 = female_headgear_secular_western_nobility_01_2
 				10 = female_headgear_secular_western_nobility_02
-				10 = female_headgear_secular_western_nobility_03
-				10 = female_headgear_secular_dde_hre_common_02
-				10 = female_headgear_secular_dde_hre_common_01					
+				10 = female_headgear_secular_western_nobility_03			
             }
             boy = male
             girl = female
