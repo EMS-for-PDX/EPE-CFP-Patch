@@ -1747,6 +1747,10 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_mena_war_nobility_01
 				1 = male_headgear_secular_crusades_mena_war_nobility_01
+				1 = male_Seljuk_Warrior_Helmet_01
+				1 = male_Seljuk_Warrior_Helmet_02
+				1 = male_seljuk_war_helmet_03	
+				1 = male_seljuk_war_helmet_04	
 				
 			}
 			female = {
