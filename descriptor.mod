@@ -1,8 +1,8 @@
-version="1.3.1"
+version="1.4.0"
 tags={
 	"Graphics"
 	"Portraits"
 	"Culture"
 }
 name="EPE-CFP-Patch"
-supported_version="1.3.1"
+supported_version="1.4.0"
