@@ -32,7 +32,9 @@ accessory_genes = {
             ####cfp western_crusades
 					1 = male_clothes_secular_crusades_western_war_nobility_05_common
 					1 = male_clothes_secular_crusades_western_war_nobility_06_common
-					
+            ####CFP west african 	
+					1 = male_clothes_secular_africa_central_cfp_war_padded_01
+					1 = male_clothes_secular_africa_central_cfp_war_padded_02					
 			}
 			
 			female = {
@@ -45,7 +47,9 @@ accessory_genes = {
             ####cfp western_crusades
 					1 = female_clothes_secular_crusades_western_war_nobility_05_common
 					1 = female_clothes_secular_crusades_western_war_nobility_06_common
-					
+            ####CFP west african 
+					1 = female_clothes_secular_africa_central_cfp_war_padded_01
+					1 = female_clothes_secular_africa_central_cfp_war_padded_02			
 			}
 			
 			boy = male
@@ -776,13 +780,15 @@ accessory_genes = {
 		sub_saharan_war_nobility_clothes = {
 			index = 41
 
-			male = {
-				1 = male_clothes_secular_mena_war_nobility_01_low
-			}
+				male = {
+					2 = male_clothes_secular_africa_central_cfp_war_padded_01
+					2 = male_clothes_secular_africa_central_cfp_war_padded_02
+				}
 
-			female = {
-				1 = female_clothes_secular_mena_war_nobility_01_low
-			}
+				female = {
+					2 = female_clothes_secular_africa_central_cfp_war_padded_01
+					2 = female_clothes_secular_africa_central_cfp_war_padded_02
+				}
 			boy = male
 			girl = female
 		}
@@ -993,7 +999,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		religious_dde_muslim_head_clothes = {
+		religious_muslim_head_clothes = {
 			index = 53
 
 			male = {
@@ -1390,15 +1396,15 @@ accessory_genes = {
 		sub_saharan_war_nobility_tribal_clothes = {
 			index = 75
 
-			male = {
-				1 = male_clothes_secular_sub_saharan_nobility_01_common
-				1 = male_clothes_secular_sub_saharan_nobility_02_common
-			}
+				male = {
+					2 = male_clothes_secular_africa_central_cfp_war_padded_01
+					2 = male_clothes_secular_africa_central_cfp_war_padded_02
+				}
 
-			female = {
-				1 = female_clothes_secular_sub_saharan_nobility_01_common
-				1 = female_clothes_secular_sub_saharan_nobility_02_common
-			}
+				female = {
+					2 = female_clothes_secular_africa_central_cfp_war_padded_01
+					2 = female_clothes_secular_africa_central_cfp_war_padded_02
+				}
 			boy = male
 			girl = female
 		}

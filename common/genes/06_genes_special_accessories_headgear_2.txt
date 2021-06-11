@@ -453,8 +453,96 @@ accessory_genes = {
             girl = female
 		}		
 		
-		
-		
+###Sub Saharan Tribal		
+		sub_saharan_tribal_common = {
+			index = 27
+			male = {
+				15 = empty		
+			}
+			female = {
+				10 = empty
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		sub_saharan_tribal_low_nobility = {
+            index = 28
+			male = {
+				1 = empty			
+            ####CFP central african headgears	
+				1 = male_headgear_secular_africa_central_cfp_low_nobility_01
+				1 = male_headgear_secular_africa_central_cfp_low_nobility_02
+				
+			}
+			female = {
+				1 = empty				
+            ####CFP central african headgears	
+				2 = female_headgear_secular_africa_central_cfp_low_nobility_01
+				
+			}
+            boy = male
+            girl = female
+        }		
+
+        sub_saharan_tribal_high_nobility = {
+            index = 29
+			male = {
+            ####CFP central african headgears	
+                1 = male_headgear_secular_africa_central_cfp_high_nobility_01
+				
+			}
+			female = {
+            ####CFP central african headgears	
+            	1 = female_headgear_secular_africa_central_cfp_high_nobility_01
+				
+			}
+            boy = male
+            girl = female
+        }
+
+		sub_saharan_tribal_royalty = {
+			index = 30
+			male = {
+				1 = male_headgear_secular_western_high_nobility_01
+			}
+			female = {
+				1 = female_headgear_secular_western_high_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		sub_saharan_tribal_imperial = {
+			index = 31
+			male = {
+				1 = male_headgear_secular_western_high_nobility_01
+			}
+			female = {
+				1 = female_headgear_secular_western_high_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		sub_saharan_tribal_war = {
+			index = 32
+			male = {
+            ####CFP west african war headgears	
+                1 = male_headgear_secular_africa_west_cfp_helmet_01
+			
+			}
+			female = {
+            ####CFP west african war headgears	
+            	1 = female_headgear_secular_africa_west_cfp_helmet_01
+				
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
