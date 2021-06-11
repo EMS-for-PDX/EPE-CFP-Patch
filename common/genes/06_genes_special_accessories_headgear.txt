@@ -966,6 +966,7 @@ accessory_genes = {
 			index = 30
 			male = {
 				1 = male_headgear_secular_dde_abbasid_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01
            ####CFP iranian war headgears
 				1 = male_headgear_secular_iranian_cfp_war_mail_coif_01
 				1 = male_headgear_secular_iranian_cfp_war_quilted_01
@@ -973,6 +974,7 @@ accessory_genes = {
 				1 = male_headgear_secular_iranian_cfp_war_leather_01 					
 			}
 			female = {
+				1 = female_headgear_secular_crusades_mena_war_nobility_01
 				1 = female_headgear_secular_dde_abbasid_war_nobility_01
            ####CFP iranian war headgears				
 				1 = female_headgear_secular_iranian_cfp_war_mail_coif_01
@@ -2779,6 +2781,7 @@ accessory_genes = {
 			index = 132
 			male = {
 				1 = male_headgear_secular_dde_abbasid_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01
            ####CFP iranian war headgears
 				1 = male_headgear_secular_iranian_cfp_war_mail_coif_01
 				1 = male_headgear_secular_iranian_cfp_war_quilted_01
@@ -2788,6 +2791,7 @@ accessory_genes = {
 			}
 			female = {
 				1 = female_headgear_secular_dde_abbasid_war_nobility_01
+				1 = female_headgear_secular_crusades_mena_war_nobility_01
            ####CFP iranian war headgears				
 				1 = female_headgear_secular_iranian_cfp_war_mail_coif_01
 				1 = female_headgear_secular_iranian_cfp_war_quilted_01
