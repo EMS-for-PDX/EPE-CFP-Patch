@@ -61,7 +61,10 @@ special_genes = {
 				1 = cfp_male_hair_steppe_01
 				1 = cfp_male_hair_steppe_02
 				1 = cfp_male_hair_steppe_03
-				1 = cfp_male_hair_steppe_04				
+				1 = cfp_male_hair_steppe_04	
+				1 = cfp_male_hair_sub_saharan_01
+				1 = cfp_male_hair_sub_saharan_02
+				1 = cfp_male_hair_sub_saharan_03				
 			}
 
 			female = {
@@ -110,7 +113,8 @@ special_genes = {
 				1 = cfp_female_hair_indian_03	
 				1 = cfp_female_hair_steppe_01
 				1 = cfp_female_hair_steppe_02	
-				
+				1 = cfp_female_hair_african_01
+				1 = cfp_female_hair_african_02				
 			}
 			boy = male
 			girl = female
@@ -431,6 +435,9 @@ special_genes = {
 				set_tags = "very_curly_hair"
 				male = {
 					2 = male_hair_sub_saharan_01 # Short african 
+					2 = cfp_male_hair_sub_saharan_01 # Short african 
+					2 = cfp_male_hair_sub_saharan_02 # Short african 
+					2 = cfp_male_hair_sub_saharan_03 # Short african 
 					2 = male_hair_sub_saharan_02 # Small afro
 					2 = male_hair_sub_saharan_03 # Short dreads
 				}
@@ -439,6 +446,8 @@ special_genes = {
 					2 = female_hair_sub_saharan_01 # Medium afro
 					2 = female_hair_sub_saharan_02 # Long Rasta braids
 					2 = female_hair_sub_saharan_03 # Short Rasta braids
+					2 = cfp_female_hair_african_01 # Twisted Cornrows
+					2 = cfp_female_hair_african_02 # Straight Cornrows
 				}
 				boy = male
 				girl = female
