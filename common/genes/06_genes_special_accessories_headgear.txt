@@ -5339,11 +5339,11 @@ accessory_genes = {
 		italian_war_closed = {
 			index = 254
 			male = {
-				5 = male_norman_fpl_helmet_01
-				5 = male_norman_fpl_helmet_02	
+				3 = male_norman_fpl_helmet_01
+				2 = male_norman_fpl_helmet_02	
             ####CFP norman sicily war headgears					
-				5 = male_headgear_secular_latin_war_norman_01
-				5 = male_headgear_secular_latin_war_norman_02						
+				1 = male_headgear_secular_latin_war_norman_01
+				1 = male_headgear_secular_latin_war_norman_02						
 					
 			}
 			female = {
