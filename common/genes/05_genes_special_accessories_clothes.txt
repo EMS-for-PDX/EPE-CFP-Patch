@@ -2143,8 +2143,8 @@ accessory_genes = {
 			}
 
 			female = {
-				2 = female_clothes_secular_east_african_04_low_nobility
-				2 = female_clothes_secular_east_african_03_low
+				1 = female_clothes_secular_east_african_04_low_nobility
+				1 = female_clothes_secular_east_african_03_low
 				2 = female_clothes_secular_east_african_05_low_nobility
 			}
 
@@ -2161,8 +2161,8 @@ accessory_genes = {
 			}
 
 			female = {
-				2 = female_clothes_secular_east_african_03_high
-				2 = female_clothes_secular_east_african_04_high_nobility
+				1 = female_clothes_secular_east_african_03_high
+				1 = female_clothes_secular_east_african_04_high_nobility
 				2 = female_clothes_secular_east_african_05_high_nobility
 			}
 
