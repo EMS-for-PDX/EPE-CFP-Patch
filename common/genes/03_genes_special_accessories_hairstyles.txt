@@ -50,6 +50,18 @@ special_genes = {
 				1 = male_hair_northern_03
 				1 = male_hair_steppe_01
 				1 = male_hair_steppe_02
+               ##EPE
+				1 = male_hair_ethiopian_01
+				1 = male_hair_ethiopian_02
+				1 = male_hair_ethiopian_03						
+				1 = male_hair_iranian_01						
+				1 = male_hair_turkic_01
+				1 = male_hair_turkic_02	
+				1 = male_hair_turkic_03		
+				1 = male_hair_turkic_04	
+				1 = male_hair_turkic_05				
+				1 = male_hair_turkic_06	
+			   
                ###CFP hairstyles
 				1 = cfp_male_hair_bald_western_01
 				1 = cfp_male_hair_bald_western_02
@@ -98,12 +110,30 @@ special_genes = {
 				1 = female_hair_steppe_01
 				1 = female_hair_steppe_02
                ##EPE
+				1 = female_hair_ethiopian_03
+				1 = female_hair_ethiopian_03_jewelry				
+                #1 = female_hair_ethiopian_04
+				1 = female_hair_ethiopian_05				
+                1 = female_hair_ethiopian_05_v2				   
 				1 = female_hair_western_cover				   
 				1 = female_hair_turko_iranian_01
 				1 = female_hair_turko_iranian_01a
 				1 = female_hair_turko_iranian_02	
 				1 = female_hair_turko_iranian_02a
-				1 = female_hair_turko_iranian_03					
+				1 = female_hair_turko_iranian_03
+				1 = female_hair_custom_01
+				1 = female_hair_custom_02
+				1 = female_hair_custom_03
+				1 = female_hair_custom_04
+				1 = female_hair_custom_05
+				1 = female_hair_custom_06
+				1 = female_hair_custom_07
+				1 = female_hair_custom_08	
+				1 = female_hair_sogdian_01	
+				1 = female_hair_sogdian_02					
+				1 = female_hair_sogdian_03
+				1 = female_hair_sogdian_04
+				1 = female_hair_turkic_01						
                ###CFP hairstyles
 				1 = cfp_female_hair_mena_01
 				1 = cfp_female_hair_mena_02
