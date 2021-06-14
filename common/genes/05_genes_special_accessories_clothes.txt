@@ -2174,13 +2174,13 @@ accessory_genes = {
 			index = 114
 
 			male = {
-				1 = male_clothes_secular_mena_nobility_01_high
-				1 = male_clothes_secular_mena_nobility_02_high
+				1 = male_clothes_secular_sub_saharan_nobility_01_high
+				1 = male_clothes_secular_sub_saharan_nobility_02_high
 			}
 
 			female = {
-				1 = female_clothes_secular_mena_nobility_01_high
-				1 = female_clothes_secular_mena_nobility_02_high
+				1 = female_clothes_secular_sub_saharan_nobility_01_high
+				1 = female_clothes_secular_sub_saharan_nobility_02_high
 			}
 
 			boy = male
@@ -2191,13 +2191,13 @@ accessory_genes = {
 			index = 115
 
 			male = {
-				1 = male_clothes_secular_mena_nobility_01_high
-				1 = male_clothes_secular_mena_nobility_02_high
+				1 = male_clothes_secular_sub_saharan_nobility_01_high
+				1 = male_clothes_secular_sub_saharan_nobility_02_high
 			}
 
 			female = {
-				1 = female_clothes_secular_mena_nobility_01_high
-				1 = female_clothes_secular_mena_nobility_02_high
+				1 = female_clothes_secular_sub_saharan_nobility_01_high
+				1 = female_clothes_secular_sub_saharan_nobility_02_high
 			}
 
 			boy = male
@@ -2208,13 +2208,13 @@ accessory_genes = {
 		east_african_war_nobility_clothes = {
 			index = 116
 
-			male = {
-				1 = male_clothes_secular_northern_war_nobility_01_common
-			}
+				male = {
+					1 = male_clothes_secular_africa_east_cfp_war_mail_01
+				}
 
-			female = {
-				1 = female_clothes_secular_northern_war_nobility_01	
-			}
+				female = {
+					1 = female_clothes_secular_africa_east_cfp_war_mail_01
+				}
 
 			boy = male
 			girl = female

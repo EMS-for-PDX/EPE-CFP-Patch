@@ -469,9 +469,10 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
-            ####CFP western headgears		
+            ####CFP western headgears			
 				1 = male_headgear_secular_western_cfp_royalty_01
-				#1 = male_headgear_secular_western_cfp_royalty_02						
+				#1 = male_headgear_secular_western_cfp_royalty_02	
+				1 = male_headgear_secular_western_cfp_royalty_03					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -483,9 +484,10 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
 				1 = female_crown_royalty_covervail_03	
-            ####CFP western headgears	
+            ####CFP western headgears		
 				1 = female_headgear_secular_western_cfp_royalty_01
-				#1 = female_headgear_secular_western_cfp_royalty_02						
+				#1 = female_headgear_secular_western_cfp_royalty_02	
+				1 = female_headgear_secular_western_cfp_royalty_03					
 			}
 			boy = male
             girl = female
@@ -1931,9 +1933,6 @@ accessory_genes = {
             girl = female
 		}
 ###free space to used
-#index = 89
-#index = 90
-#index = 91
 #index = 92
 #index = 93
 #index = 94
@@ -1954,20 +1953,32 @@ accessory_genes = {
 		sub_saharan_war = {
 			index = 90
 			male = {
-            ####CFP central african war headgears
-                1 = male_headgears_secular_africa_central_cfp_war_padded_01
-                1 = male_headgears_secular_africa_central_cfp_war_padded_02
+				1 = male_headgear_secular_crusades_mena_war_nobility_01
 				
 			}
 			female = {
-            ####CFP central african war headgears
-            	1 = female_headgears_secular_africa_central_cfp_war_padded_01
-            	1 = female_headgears_secular_africa_central_cfp_war_padded_02
+				1 = female_headgear_secular_crusades_mena_war_nobility_01
 				
 			}
 			boy = male
             girl = female
-		}		
+		}	
+		sub_saharan_low_nobility = {
+			index = 91
+			male = {
+            ####CFP west african headgears	
+                1 = male_headgear_secular_africa_west_cfp_low_nobility_01
+                1 = male_headgear_secular_africa_west_cfp_low_nobility_02				
+		
+			}
+			female = {
+            ####CFP west african headgears	
+            	1 = female_headgear_secular_africa_west_cfp_low_nobility_01
+            	1 = female_headgear_secular_africa_west_cfp_low_nobility_02				
+			}
+			boy = male
+            girl = female
+		}
 		
 
 ####SOUTH iNDIA
@@ -3345,7 +3356,9 @@ accessory_genes = {
 		fp1_royalty = {
 			index = 162
 			male = {
-				1 = male_headgear_secular_fp1_royalty_01
+				3 = male_headgear_secular_fp1_royalty_01
+				1 = male_headgear_secular_fp1_cfp_royalty_01
+				
 
 			}
 			female = {
