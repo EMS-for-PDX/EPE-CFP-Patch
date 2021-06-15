@@ -903,6 +903,7 @@ accessory_genes = {
 			index = 26
 			male = {
 				1 = male_headgear_secular_dde_hre_royalty_02
+				1 = male_headgear_secular_western_cfp_imperial_01
 			}
 			female = {
 				1 = female_headgear_secular_dde_hre_royalty_01
