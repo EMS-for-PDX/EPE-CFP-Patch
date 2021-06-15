@@ -5323,10 +5323,12 @@ accessory_genes = {
         lombard_iron_crown = {
             index = 252
             male = {
-				1 = male_iron_crown_of_lombardy_01	
+				1 = male_iron_crown_of_lombardy_01
+				1 = male_headgear_secular_latin_cfp_icol_01
             }
             female = {
-                1 = female_iron_crown_of_lombardy_01					
+                1 = female_iron_crown_of_lombardy_01	
+				1 = female_headgear_secular_latin_cfp_icol_01			
             }
             boy = male
             girl = female
