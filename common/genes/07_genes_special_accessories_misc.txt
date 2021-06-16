@@ -686,7 +686,17 @@ accessory_genes = {
 		}
 
 
-
+###German
+		german_royalty = {
+			index = 21
+			male = {
+				1 = male_cloaks_epe_german_royalty_01
+			}
+			female = {
+				1 = female_cloaks_epe_german_royalty_01
+				1 = female_cloaks_epe_german_royalty_01a				
+			}
+		}
 
 
 
