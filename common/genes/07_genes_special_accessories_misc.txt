@@ -447,7 +447,7 @@ accessory_genes = {
 			index = 6
 			male = {
 				1 = male_cloak_early_iranian_nobility
-				1 = male_cloak_early_iranian_nobility_v2				
+				5 = male_cloak_early_iranian_nobility_v2				
 			}
 			female = {
 				1 = empty
