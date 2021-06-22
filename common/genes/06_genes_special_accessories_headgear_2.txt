@@ -76,22 +76,31 @@ accessory_genes = {
 ##Early  medieval 
 		early_era_western_war = {
 			index = 4
-			male = {				
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01				
+			male = {
+			####Early era helmets			
+				1 = male_western_crossband_helmet_01	
+				1 = male_western_Nasal_Helmet_01	
+				1 = male_western_Nasal_Helmet_02
+				1 = male_western_Nasal_Helmet_03	
+				1 = male_western_Nasal_Helmet_01_coifless
+				1 = male_western_Nasal_Helmet_02_coifless
+				1 = male_western_Nasal_Helmet_03_coifless					
+######################################################################						
 				1 = male_early_west_nasalhelm_01
-				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03							
+				1 = male_early_west_nasalhelm_02							
 			}
 			female = {
-				1 = female_headgear_secular_western_war_nobility_01
-				1 = female_headgear_secular_crusades_western_war_nobility_01				
+				1 = female_western_crossband_helmet_01
+				1 = female_western_Nasal_Helmet_01	
+				1 = female_western_Nasal_Helmet_02		
+				1 = female_western_Nasal_Helmet_03	
+				1 = female_western_Nasal_Helmet_01_coifless		
+				1 = female_western_Nasal_Helmet_02_coifless		
+				1 = female_western_Nasal_Helmet_03_coifless						
 			}
 			boy = male
             girl = female
-		}			
+		}					
 		
 		
 ##High medieval 

@@ -1010,6 +1010,7 @@ accessory_genes = {
 		northern_war = {
 			index = 32
 			male = {
+				1 = male_norse_gjermundbu_01t				
 				1 = male_headgear_secular_northern_war_nobility_01
             ####CFP northern war headgears	
 				1 = male_headgear_secular_northern_war_nobility_02
@@ -1020,6 +1021,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_war_mail_coif_02					
 				}
 			female = {
+				1 = female_norse_gjermundbu_01t					
 				1 = female_headgear_secular_northern_war_nobility_01
             ####CFP northern war headgears	
 				1 = female_headgear_secular_northern_war_nobility_02
@@ -1528,7 +1530,7 @@ accessory_genes = {
             girl = female
 		}
 
-		religious_dde_muslim_head = {
+		religious_muslim_head = {
 			index = 65
 			male = {
 				1 = male_headgear_religious_dde_muslim_head_01
@@ -3463,6 +3465,7 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp1_war_nobility_01
 				1 = male_headgear_secular_fp1_war_nobility_02
+				1 = male_norse_gjermundbu_01t					
             ####CFP norse war
 				1 = male_headgear_secular_northern_war_viking_01
 				1 = male_headgear_secular_northern_war_viking_02
@@ -3472,6 +3475,7 @@ accessory_genes = {
 			female = {
 				1 = female_headgear_secular_fp1_war_nobility_01	
 				1 = female_headgear_secular_fp1_war_nobility_02	
+				1 = female_norse_gjermundbu_01t					
             ####CFP norse war
 				1 = female_headgear_secular_northern_war_viking_01
 				1 = female_headgear_secular_northern_war_viking_02
@@ -3485,10 +3489,11 @@ accessory_genes = {
 			index = 161
 			male = {
 				1 = male_headgear_secular_fp1_war_nobility_02
-
+				1 = male_norse_gjermundbu_01t
 			}
 			female = {
 				1 = female_headgear_secular_fp1_war_nobility_02	
+				1 = female_norse_gjermundbu_01t					
 						
 			}
 		}
