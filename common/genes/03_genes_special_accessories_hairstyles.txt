@@ -2093,16 +2093,19 @@ special_genes = {
 				boy = male
 				girl = female
 			}
+	
+	##########################################################################
+	####PATCH 1.4.2
+	##########################################################################				
 
-
-			
-
-
- 		
-		
-		
-
-
+			# Harald Fairhair's vow-hair.
+			scripted_character_hairstyles_02 = {
+				index = 83
+				male = { 1 = male_hair_northern_01 }		   
+				female = male
+				boy = male
+				girl = male
+			}
 		}
 
 	}
