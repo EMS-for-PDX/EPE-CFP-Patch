@@ -1251,18 +1251,12 @@ accessory_genes = {
 			index = 46
 			male = {
 				2 = empty
-				5 = male_headgear_secular_sub_saharan_common_01
-            ####CFP west african headgears	
-                1 = male_headgear_secular_africa_west_cfp_low_nobility_01
-                1 = male_headgear_secular_africa_west_cfp_low_nobility_02				
+				5 = male_headgear_secular_sub_saharan_common_01			
 		
 			}
 			female = {
 				5 = empty
-				5 = female_headgear_secular_sub_saharan_common_01
-            ####CFP west african headgears	
-            	1 = female_headgear_secular_africa_west_cfp_low_nobility_01
-            	1 = female_headgear_secular_africa_west_cfp_low_nobility_02				
+				5 = female_headgear_secular_sub_saharan_common_01		
 			}
 			boy = male
             girl = female
@@ -1950,14 +1944,12 @@ accessory_genes = {
 
 		sub_saharan_war = {
 			index = 90
-			male = {
-				1 = male_headgear_secular_crusades_mena_war_nobility_01
-				
-			}
-			female = {
-				1 = female_headgear_secular_crusades_mena_war_nobility_01
-				
-			}
+            male = {
+                1 = male_headgear_secular_africa_west_cfp_helmet_01
+            }
+            female = {
+            	1 = female_headgear_secular_africa_west_cfp_helmet_01
+            }
 			boy = male
             girl = female
 		}	

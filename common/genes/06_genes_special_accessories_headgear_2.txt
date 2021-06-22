@@ -462,8 +462,8 @@ accessory_genes = {
             girl = female
 		}		
 		
-###Sub Saharan Tribal		
-		sub_saharan_tribal_common = {
+###Sub Saharan central african 		
+		central_african_common = {
 			index = 27
 			male = {
 				15 = empty		
@@ -476,7 +476,7 @@ accessory_genes = {
             girl = female
 		}
 
-		sub_saharan_tribal_low_nobility = {
+		central_african_low_nobility = {
             index = 28
 			male = {
 				1 = empty			
@@ -495,7 +495,7 @@ accessory_genes = {
             girl = female
         }		
 
-        sub_saharan_tribal_high_nobility = {
+        central_african_high_nobility = {
             index = 29
 			male = {
             ####CFP central african headgears	
@@ -511,44 +511,44 @@ accessory_genes = {
             girl = female
         }
 
-		sub_saharan_tribal_royalty = {
+		central_african_royalty = {
 			index = 30
 			male = {
-				1 = male_headgear_secular_western_high_nobility_01
+				3 = male_headgear_secular_sub_saharan_royalty_01
+				2 = male_headgear_secular_sub_saharan_royalty_02
+				
 			}
 			female = {
-				1 = female_headgear_secular_western_high_nobility_01
+				1 = female_headgear_secular_mena_royalty_01
 				
 			}
 			boy = male
             girl = female
 		}
 
-		sub_saharan_tribal_imperial = {
+		central_african_imperial = {
 			index = 31
 			male = {
-				1 = male_headgear_secular_western_high_nobility_01
+				2 = male_headgear_secular_sub_saharan_imperial_02
 			}
 			female = {
-				1 = female_headgear_secular_western_high_nobility_01
+				2 = female_headgear_secular_sub_saharan_imperial_02
 				
 			}
 			boy = male
             girl = female
 		}
 
-		sub_saharan_tribal_war = {
+		central_african_war = {
 			index = 32
-			male = {
-            ####CFP west african war headgears	
-                1 = male_headgear_secular_africa_west_cfp_helmet_01
-			
-			}
-			female = {
-            ####CFP west african war headgears	
-            	1 = female_headgear_secular_africa_west_cfp_helmet_01
-				
-			}
+            male = {
+                1 = male_headgears_secular_africa_central_cfp_war_padded_01
+                1 = male_headgears_secular_africa_central_cfp_war_padded_02
+            }
+            female = {
+            	1 = female_headgears_secular_africa_central_cfp_war_padded_01
+            	1 = female_headgears_secular_africa_central_cfp_war_padded_02
+            }
 			boy = male
             girl = female
 		}		
