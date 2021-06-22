@@ -138,15 +138,8 @@ accessory_genes = {
 		late_medieval_era_western_war = {
 			index = 7
 			male = {				
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01				
-				1 = male_early_west_nasalhelm_01
-				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03	
-				1 = male_High_West_Phrygian_Round_Helm_01	
-				1 = male_High_West_Phrygian_Round_Helm_02							
+				5 = male_headgear_secular_western_cfp_war_bascinet_03
+				5 = male_headgear_secular_western_cfp_war_pixane_01						
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
@@ -159,25 +152,24 @@ accessory_genes = {
 		#placeholder
 		late_medieval_era_western_war_closed = {
 			index = 8
-			male = {}
-			female = {}
+			male = {				
+				5 = male_headgear_secular_western_cfp_war_bascinet_01
+				5 = male_headgear_secular_western_cfp_war_bascinet_02						
+			}
+			female = {
+				1 = female_headgear_secular_western_war_nobility_01
+				1 = female_headgear_secular_crusades_western_war_nobility_01				
+			}
 			boy = male
             girl = female
-		}			
+		}		
 				
 ##Late medieval plate armor innovation 
 		late_medieval_era_plate_western_war = {
 			index = 9
 			male = {				
-				1 = male_headgear_secular_western_war_nobility_01
-				1 = male_headgear_secular_crusades_western_war_nobility_01				
-				1 = male_early_west_nasalhelm_01
-				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03	
-				1 = male_High_West_Phrygian_Round_Helm_01	
-				1 = male_High_West_Phrygian_Round_Helm_02							
+				5 = male_headgear_secular_western_cfp_war_bascinet_03
+				5 = male_headgear_secular_western_cfp_war_pixane_01							
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01
@@ -190,8 +182,14 @@ accessory_genes = {
 		#placeholder
 		late_medieval_era_plate_western_war_closed = {
 			index = 10
-			male = {}
-			female = {}
+			male = {				
+				5 = male_headgear_secular_western_cfp_war_bascinet_01
+				5 = male_headgear_secular_western_cfp_war_bascinet_02							
+			}
+			female = {
+				1 = female_headgear_secular_western_war_nobility_01
+				1 = female_headgear_secular_crusades_western_war_nobility_01				
+			}
 			boy = male
             girl = female
 		}							

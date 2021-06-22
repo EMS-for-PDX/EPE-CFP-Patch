@@ -3842,12 +3842,10 @@ accessory_genes = {
 		late_medieval_era_western_war = {
 			index = 196
 			male = {
-				1 = male_clothes_secular_dde_hre_war_nobility_01_low
 				1 = male_clothes_secular_western_war_nobility_01_low			
 			}
 
 			female = {
-				1 = female_clothes_secular_dde_hre_war_nobility_01_low
 				1 = female_clothes_secular_western_war_nobility_01_low				
 			}
 
@@ -3860,12 +3858,12 @@ accessory_genes = {
 		late_medieval_era_plate_western_war = {
 			index = 197
 			male = {
-				1 = male_clothes_secular_dde_hre_war_nobility_01_low
-				1 = male_clothes_secular_western_war_nobility_01_low			
+            ####cfp western_war_late
+					1 = male_clothes_secular_western_cfp_war_plate_01
+					1 = male_clothes_secular_western_cfp_war_plate_02		
 			}
 
 			female = {
-				1 = female_clothes_secular_dde_hre_war_nobility_01_low
 				1 = female_clothes_secular_western_war_nobility_01_low				
 			}
 
