@@ -713,12 +713,14 @@ accessory_genes = {
 		northern_war_nobility_clothes = {
 			index = 37
 
-			male = {
+			male = {		
 				1 = male_clothes_secular_northern_war_nobility_01_common
+				2 = male_clothes_epe_northern_war_nobility_03_common					
 			}
 
-			female = {
+			female = {		
 				1 = female_clothes_secular_northern_war_nobility_01	
+				2 = female_clothes_epe_northern_war_nobility_03_common						
 			}
 			boy = male
 			girl = female
@@ -1725,11 +1727,13 @@ accessory_genes = {
 			index = 92
 
 			male = {
-				2 = male_clothes_secular_northern_war_nobility_01_common
+				1 = male_clothes_epe_early_western_war_nobility_1
+				1 = male_clothes_secular_northern_war_nobility_01_common				
 			}
 
 			female = {
-				2 = female_clothes_secular_northern_war_nobility_01	
+				1 = female_clothes_epe_early_western_war_nobility_1	
+				1 = female_clothes_secular_northern_war_nobility_01					
 			}
 
 			boy = male
@@ -2109,6 +2113,7 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_high_muslim_caliph_01_male
+				1 = male_clothes_religious_dde_muslim_head_01_common
 			}
 
 			female = {
@@ -3817,11 +3822,13 @@ accessory_genes = {
 		tribal_era_western_war = {
 			index = 195
 			male = {
-				1 = male_clothes_secular_northern_war_nobility_01_common
+				1 = male_clothes_epe_early_western_war_nobility_1
+				1 = male_clothes_secular_northern_war_nobility_01_common				
 			}
 
 			female = {
-				1 = female_clothes_secular_northern_war_nobility_01	
+				1 = female_clothes_epe_early_western_war_nobility_1	
+				1 = female_clothes_secular_northern_war_nobility_01					
 			}
 
 			boy = male
