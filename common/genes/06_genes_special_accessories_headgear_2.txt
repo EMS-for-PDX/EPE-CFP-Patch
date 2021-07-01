@@ -551,6 +551,86 @@ accessory_genes = {
             girl = female
 		}		
 		
+##########################################################################
+####frankish 
+##########################################################################
+		frankish_common = {
+			index = 33
+			male = {
+				1 = male_headgear_secular_western_common_01
+				1 = male_headgear_secular_western_common_02
+			}
+			female = {
+				5 = empty
+                5 = female_frankish_commoner_veil_01
+                5 = female_frankish_commoner_veil_02
+			}
+			boy = male
+            girl = female
+		}
+		
+		frankish_low_nobility = {
+            index = 34
+            male = {
+				1 = empty
+				1 = male_fra_hair_headband_headgear_01_low
+            }
+            female = {
+				2 = female_frankish_noble_veil_01	
+				2 = female_frankish_noble_veil_02	
+            }
+            boy = male
+            girl = female
+        }
+
+		frankish_high_nobility = {
+			index = 35
+			male = {
+				1 = male_frankish_noble_crown_1
+				1 = male_frankish_noble_crown_2				
+			}
+			female = {
+				1 = empty						
+			}
+			boy = male
+            girl = female
+		}
+
+		frankish_royalty = {
+			index = 36
+			male = {
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_Western_Royal_Crown_03				
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03					
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03						
+			}
+			boy = male
+            girl = female
+		}
+
+
+		frankish_imperial = {
+			index = 37
+			male = {
+				1 = male_crown_of_otto_II
+			}
+			female = {
+				1 = empty						
+			}
+			boy = male
+            girl = female
+		}
+
 		
 		
 		

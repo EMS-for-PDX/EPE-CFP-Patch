@@ -724,8 +724,29 @@ accessory_genes = {
 ####Frankish
 ##########################################################################
 
-		frankish_royalty = {
+		frankish_low_noble = {
 			index = 23
+			male = {
+				1 = male_frankish_low_sagum_01
+			}
+			female = {
+				1 = empty			
+			}
+		}
+
+		frankish_high_noble = {
+			index = 24
+			male = {
+				1 = male_frankish_high_sagum_01
+			}
+			female = {
+				1 = empty			
+			}
+		}
+
+
+		frankish_royalty = {
+			index = 25
 			male = {
 				1 = male_frankish_royal_sagum_01
 			}
@@ -734,9 +755,6 @@ accessory_genes = {
 				1 = female_cloaks_secular_western_royalty_02a				
 			}
 		}
-
-
-
 
 
 

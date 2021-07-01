@@ -476,6 +476,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
             ####CFP western headgears			
 				1 = male_headgear_secular_western_cfp_royalty_01
 				#1 = male_headgear_secular_western_cfp_royalty_02	
@@ -491,6 +492,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
 				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
             ####CFP western headgears		
 				1 = female_headgear_secular_western_cfp_royalty_01
 				#1 = female_headgear_secular_western_cfp_royalty_02	
@@ -538,8 +542,11 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_02
 				1 = female_crown_royalty_headvail_03	
 				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
             ####CFP western headgears				
-				1 = female_headgear_secular_western_cfp_imperial_01						
+				2 = female_headgear_secular_western_cfp_imperial_01						
 			}
 			boy = male
             girl = female
@@ -2082,7 +2089,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -2093,7 +2101,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -2106,6 +2117,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -2115,7 +2127,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
 			}
 			boy = male
             girl = female
@@ -2306,7 +2321,8 @@ accessory_genes = {
             male = {
                 1 = male_headgear_secular_western_royalty_01
                 1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03							
+				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
             }
             female = {
                 1 = female_headgear_secular_western_royalty_01
@@ -2317,7 +2333,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
             }
             boy = male
             girl = female
@@ -2339,7 +2358,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
             }
             boy = male
             girl = female
@@ -2509,6 +2531,7 @@ accessory_genes = {
 				1 = male_Western_Royal_Crown_03						
                 1 = male_headgear_secular_western_royalty_01
                 1 = male_headgear_secular_western_royalty_02
+				1 = male_western_royal_crown_04					
            ####CFP latin headgears
 				1 = male_headgear_secular_latin_cfp_icol_01
 				1 = male_headgear_secular_western_cfp_royalty_02					
@@ -2523,6 +2546,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_02
 				1 = female_crown_royalty_headvail_03	
 				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
            ####CFP latin headgears
 				1 = female_headgear_secular_latin_cfp_icol_01
 				1 = female_headgear_secular_western_cfp_royalty_02					
@@ -2537,6 +2563,7 @@ accessory_genes = {
                 1 = male_headgear_secular_western_royalty_01
                 1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
             }
             female = {
                 1 = female_headgear_secular_western_royalty_01
@@ -2550,7 +2577,10 @@ accessory_genes = {
 				2 = female_hre_royalty_Headvail_01					
 				2 = female_hre_royalty_covervail_01
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
             }
             boy = male
             girl = female
@@ -4231,7 +4261,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_Western_Royal_Crown_03		
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -4242,7 +4273,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -4255,7 +4289,8 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
-				#1 = male_headgear_secular_polish_imperial_01
+				1 = male_western_royal_crown_04	
+				
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -4266,7 +4301,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -4755,7 +4793,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -4766,7 +4805,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -4779,7 +4821,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
-				#1 = male_headgear_secular_polish_imperial_01
+				1 = male_western_royal_crown_04	
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -4790,7 +4832,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -4971,7 +5016,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -4982,7 +5028,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -4995,6 +5044,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 				#1 = male_headgear_secular_polish_imperial_01
 			}
 			female = {
@@ -5005,7 +5055,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -5179,7 +5232,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_Western_Royal_Crown_03		
+				1 = male_western_royal_crown_04					
 			}
 			female = {
 				1 = female_headgear_secular_western_royalty_01
@@ -5190,7 +5244,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
@@ -5203,6 +5260,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
+				1 = male_western_royal_crown_04					
 				#1 = male_headgear_secular_west_slav_imperial_01
 			}
 			female = {
@@ -5214,7 +5272,10 @@ accessory_genes = {
 				1 = female_crown_royalty_Headvail_02	
 				1 = female_crown_royalty_covervail_02	
 				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_crown_royalty_covervail_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
 			}
 			boy = male
             girl = female
