@@ -557,8 +557,7 @@ accessory_genes = {
 		frankish_common = {
 			index = 33
 			male = {
-				1 = male_headgear_secular_western_common_01
-				1 = male_headgear_secular_western_common_02
+				1 = empty
 			}
 			female = {
 				5 = empty
