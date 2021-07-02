@@ -598,20 +598,10 @@ accessory_genes = {
 		frankish_royalty = {
 			index = 36
 			male = {
-				1 = male_headgear_secular_western_royalty_01
-				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03				
+				1 = male_frankish_royal_crown_01		
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01
-				1 = female_headgear_secular_western_royalty_02
-				1 = female_Western_Royal_Crown_03					
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02	
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03						
+				1 = female_frankish_royal_crown_01					
 			}
 			boy = male
             girl = female
