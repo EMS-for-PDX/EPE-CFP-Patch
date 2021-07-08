@@ -238,7 +238,10 @@ accessory_genes = {
 			male = {
 			##CFP
 				1 = male_legwear_secular_western_cfp_war_plate_01
-				1 = male_legwear_secular_sub_saharan_cfp_common_01				
+				1 = male_legwear_secular_sub_saharan_cfp_common_01	
+				1 = male_legwear_secular_java_cfp_common_01
+				1 = male_legwear_secular_java_cfp_high_nobility_01
+				1 = male_legwear_secular_java_cfp_royalty_01				
 			}
 			female = {
 				1 = female_legwear_secular_western_common_01
@@ -321,6 +324,46 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}			
+##########################################################################
+####Burmese  
+##########################################################################			
+		
+		burmese_common_legwear = {
+			index = 8
+			male = {
+				1 = male_legwear_secular_java_cfp_common_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+			girl = female
+		}
+		
+		burmese_nobility_legwear = {
+			index = 9
+			male = {
+				1 = male_legwear_secular_java_cfp_high_nobility_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+			girl = female
+		}
+		
+		burmese_royalty_legwear = {
+			index = 10
+			male = {
+				1 = male_legwear_secular_java_cfp_royalty_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+			girl = female
+		}		
+		
 		
 		
 		
@@ -761,7 +804,7 @@ accessory_genes = {
 		visigoth_royalty = {
 			index = 26
 			male = {
-				1 = male_frankish_royal_sagum_01
+				1 = male_visigoth_royal_sagum_01
 			}
 			female = {
 				1 = female_cloaks_secular_western_royalty_01

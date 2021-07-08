@@ -210,8 +210,9 @@ accessory_genes = {
                 1 = male_headgear_secular_africa_east_cfp_imperial_01				
            ####CFP East african war headgears	
                 1 = male_headgear_secular_africa_east_cfp_helmet_01				
-				
-				
+            ####CFP Javanese				
+				1 = male_headgear_secular_java_cfp_high_nobility_01	
+				1 = male_headgear_secular_java_cfp_royalty_01				
 		   
 			}
 			
@@ -371,9 +372,9 @@ accessory_genes = {
             	1 = female_headgear_secular_africa_east_cfp_imperial_01	
            ####CFP East african war headgears	
             	1 = female_headgear_secular_africa_east_cfp_helmet_01				
-				
-				
-				
+            ####CFP Javanese				
+				1 = female_headgear_secular_java_cfp_high_nobility_01				
+				1 = female_headgear_secular_java_cfp_royalty_01				
 				
 			}
 		}
