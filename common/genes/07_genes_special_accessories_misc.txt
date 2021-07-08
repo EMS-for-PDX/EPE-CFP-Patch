@@ -812,6 +812,33 @@ accessory_genes = {
 			}
 		}
 
+		western_crusades_commoner = {
+			index = 27
+			male = {
+				1 = male_cloaks_secular_western_cfp_crusades_03
+			}
+			female = {
+				1 = female_cloaks_secular_western_cfp_crusades_03
+			}
+		}
+		western_crusades = {
+			index = 28
+			male = {
+				1 = male_cloaks_secular_western_cfp_crusades_01
+			}
+			female = {
+				1 = female_cloaks_secular_western_cfp_crusades_01
+			}
+		}
+		western_crusades_black = {
+			index = 29
+			male = {
+				1 = male_cloaks_secular_western_cfp_crusades_02
+			}
+			female = {
+				1 = female_cloaks_secular_western_cfp_crusades_02
+			}
+		}
 
 
 
