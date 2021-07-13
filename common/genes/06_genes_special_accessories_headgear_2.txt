@@ -722,7 +722,99 @@ accessory_genes = {
             girl = female
 		}				
 		
+##########################################################################
+####Sahelian
+##########################################################################
+		sahelian_common = {
+			index = 45
+			male = {
+				2 = empty
+				5 = male_headgear_secular_sub_saharan_common_01			
 		
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_sub_saharan_common_01		
+			}
+			boy = male
+            girl = female
+		}
+
+		sahelian_low_nobility = {
+			index = 46
+			male = {
+            ####CFP west african headgears	
+                1 = male_headgear_secular_africa_west_cfp_low_nobility_01
+                1 = male_headgear_secular_africa_west_cfp_low_nobility_02				
+		
+			}
+			female = {
+            ####CFP west african headgears	
+            	1 = female_headgear_secular_africa_west_cfp_low_nobility_01
+            	1 = female_headgear_secular_africa_west_cfp_low_nobility_02				
+			}
+			boy = male
+            girl = female
+		}
+
+	    sahelian_high_nobility = {
+            index = 47
+            male = {
+                1 = male_headgear_secular_sub_saharan_high_nobility_01
+            ####CFP west african headgears	
+                1 = male_headgear_secular_africa_west_cfp_high_nobility_01				
+            }
+            female = {
+            	1 = female_headgear_secular_mena_nobility_01
+            ####CFP west african headgears	
+            	1 = female_headgear_secular_africa_west_cfp_high_nobility_01				
+            }
+            boy = male
+            girl = female
+        }	
+
+		sahelian_royalty = {
+			index = 48
+			male = {
+				3 = male_headgear_secular_sub_saharan_royalty_01
+				2 = male_headgear_secular_sub_saharan_royalty_02
+				
+			}
+			female = {
+				1 = female_headgear_secular_mena_royalty_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		sahelian_imperial = {
+			index = 49
+			male = {
+				3 = male_headgear_secular_sub_saharan_imperial_01
+				2 = male_headgear_secular_sub_saharan_imperial_02
+				
+			}
+			female = {
+				3 = female_headgear_secular_mena_royalty_01
+				2 = female_headgear_secular_sub_saharan_imperial_02
+				
+			}
+			boy = male
+            girl = female
+		}
+		
+		sahelian_war = {
+			index = 50
+            male = {
+                1 = male_headgear_secular_africa_west_cfp_helmet_01
+            }
+            female = {
+            	1 = female_headgear_secular_africa_west_cfp_helmet_01
+            }
+			boy = male
+            girl = female
+		}		
 		
 		
 		
