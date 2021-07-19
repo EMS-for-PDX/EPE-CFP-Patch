@@ -4043,7 +4043,22 @@ accessory_genes = {
             girl = female
         }
 
+##Byzantine emperor
+ 		byzantine_imperial_clothes = {
+			index = 205
 
+			male = {
+				1 = male_clothes_epe_byzantine_nobility_01_imperial
+				1 = male_clothes_epe_byzantine_nobility_02_imperial
+			}
+
+			female = {
+				1 = female_clothes_epe_byzantine_nobility_01_imperial
+				1 = female_clothes_epe_byzantine_nobility_02_imperial
+			}
+			boy = male
+			girl = female
+		}
 
 
 
