@@ -227,8 +227,27 @@ accessory_genes = {
 		
 		
 		
-###free space to used		
-			#index = 12			
+######################################		
+####Anglo-Saxon war helmets tribal era
+######################################
+		tribal_era_anglo_saxon_war = {
+			index = 12
+			male = {	
+				5 = male_anglo_sax_wollaston_helmet_01			
+				1 = male_western_bandhelm_01
+				1 = male_western_bandhelm_02				
+				1 = male_western_bandhelm_03
+				1 = male_western_bandhelm_04							
+			}
+			female = {
+				1 = female_western_bandhelm_01
+				1 = female_western_bandhelm_02	
+				1 = female_western_bandhelm_03	
+				1 = female_western_bandhelm_04					
+			}
+			boy = male
+            girl = female
+		}	
 		
 		
 ###non-dlc Abbasid early high court
