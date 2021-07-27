@@ -853,6 +853,21 @@ accessory_genes = {
 			}
 		}	
 
+##########################################################################
+####War merovingian cloak
+##########################################################################
+
+		merovingian_war_cloaks = {
+			index = 31
+			male = {
+				1 = empty
+				1 = male_cloaks_merovingian_war_01				
+			}
+			female = {
+				1 = empty
+			}
+		}
+
 
 
 
