@@ -897,6 +897,21 @@ accessory_genes = {
             girl = female
 		}				
 		
+		merovingian_war = {
+			index = 56
+			male = {				
+				1 = male_mer_krefeld_gellep_helmet_01
+				1 = male_mer_krefeld_gellep_helmet_02										
+			}
+			female = {
+				1 = female_western_bandhelm_01
+				1 = female_western_bandhelm_02	
+				1 = female_western_bandhelm_03	
+				1 = female_western_bandhelm_04					
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
