@@ -240,6 +240,7 @@ accessory_genes = {
 				1 = male_western_bandhelm_04							
 			}
 			female = {
+				5 = female_anglo_sax_wollaston_helmet_01				
 				1 = female_western_bandhelm_01
 				1 = female_western_bandhelm_02	
 				1 = female_western_bandhelm_03	
@@ -923,10 +924,8 @@ accessory_genes = {
 				1 = male_mer_krefeld_gellep_helmet_02										
 			}
 			female = {
-				1 = female_western_bandhelm_01
-				1 = female_western_bandhelm_02	
-				1 = female_western_bandhelm_03	
-				1 = female_western_bandhelm_04					
+				1 = female_mer_krefeld_gellep_helmet_01
+				1 = female_mer_krefeld_gellep_helmet_02						
 			}
 			boy = male
             girl = female
