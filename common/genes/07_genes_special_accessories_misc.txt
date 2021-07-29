@@ -848,8 +848,7 @@ accessory_genes = {
 				1 = male_byzantine_imperial_sagum_02				
 			}
 			female = {
-				1 = female_cloaks_secular_byzantine_royalty_01
-				1 = female_cloaks_secular_byzantine_royalty_02a		
+				1 = female_byzantine_imperial_sagum_02
 			}
 		}	
 
