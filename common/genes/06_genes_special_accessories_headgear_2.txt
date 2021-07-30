@@ -931,7 +931,90 @@ accessory_genes = {
             girl = female
 		}		
 		
+## Georgian ##
+
+		georgian_common = {
+			index = 57
+			male = {
+				10 = empty
+				5 = male_headgear_secular_byzantine_common_01
+			}
+			female = {
+				10 = empty
+				5 = female_headgear_secular_byzantine_common_01
+			}
+			boy = male
+            girl = female
+		}
 		
+         georgian_low_nobility = {
+            index = 58
+            male = {
+                5 = empty
+                5 = male_headgear_secular_byzantine_nobility_01
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_byzantine_nobility_01
+            }            
+			boy = male
+            girl = female
+        }		
+		
+		 georgian_high_nobility = {
+            index = 59
+            male = {
+                5 = male_headgear_secular_byzantine_high_nobility_01
+
+            }
+            female = {
+                5 = female_headgear_secular_byzantine_nobility_01			
+                5 = female_headgear_secular_byzantine_high_nobility_01
+            }
+            boy = male
+            girl = female
+        }		
+
+        georgian_royalty = {
+            index = 60
+            male = {
+                1 = male_headgear_secular_byzantine_royalty_01
+                
+            }
+            female = {
+                5 = female_headgear_secular_byzantine_royalty_01
+                
+            }
+            boy = male
+            girl = female
+        }		
+
+		georgian_imperial = {
+			index = 61
+			male = {
+				1 = male_headgear_secular_byzantine_imperial_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_imperial_01				
+			}
+			boy = male
+            girl = female
+		}
+
+		georgian_war = {
+			index = 62
+			male = {
+				1 = male_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}				
 		
 		
 		

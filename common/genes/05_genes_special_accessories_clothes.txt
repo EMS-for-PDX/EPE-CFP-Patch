@@ -4062,7 +4062,71 @@ accessory_genes = {
 			girl = female
 		}
 
+## Georgian ##
 
+ 		georgian_commoner_clothes = {
+			index = 206
+
+			male = {
+				1 = male_clothes_epe_georgian_01_common
+				1 = male_clothes_epe_georgian_02_common
+			}
+
+			female = {
+				1 = female_clothes_epe_georgian_01_common
+				1 = female_clothes_epe_georgian_02_common
+			}
+			boy = male
+			girl = female
+		}
+
+ 		georgian_low_nobility_clothes = {
+			index = 207
+
+			male = {
+				1 = male_clothes_epe_georgian_01_low
+				1 = male_clothes_epe_georgian_02_low
+			}
+
+			female = {
+				1 = female_clothes_epe_georgian_01_low
+				1 = female_clothes_epe_georgian_02_low
+			}
+			boy = male
+			girl = female
+		}
+
+ 		georgian_high_nobility_clothes = {
+			index = 208
+
+			male = {
+				1 = male_clothes_epe_georgian_01_high
+				1 = male_clothes_epe_georgian_02_high
+			}
+
+			female = {
+				1 = female_clothes_epe_georgian_01_high
+				1 = female_clothes_epe_georgian_02_high
+			}
+			boy = male
+			girl = female
+		}
+
+		georgian_war_nobility_clothes = {
+			index = 209
+
+			male = {
+				1 = male_clothes_secular_byzantine_war_nobility_01_low
+				
+			}
+
+			female = {
+				1 = female_clothes_secular_byzantine_war_nobility_01_low
+				
+			}
+			boy = male
+			girl = female
+		}
 
 
 
