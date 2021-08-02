@@ -1017,19 +1017,262 @@ accessory_genes = {
 		}				
 		
 		
+## Bulgarian ##
+
+		bulgarian_common = {
+			index = 63
+			male = {
+				10 = empty
+				5 = male_headgear_secular_byzantine_common_01
+			}
+			female = {
+				10 = empty
+				5 = female_headgear_secular_byzantine_common_01
+			}
+			boy = male
+            girl = female
+		}
+		
+         bulgarian_low_nobility = {
+            index = 64
+            male = {
+                5 = empty
+                5 = male_headgear_secular_byzantine_nobility_01
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_byzantine_nobility_01
+            }            
+			boy = male
+            girl = female
+        }		
+		
+		 bulgarian_high_nobility = {
+            index = 65
+            male = {
+                5 = male_headgear_secular_byzantine_high_nobility_01
+
+            }
+            female = {
+                5 = female_headgear_secular_byzantine_nobility_01			
+                5 = female_headgear_secular_byzantine_high_nobility_01
+            }
+            boy = male
+            girl = female
+        }		
+
+        bulgarian_royalty = {
+            index = 66
+            male = {
+                1 = male_headgear_secular_byzantine_royalty_01
+                
+            }
+            female = {
+                1 = female_headgear_secular_byzantine_royalty_01
+                
+            }
+            boy = male
+            girl = female
+        }		
+
+		bulgarian_imperial = {
+			index = 67
+			male = {
+				1 = male_headgear_secular_byzantine_imperial_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_imperial_01				
+			}
+			boy = male
+            girl = female
+		}
+
+		bulgarian_war = {
+			index = 68
+			male = {
+				1 = male_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
+## Armenian ##
+
+		armenian_common = {
+			index = 69
+			male = {
+				10 = empty
+				5 = male_headgear_secular_byzantine_common_01
+			}
+			female = {
+				10 = empty
+				5 = female_headgear_secular_byzantine_common_01
+			}
+			boy = male
+            girl = female
+		}
+		
+         armenian_low_nobility = {
+            index = 70
+            male = {
+                5 = empty
+                5 = male_headgear_secular_byzantine_nobility_01
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_byzantine_nobility_01
+            }            
+			boy = male
+            girl = female
+        }		
+		
+		 armenian_high_nobility = {
+            index = 71
+            male = {
+                5 = male_headgear_secular_byzantine_high_nobility_01
+
+            }
+            female = {
+                5 = female_headgear_secular_byzantine_nobility_01			
+                5 = female_headgear_secular_byzantine_high_nobility_01
+            }
+            boy = male
+            girl = female
+        }		
+
+        armenian_royalty = {
+            index = 72
+            male = {
+                1 = male_headgear_secular_byzantine_royalty_01
+                
+            }
+            female = {
+                1 = female_headgear_secular_byzantine_royalty_01
+                
+            }
+            boy = male
+            girl = female
+        }		
+
+		armenian_imperial = {
+			index = 73
+			male = {
+				1 = male_headgear_secular_byzantine_imperial_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_imperial_01				
+			}
+			boy = male
+            girl = female
+		}
+
+		armenian_war = {
+			index = 74
+			male = {
+				1 = male_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
+## South Slav ##
+
+		south_slav_common = {
+			index = 75
+			male = {
+				10 = empty
+				5 = male_headgear_secular_byzantine_common_01
+			}
+			female = {
+				10 = empty
+				5 = female_headgear_secular_byzantine_common_01
+			}
+			boy = male
+            girl = female
+		}
 		
+         south_slav_low_nobility = {
+            index = 76
+            male = {
+                5 = empty
+                5 = male_headgear_secular_byzantine_nobility_01
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_byzantine_nobility_01
+            }            
+			boy = male
+            girl = female
+        }		
 		
-		
-		
-		
-		
-		
-		
-		
+		 south_slav_high_nobility = {
+            index = 77
+            male = {
+                5 = male_headgear_secular_byzantine_high_nobility_01
+
+            }
+            female = {
+                5 = female_headgear_secular_byzantine_nobility_01			
+                5 = female_headgear_secular_byzantine_high_nobility_01
+            }
+            boy = male
+            girl = female
+        }		
+
+        south_slav_royalty = {
+            index = 78
+            male = {
+                1 = male_headgear_secular_byzantine_royalty_01
+                
+            }
+            female = {
+                1 = female_headgear_secular_byzantine_royalty_01
+                
+            }
+            boy = male
+            girl = female
+        }		
+
+		south_slav_imperial = {
+			index = 79
+			male = {
+				1 = male_headgear_secular_byzantine_imperial_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_imperial_01				
+			}
+			boy = male
+            girl = female
+		}
+
+		south_slav_war = {
+			index = 80
+			male = {
+				1 = male_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			female = {
+				1 = female_headgear_secular_byzantine_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
@@ -1118,12 +1361,9 @@ accessory_genes = {
 			boy = male
             girl = female
 		}		
-			
-			
 		
 		
-		
-	
+
 ##############################
 
 ##############################			
