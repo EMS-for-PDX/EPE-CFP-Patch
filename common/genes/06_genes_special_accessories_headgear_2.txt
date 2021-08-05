@@ -577,7 +577,9 @@ accessory_genes = {
 		karling_common = {
 			index = 33
 			male = {
-				1 = empty
+				2 = male_fra_phrygian_cap_01
+				2 = male_fra_phrygian_cap_02		
+				2 = male_fra_phrygian_cap_03	
 			}
 			female = {
 				5 = empty
@@ -622,7 +624,8 @@ accessory_genes = {
 				1 = male_frankish_royal_crown_01		
 			}
 			female = {
-				1 = female_frankish_royal_crown_01					
+				1 = female_frankish_royal_crown_01		
+				1 = female_karling_royal_crown_01_veil_1					
 			}
 			boy = male
             girl = female
@@ -641,7 +644,6 @@ accessory_genes = {
             girl = female
 		}
 
-		
 ##########################################################################
 ####Visigoth 
 ##########################################################################
@@ -690,10 +692,10 @@ accessory_genes = {
 		visigoth_royalty = {
 			index = 41
 			male = {
-				1 = male_frankish_royal_crown_01		
+				1 = male_vis_crown_of_recc_01		
 			}
 			female = {
-				1 = female_frankish_royal_crown_01					
+				1 = female_vis_crown_of_recc_01					
 			}
 			boy = male
             girl = female
@@ -703,14 +705,14 @@ accessory_genes = {
 		visigoth_imperial = {
 			index = 42
 			male = {
-				1 = male_crown_of_otto_II
+				1 = male_vis_crown_of_recc_01
 			}
 			female = {
-				1 = empty						
+				1 = female_vis_crown_of_recc_01						
 			}
 			boy = male
             girl = female
-		}		
+		}	
 		
 ##########################################################################
 ####Burmese  
@@ -853,7 +855,9 @@ accessory_genes = {
 		merovingian_common = {
 			index = 51
 			male = {
-				1 = empty
+				2 = male_fra_phrygian_cap_01
+				2 = male_fra_phrygian_cap_02		
+				2 = male_fra_phrygian_cap_03	
 			}
 			female = {
 				5 = empty
@@ -867,13 +871,16 @@ accessory_genes = {
 		merovingian_low_nobility = {
             index = 52
             male = {
-				1 = empty
-				1 = male_fra_hair_headband_headgear_01_low
+				1 = male_fra_phrygian_cap_01
+				1 = male_fra_phrygian_cap_02		
+				1 = male_fra_phrygian_cap_03	
+				3 = male_fra_hair_headband_headgear_01_low
             }
             female = {
-				1 = female_frankish_noble_veil_02				
+				2 = female_frankish_noble_veil_02				
 				2 = female_frankish_commoner_noble_veil_01	
 				2 = female_frankish_commoner_noble_veil_02	
+				2 = female_frankish_noble_veil_02_brocade					
             }
             boy = male
             girl = female
@@ -898,7 +905,16 @@ accessory_genes = {
 				1 = male_frankish_royal_crown_01		
 			}
 			female = {
-				1 = female_frankish_royal_crown_01					
+				1 = female_frankish_royal_crown_01
+				1 = female_mer_royal_crown_01_veil_1	
+				1 = female_mer_royal_crown_01_veil_3	
+				1 = female_mer_royal_crown_01_veil_4	
+				1 = female_mer_royal_crown_02_veil_1
+				1 = female_mer_royal_crown_02_veil_3
+				1 = female_mer_royal_crown_02_veil_4
+				1 = female_mer_royal_crown_03_veil_1	
+				1 = female_mer_royal_crown_03_veil_3	
+				1 = female_mer_royal_crown_03_veil_4					
 			}
 			boy = male
             girl = female
@@ -911,11 +927,20 @@ accessory_genes = {
 				1 = male_crown_of_otto_II
 			}
 			female = {
-				1 = empty						
+				1 = female_frankish_royal_crown_01
+				1 = female_mer_royal_crown_01_veil_1	
+				1 = female_mer_royal_crown_01_veil_3	
+				1 = female_mer_royal_crown_01_veil_4	
+				1 = female_mer_royal_crown_02_veil_1
+				1 = female_mer_royal_crown_02_veil_3
+				1 = female_mer_royal_crown_02_veil_4
+				1 = female_mer_royal_crown_03_veil_1	
+				1 = female_mer_royal_crown_03_veil_3	
+				1 = female_mer_royal_crown_03_veil_4					
 			}
 			boy = male
             girl = female
-		}				
+		}		
 		
 		merovingian_war = {
 			index = 56
@@ -925,7 +950,7 @@ accessory_genes = {
 			}
 			female = {
 				1 = female_mer_krefeld_gellep_helmet_01
-				1 = female_mer_krefeld_gellep_helmet_02						
+				1 = female_mer_krefeld_gellep_helmet_02					
 			}
 			boy = male
             girl = female
@@ -978,16 +1003,16 @@ accessory_genes = {
         georgian_royalty = {
             index = 60
             male = {
-                1 = male_headgear_secular_byzantine_royalty_01
+                1 = male_georgian_royal_crown_01
                 
             }
             female = {
-                5 = female_headgear_secular_byzantine_royalty_01
+                1 = female_georgian_royal_crown_01
                 
             }
             boy = male
             girl = female
-        }		
+        }	
 
 		georgian_imperial = {
 			index = 61

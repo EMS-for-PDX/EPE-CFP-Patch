@@ -1558,7 +1558,7 @@ accessory_genes = {
 		religious_dde_muslim_high = {
 			index = 66
 			male = {
-				1 = male_headgear_religious_dde_muslim_high_01
+				1 = male_headgear_religious_muslim_high_01
 				
 			}
 			female = {
