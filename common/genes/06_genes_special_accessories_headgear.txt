@@ -213,7 +213,23 @@ accessory_genes = {
             ####CFP Javanese				
 				1 = male_headgear_secular_java_cfp_high_nobility_01	
 				1 = male_headgear_secular_java_cfp_royalty_01				
-		   
+            ####Men of Gods
+				1 = male_headgear_secular_mena_cfp_tagelmust_high_01
+                1 = male_headgear_secular_western_pillbox_cfp_crusades_02
+                1 = male_headgear_secular_western_pillbox_cfp_crusades_04	
+                1 = male_headgear_secular_western_pillbox_cfp_crusades_01
+                1 = male_headgear_secular_western_pillbox_cfp_crusades_03
+                1 = male_headgear_religious_catholic_cfp_head_01
+				1 = male_headgear_religious_catholic_cfp_cardinal_01
+				1 = male_headgear_religious_catholic_cfp_tribal_01
+				1 = male_headgear_religious_catholic_cfp_pilgrim_01
+				1 = male_headgear_religious_catholic_cfp_pilgrim_02
+				1 = male_headgear_religious_orthodox_cfp_koukoulion_01
+				1 = male_headgear_religious_muslim_cfp_caliph_01
+				1 = male_headgear_religious_jewish_cfp_judenhut_01
+				1 = male_headgear_religious_jewish_cfp_sudra_01				
+				
+				
 			}
 			
 			
@@ -3465,29 +3481,34 @@ accessory_genes = {
 #																							#
 #############################################################################################		
 
-		saffarid_qalansuwa = {
+		monarchs_journey_unleashed = {
 			index = 155
 			male = {
-				3 = male_headgear_secular_iranian_qalansuwwa_02_high			
+				1 = male_headgear_secular_rtt_nobility_01_low
 			}
 			female = {
-				1 = female_headgear_iranian_royal_01_royal						
+				3 = empty
+				1 = female_headgear_secular_rtt_nobility_01_low
 			}
 			boy = male
 			girl = female
-		}	
 		
-		samanid_qalansuwa = {
-			index = 156
-			male = {
-				3 = male_headgear_secular_iranian_qalansuwwa_06_high		
-			}
-			female = {
-				1 = female_headgear_iranian_royal_01_royal						
-			}
-			boy = male
-			girl = female
-		}	
+		}
+
+			
+	#	samanid_qalansuwa = {
+	#		index = 156
+	#		male = {
+	#			3 = male_headgear_secular_iranian_qalansuwwa_06_high		
+	#		}
+	#		female = {
+	#			1 = female_headgear_iranian_royal_01_royal						
+	#		}
+	#		boy = male
+	#		girl = female
+	#	}	
+		
+		
 		
 		
 		

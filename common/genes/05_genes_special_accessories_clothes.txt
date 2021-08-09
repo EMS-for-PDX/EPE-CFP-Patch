@@ -36,7 +36,11 @@ accessory_genes = {
 					1 = male_clothes_secular_africa_central_cfp_war_padded_02	
             ####CFP Javanese
 					1 = male_clothes_secular_java_cfp_high_nobility_01
-					1 = male_clothes_secular_java_cfp_royalty_01						
+					1 = male_clothes_secular_java_cfp_royalty_01	
+            ####Men of Gods
+					1 = male_clothes_religious_catholic_cfp_head_01
+					1 = male_clothes_religious_catholic_cfp_cardinal_01
+					1 = male_clothes_religious_orthodox_cfp_devoted_01					
 			}
 			
 			female = {
@@ -2107,6 +2111,7 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_religious_dde_muslim_caliph_01_male
 				1 = male_clothes_high_muslim_caliph_01_male
+				1 = male_clothes_religious_muslim_cfp_caliph_01				
 			}
 
 			female = {
@@ -4335,7 +4340,43 @@ accessory_genes = {
 			girl = female
 		}
 
-
+			## Religious
+			
+			religious_catholic_head_early_clothes = {
+				index = 222
+				male = {	
+					1 = male_clothes_religious_catholic_cfp_head_01
+				}
+				female = {
+					1 = female_clothes_religious_catholic_devoted_01_common
+				}
+				boy = male
+				girl = female
+			}
+		
+			religious_catholic_cardinal_clothes = {
+				index = 223
+				male = {	
+					1 = male_clothes_religious_catholic_cfp_cardinal_01
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
+		
+			religious_orthodox_devoted_clothes = {
+				index = 224
+				male = {
+					1 = male_clothes_religious_orthodox_cfp_devoted_01
+				}
+				female = {
+					1 = empty
+				}
+				boy = male
+				girl = female
+			}
 
 
 

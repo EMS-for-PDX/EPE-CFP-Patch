@@ -868,7 +868,35 @@ accessory_genes = {
 			}
 		}
 
-
+			## Religious
+			
+		religious_catholic_head = {
+			index = 32
+			male = {
+				1 = male_cloaks_religious_catholic_cfp_head_01
+			}
+			female = {
+				1 = empty
+			}
+		}
+		religious_catholic_high_northern = {
+			index = 33
+			male = {
+				1 = male_cloaks_religious_catholic_cfp_tribal_01
+			}
+			female = {
+				1 = empty
+			}
+		}
+		religious_orthodox_high = {
+			index = 34
+			male = {
+				1 = male_cloaks_religious_orthodox_cfp_omophorion_01
+			}
+			female = {
+				1 = empty
+			}
+		}
 
 
 

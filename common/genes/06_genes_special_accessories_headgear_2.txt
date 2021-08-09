@@ -1299,8 +1299,85 @@ accessory_genes = {
             girl = female
 		}		
 		
-		
-		
+###### Men of God 
+		religious_catholic_head_early = {
+			index = 81
+			male = {
+                1 = male_headgear_religious_catholic_cfp_head_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_catholic_cardinal = {
+			index = 82
+			male = {
+				1 = male_headgear_religious_catholic_cfp_cardinal_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_catholic_high_northern = {
+			index = 83
+			male = {
+				1 = male_headgear_religious_catholic_cfp_tribal_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_catholic_pilgrim = {
+			index = 84
+			male = {
+				1 = male_headgear_religious_catholic_cfp_pilgrim_01
+				1 = male_headgear_religious_catholic_cfp_pilgrim_02
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_orthodox_devoted = {
+			index = 85
+			male = {
+				1 = male_headgear_religious_orthodox_cfp_koukoulion_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_jewish_common_western = {
+			index = 86
+			male = {
+				1 = male_headgear_religious_jewish_cfp_judenhut_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}
+		religious_jewish_common_mena = {
+			index = 87
+			male = {
+				1 = male_headgear_religious_jewish_cfp_sudra_01
+			}
+			female = {
+				1 = empty
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
