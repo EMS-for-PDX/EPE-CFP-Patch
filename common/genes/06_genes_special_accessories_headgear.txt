@@ -2152,22 +2152,7 @@ accessory_genes = {
 				5 = male_crown_of_otto_II					
 			}
 			female = {
-				5 = female_frankish_royal_crown_01_b	
-				5 = female_frankish_royal_crown_01_b_Headvail	
-				5 = female_frankish_royal_crown_01_b_covervail		
-				5 = female_frankish_royal_crown_01_b_veil_3	
-				5 = female_frankish_royal_crown_01_b_veil_4						
-				1 = female_headgear_secular_western_royalty_01
-				1 = female_headgear_secular_western_royalty_02
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02	
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03	
-				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04				
+				5 = fra_empress_crown_01a				
 			}
 			boy = male
             girl = female
