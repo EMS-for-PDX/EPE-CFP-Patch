@@ -1528,7 +1528,19 @@ accessory_genes = {
 		}		
 				
 		
-		
+##Early Frankish Charlemagne Crown		
+		early_french_charlemagne_royal= {
+			index = 94
+			male = {
+				1 = male_crown_of_charles_bald_01a
+			
+			}
+			female = {
+				1 = female_crown_of_charlemagne_01						
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
