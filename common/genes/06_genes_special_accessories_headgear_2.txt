@@ -611,6 +611,8 @@ accessory_genes = {
 				1 = female_Fra_Circlet_Veil_01a	
 				1 = female_Fra_Circlet_Veil_01b	
 				1 = female_Fra_Circlet_Veil_01c	
+				3 = female_frankish_noble_brocaded_veil_01 
+                3 = female_frankish_noble_brocaded_veil_02				
 				2 = female_Circlets_Western_Small_Leather_Pearls
                 2 = female_Circlets_Western_Small_Leather_Pearls_02
                 2 = female_Circlets_Western_Small_Leather_Pearls_03
@@ -643,10 +645,12 @@ accessory_genes = {
 		karling_royalty = {
 			index = 36
 			male = {
-				5 = male_frankish_royal_crown_01_b
-				3 = male_frankish_royal_crown_01_c		
+				1 = male_fra_crown_of_lothair_01	
+				1 = male_fra_crown_of_louis_german_01a					
 			}
 			female = {
+				1 = female_fra_crown_of_lothair_01	
+				1 = female_fra_crown_of_louis_german_01a					
 				1 = female_mer_royal_crown_01_veil_3	
 				1 = female_mer_royal_crown_01_veil_4	
 				1 = female_mer_royal_crown_02_veil_3
@@ -910,6 +914,8 @@ accessory_genes = {
 				7 = female_Mer_Nobility_Veil_01a
 				5 = female_frankish_commoner_veil_01 #We need to make a variant of these for low nobility that can have a pattern
                 5 = female_frankish_commoner_veil_02 #We need to make a variant of these for low nobility that can have a pattern
+				3 = female_frankish_noble_brocaded_veil_01 
+                3 = female_frankish_noble_brocaded_veil_02	
 				1 = female_Circlets_Western_Small_Gold_Pearls	
 				1 = female_Circlets_Western_Small_Silver_Pearls	
 				1 = female_Circlets_Western_Small_Leather_Pearls
@@ -929,15 +935,7 @@ accessory_genes = {
 			female = {
 				3 = female_frankish_noble_veil_02				
 				3 = female_frankish_noble_veil_02_brocade
-#<<<<<<< Updated upstream
-				4 = female_Mer_High_Nobility_Veil_01a
-				1 = female_Circlets_Western_Small_Jewells
-				1 = female_Circlets_Western_Small_Jewells_silver	
-				1 = female_Circlets_Western_Small_Simple
-				1 = female_Circlets_Western_Small_Simple_silver		
-#=======
-				4 = female_Mer_Nobility_Veil_01a
-#>>>>>>> Stashed changes
+				6 = female_Mer_High_Nobility_Veil_01a	
 			}
 			boy = male
             girl = female
@@ -1536,11 +1534,11 @@ accessory_genes = {
 			
 			}
 			female = {
-				1 = female_crown_of_charlemagne_01						
+				1 = female_crown_of_charles_bald_01a						
 			}
 			boy = male
             girl = female
-		}		
+		}	
 		
 		
 		
