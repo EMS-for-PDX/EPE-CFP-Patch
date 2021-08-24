@@ -1020,6 +1020,7 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_religious_dde_muslim_head_01_common
+				1 = male_clothes_epe_early_other_caliph_01	
 			}
 
 			female = {
@@ -2111,7 +2112,7 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_religious_dde_muslim_caliph_01_male
 				1 = male_clothes_high_muslim_caliph_01_male
-				1 = male_clothes_religious_muslim_cfp_caliph_01				
+				1 = male_clothes_epe_early_sunni_caliph_01					
 			}
 
 			female = {
