@@ -3430,10 +3430,8 @@ accessory_genes = {
         early_eastern_iranian_imperial_consort = {
             index = 154
             male = {
-                1 = iranian_imperial_crown_zoroastrian_male_01
-                1 = iranian_imperial_crown_zoroastrian_male_02
-                1 = iranian_imperial_crown_zoroastrian_male_03
-                1 = iranian_imperial_crown_zoroastrian_male_04				
+                1 = iranian_royal_crown_zoroastrian_male_01
+                1 = iranian_royal_crown_zoroastrian_male_02			
             }
             female = {
 				1 = imperial_consort_crown_zoroastrian_female_01					
