@@ -899,6 +899,19 @@ accessory_genes = {
 		}
 
 
+##########################################################################
+####Generic early Western
+##########################################################################
+
+		early_western_royalty = {
+			index = 35
+			male = {
+				1 = male_early_westerm_royal_sagum_01
+			}
+			female = {
+				1 = female_cloaks_secular_western_royalty_01	
+			}
+		}
 
 
 

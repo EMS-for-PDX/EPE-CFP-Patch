@@ -966,7 +966,7 @@ accessory_genes = {
 		merovingian_imperial = {
 			index = 55
 			male = {
-				1 = male_crown_of_otto_II
+				1 = male_mer_imperial_crown_01a
 			}
 			female = {
 				1 = female_frankish_royal_crown_01
