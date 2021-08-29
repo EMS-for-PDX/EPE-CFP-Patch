@@ -3958,8 +3958,8 @@ accessory_genes = {
                 1 = male_clothes_epe_sahelian_03_common
                 1 = male_clothes_epe_sahelian_04_common
                ###semi clothes
-                3 = male_clothes_epe_sahelian_05_common	
-                #1 = male_clothes_epe_sahelian_06_common
+                2 = male_clothes_epe_sahelian_05_common	
+                1 = male_clothes_epe_sahelian_06_commoner
                 #1 = male_clothes_epe_sahelian_07_common				
             }
 
@@ -3988,8 +3988,8 @@ accessory_genes = {
                 1 = male_clothes_epe_sahelian_03_low
                 1 = male_clothes_epe_sahelian_04_low
                ###semi clothes
-                3 = male_clothes_epe_sahelian_05_low	
-                #1 = male_clothes_epe_sahelian_06_low	
+                2 = male_clothes_epe_sahelian_05_low	
+                1 = male_clothes_epe_sahelian_06_low	
                 #1 = male_clothes_epe_sahelian_07_low					
             }
 
@@ -4016,8 +4016,8 @@ accessory_genes = {
                 1 = male_clothes_epe_sahelian_03_high
                 1 = male_clothes_epe_sahelian_04_high	
                ###semi clothes
-                3 = male_clothes_epe_sahelian_05_high	
-                #1 = male_clothes_epe_sahelian_06_high	
+                1 = male_clothes_epe_sahelian_05_high	
+                2 = male_clothes_epe_sahelian_06_high	
                 #1 = male_clothes_epe_sahelian_07_high				
             }
 
@@ -4038,15 +4038,13 @@ accessory_genes = {
         sahelian_war_nobility_clothes = {
             index = 204
 
-				male = {
-					2 = male_clothes_secular_africa_central_cfp_war_padded_01
-					2 = male_clothes_secular_africa_central_cfp_war_padded_02
-				}
+            male = {
+                1 = male_clothes_secular_mena_war_nobility_01_low
+            }
 
-				female = {
-					2 = female_clothes_secular_africa_central_cfp_war_padded_01
-					2 = female_clothes_secular_africa_central_cfp_war_padded_02
-				}
+            female = {
+                1 = female_clothes_secular_mena_war_nobility_01_low
+            }
             boy = male
             girl = female
         }
