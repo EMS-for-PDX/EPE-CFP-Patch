@@ -1064,7 +1064,10 @@ accessory_genes = {
 			male = {
 				1 = empty
 				2 = male_headgear_secular_northern_common_01
-				2 = male_norse_pannonian_cap_01				
+				2 = male_norse_pannonian_cap_01	
+				1 = male_norse_phrygian_cap_01	
+				1 = male_norse_phrygian_cap_02	
+				1 = male_norse_phrygian_cap_03					
 			}
 			female = {
 				1 = empty
@@ -3485,7 +3488,10 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp1_common_01
 				1 = male_headgear_secular_fp1_common_02
-				1 = male_norse_pannonian_cap_01					
+				1 = male_norse_pannonian_cap_01		
+				1 = male_norse_phrygian_cap_01	
+				1 = male_norse_phrygian_cap_02	
+				1 = male_norse_phrygian_cap_03					
 			}
 			female = {
 				1 = female_headgear_secular_fp1_common_01
@@ -3500,6 +3506,9 @@ accessory_genes = {
 				2 = male_headgear_secular_fp1_nobility_01
 				1 = male_headgear_secular_fp1_common_01
 				1 = male_headgear_secular_fp1_common_02
+				1 = male_norse_phrygian_cap_01_low	
+				1 = male_norse_phrygian_cap_02_low	
+				1 = male_norse_phrygian_cap_03_low	
 				
 			}
 			female = {
@@ -4676,8 +4685,9 @@ accessory_genes = {
 		anglo_saxon_common = {
 			index = 216
 			male = {
-				1 = male_headgear_secular_western_common_01
-				1 = male_headgear_secular_western_common_02
+				1 = male_norse_phrygian_cap_01	
+				1 = male_norse_phrygian_cap_02	
+				1 = male_norse_phrygian_cap_03	
 			}
 			female = {
 				35 = empty
