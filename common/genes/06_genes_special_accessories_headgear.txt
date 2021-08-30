@@ -1118,6 +1118,9 @@ accessory_genes = {
 			male = {
 				10 = empty
 				5 = male_headgear_secular_byzantine_common_01
+				5 = male_epe_byzantium_phrygian_cap_01		
+				5 = male_epe_byzantium_phrygian_cap_02
+				5 = male_epe_byzantium_phrygian_cap_03					
             ####CFP byzantine headgears	
 				5 = male_headgear_secular_byzantine_pannonian_common_01							
 			}
