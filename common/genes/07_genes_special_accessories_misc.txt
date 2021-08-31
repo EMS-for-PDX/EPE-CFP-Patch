@@ -364,7 +364,18 @@ accessory_genes = {
 			girl = female
 		}		
 		
-		
+####Western spy master
+		western_spymaster_legwear = {
+			index = 11
+			male = {
+				1 = male_legwear_epe_western_spymaster
+			}
+			female = {
+				1 = female_legwear_epe_western_spymaster
+			}
+			boy = male
+			girl = female
+		}			
 		
 		
 		
@@ -912,7 +923,18 @@ accessory_genes = {
 				1 = female_cloaks_secular_western_royalty_01	
 			}
 		}
+####Western Spymaster
 
+		western_spymaster_cloaks = {
+			index = 36
+			male = {
+				1 = male_cloak_western_spy_master_01		
+				#1 = male_cloak_western_spy_master_02					
+			}
+			female = {
+				1 = female_cloak_western_spy_master_01
+			}
+		}
 
 
 	
