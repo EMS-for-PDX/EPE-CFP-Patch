@@ -4481,6 +4481,115 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
+		
+####MENA Spymaster	
+		mena_spymaster_clothes = {
+			index = 231
+
+			male = {
+				1 = male_clothes_epe_mena_western_spymaster_01
+				
+			}
+
+			female = {
+				1 = female_clothes_epe_mena_western_spymaster_01
+				
+			}
+			boy = male
+			girl = female
+		}		
+
+## Bedouin(arabs) ##
+
+		bedouin_commoner_clothes = {
+			index = 232
+
+			male = {
+				1 = male_clothes_secular_dde_abbasid_nobility_01_common
+				1 = male_clothes_secular_dde_abbasid_nobility_02_common
+				1 = male_clothes_secular_dde_abbasid_nobility_03_common
+				1 = male_clothes_secular_mena_nobility_01_common
+				1 = male_clothes_secular_mena_nobility_02_common			
+			}
+
+			female = {
+				# 1 = female_clothes_secular_dde_abbasid_nobility_01_common
+				1 = female_clothes_secular_dde_abbasid_nobility_02_common
+				1 = female_clothes_secular_dde_abbasid_nobility_03_common
+				1 = female_clothes_secular_mena_nobility_01_common
+				1 = female_clothes_secular_mena_nobility_02_common			
+			}
+
+			boy = male
+			girl = female
+		}
+
+		bedouin_low_nobility_clothes = {
+			index = 233
+
+			male = {
+				# 1 = male_clothes_secular_dde_abbasid_nobility_01_low
+				1 = male_clothes_secular_dde_abbasid_nobility_02_low
+				1 = male_clothes_secular_dde_abbasid_nobility_03_low
+				1 = male_clothes_secular_mena_nobility_01_low
+				1 = male_clothes_secular_mena_nobility_02_low
+				1 = male_clothes_secular_dde_abbasid_nobility_01_low					
+			}
+
+			female = {
+				# 1 = female_clothes_secular_dde_abbasid_nobility_01_low
+				1 = female_clothes_secular_dde_abbasid_nobility_02_low
+				1 = female_clothes_secular_dde_abbasid_nobility_03_low
+				1 = female_clothes_secular_mena_nobility_01_low
+				1 = female_clothes_secular_mena_nobility_02_low
+				1 = female_clothes_secular_dde_abbasid_nobility_01_low					
+			}
+
+			boy = male
+			girl = female
+		}
+
+		bedouin_high_nobility_clothes = {
+			index = 234
+
+			male = {
+				1 = male_clothes_secular_mena_nobility_01_high
+				1 = male_clothes_secular_mena_nobility_02_high
+				1 = male_clothes_secular_dde_abbasid_nobility_01_high				
+				1 = male_clothes_secular_dde_abbasid_nobility_02_high
+				1 = male_clothes_secular_dde_abbasid_nobility_03_high
+				1 = male_clothes_secular_dde_abbasid_nobility_04_high	
+		
+			}
+
+			female = {
+				1 = female_clothes_secular_mena_nobility_01_high
+				1 = female_clothes_secular_mena_nobility_02_high
+				1 = female_clothes_secular_dde_abbasid_nobility_01_high					
+				# 1 = female_clothes_secular_dde_abbasid_nobility_01_high
+				1 = female_clothes_secular_dde_abbasid_nobility_02_high
+				1 = female_clothes_secular_dde_abbasid_nobility_03_high
+	
+			}
+
+			boy = male
+			girl = female
+		}
+
+		bedouin_war_nobility_clothes = {
+			index = 235
+
+			male = {
+				1 = male_clothes_secular_dde_abbasid_war_nobility_01_low
+			}
+
+			female = {
+				1 = female_clothes_secular_dde_abbasid_war_nobility_01_low
+			}
+
+			boy = male
+			girl = female
+		}
 
 
 

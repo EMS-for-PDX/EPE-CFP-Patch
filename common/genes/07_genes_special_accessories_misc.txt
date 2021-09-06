@@ -936,6 +936,31 @@ accessory_genes = {
 			}
 		}
 
+####MENA Spymaster		
+
+		mena_spymaster_cloaks = {
+			index = 37
+			male = {
+				1 = male_cloak_mena_spy_master_01					
+			}
+			female = {
+				1 = female_cloak_mena_spy_master_01
+			}
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 	
 	
