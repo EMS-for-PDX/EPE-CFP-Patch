@@ -4038,13 +4038,15 @@ accessory_genes = {
         sahelian_war_nobility_clothes = {
             index = 204
 
-            male = {
-                1 = male_clothes_secular_mena_war_nobility_01_low
-            }
+				male = {
+					2 = male_clothes_secular_africa_central_cfp_war_padded_01
+					2 = male_clothes_secular_africa_central_cfp_war_padded_02
+				}
 
-            female = {
-                1 = female_clothes_secular_mena_war_nobility_01_low
-            }
+				female = {
+					2 = female_clothes_secular_africa_central_cfp_war_padded_01
+					2 = female_clothes_secular_africa_central_cfp_war_padded_02
+				}
             boy = male
             girl = female
         }
