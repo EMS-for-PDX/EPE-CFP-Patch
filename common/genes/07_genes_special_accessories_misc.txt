@@ -949,7 +949,21 @@ accessory_genes = {
 		}
 
 
+##########################################################################
+####War german cloak tribal
+##########################################################################
 
+		tribal_german_war_cloaks = {
+			index = 38
+			male = {
+				1 = empty
+				1 = male_cloaks_merovingian_war_01		
+				1 = male_cloaks_merovingian_war_02					
+			}
+			female = {
+				1 = empty
+			}
+		}
 
 
 
