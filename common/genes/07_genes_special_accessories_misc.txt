@@ -241,7 +241,8 @@ accessory_genes = {
 				1 = male_legwear_secular_sub_saharan_cfp_common_01	
 				1 = male_legwear_secular_java_cfp_common_01
 				1 = male_legwear_secular_java_cfp_high_nobility_01
-				1 = male_legwear_secular_java_cfp_royalty_01				
+				1 = male_legwear_secular_java_cfp_royalty_01	
+				1 = male_legwear_secular_western_cfp_pants_01				
 			}
 			female = {
 				1 = female_legwear_secular_western_common_01
