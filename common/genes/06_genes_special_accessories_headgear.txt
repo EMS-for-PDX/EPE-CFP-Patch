@@ -229,8 +229,16 @@ accessory_genes = {
 				1 = male_headgear_religious_muslim_cfp_caliph_01
 				1 = male_headgear_religious_jewish_cfp_judenhut_01
 				1 = male_headgear_religious_jewish_cfp_sudra_01				
-				
-				
+            ####CFP India
+                1 = male_headgear_secular_indian_cfp_high_nobility_01
+                1 = male_headgear_secular_indian_cfp_high_nobility_02
+                1 = male_headgear_secular_indian_cfp_royalty_01		
+				1 = male_headgear_secular_indian_imperial_02
+                1 = male_headgear_secular_indian_cfp_imperial_01
+                1 = male_headgear_religious_hindu_cfp_devoted_01				
+                1 = male_headgear_secular_indian_cfp_war_tibetan_01
+                1 = male_headgear_secular_indian_cfp_war_timurid_01	
+                1 = male_headgear_religious_hindu_cfp_mask_01	
 			}
 			
 			
@@ -367,9 +375,7 @@ accessory_genes = {
            ####CFP oghuz headgears					
                 1 = female_headgears_secular_turkic_high_nobility_01
                 1 = female_headgears_secular_turkic_high_nobility_02				
-                1 = female_headgears_secular_turkic_low_nobility_01				
-				
-				
+                1 = female_headgears_secular_turkic_low_nobility_01									
             ####CFP west african headgears	
             	1 = female_headgear_secular_africa_west_cfp_low_nobility_01
             	1 = female_headgear_secular_africa_west_cfp_low_nobility_02
@@ -393,6 +399,13 @@ accessory_genes = {
             ####CFP Javanese				
 				1 = female_headgear_secular_java_cfp_high_nobility_01				
 				1 = female_headgear_secular_java_cfp_royalty_01				
+            ####CFP India				
+                1 = female_headgear_secular_indian_cfp_royalty_01				
+                1 = female_headgear_secular_indian_cfp_imperial_01
+                1 = female_headgear_religious_hindu_cfp_devoted_01
+                1 = female_headgear_secular_indian_cfp_war_tibetan_01
+                1 = female_headgear_secular_indian_cfp_war_timurid_01
+                1 = female_headgear_religious_hindu_cfp_mask_01				
 				
 			}
 		}
@@ -1328,6 +1341,9 @@ accessory_genes = {
             index = 49
             male = {
                 5 = male_headgear_secular_indian_high_nobility_01
+            ####CFP India				
+                2 = male_headgear_secular_indian_cfp_high_nobility_01
+                2 = male_headgear_secular_indian_cfp_high_nobility_02			
             }
             female = {
                 5 = female_headgear_secular_indian_nobility_02
@@ -1373,10 +1389,13 @@ accessory_genes = {
 			index = 52
 			male = {
 				5 = male_headgear_secular_indian_royalty_01
-				
+            ####CFP India	
+                5 = male_headgear_secular_indian_cfp_royalty_01			
 			}
 			female = {
 				5 = female_headgear_secular_indian_royalty_01
+            ####CFP India	
+                5 = female_headgear_secular_indian_cfp_royalty_01			
 				
 			}
 			boy = male
@@ -1386,12 +1405,21 @@ accessory_genes = {
 		indian_imperial = {
 			index = 53
 			male = {
-				5 = male_headgear_secular_indian_imperial_01
+				3 = male_headgear_secular_indian_imperial_01
+            ####CFP India				
+				2 = male_headgear_secular_indian_imperial_02
+				1 = male_headgear_secular_indian_imperial_01
+				1 = male_headgear_secular_indian_imperial_02
+                5 = male_headgear_secular_indian_cfp_imperial_01
+                5 = male_headgear_religious_hindu_cfp_devoted_01			
 				
 			}
 			female = {
 				5 = female_headgear_secular_indian_royalty_01
-				
+            ####CFP India					
+				2 = female_headgear_secular_indian_royalty_01
+                5 = female_headgear_secular_indian_cfp_imperial_01
+                5 = female_headgear_religious_hindu_cfp_devoted_01				
 			}
 			boy = male
             girl = female
@@ -1401,10 +1429,14 @@ accessory_genes = {
 			index = 54
 			male = {
 				5 = male_headgear_secular_indian_war_nobility_01
+                5 = male_headgear_secular_indian_cfp_war_tibetan_01
+                5 = male_headgear_secular_indian_cfp_war_timurid_01				
 				
 			}
 			female = {
 				1 = female_headgear_secular_indian_war_nobility_01
+                1 = female_headgear_secular_indian_cfp_war_tibetan_01
+                1 = female_headgear_secular_indian_cfp_war_timurid_01				
 				
 			}
 			boy = male
@@ -2168,6 +2200,9 @@ accessory_genes = {
             index = 97
             male = {
                 5 = male_headgear_secular_indian_high_nobility_01
+            ####CFP India				
+                2 = male_headgear_secular_indian_cfp_high_nobility_01
+                2 = male_headgear_secular_indian_cfp_high_nobility_02						
             }
             female = {
                 5 = female_headgear_secular_indian_nobility_02
@@ -2213,10 +2248,14 @@ accessory_genes = {
 			index = 100
 			male = {
 				5 = male_headgear_secular_indian_royalty_01
+            ####CFP India	
+                5 = male_headgear_secular_indian_cfp_royalty_01						
 				
 			}
 			female = {
 				5 = female_headgear_secular_indian_royalty_01
+            ####CFP India	
+                5 = female_headgear_secular_indian_cfp_royalty_01					
 				
 			}
 			boy = male
@@ -2226,11 +2265,21 @@ accessory_genes = {
 		south_indian_imperial = {
 			index = 101
 			male = {
-				5 = male_headgear_secular_indian_imperial_01
+				3 = male_headgear_secular_indian_imperial_01
+            ####CFP India				
+				2 = male_headgear_secular_indian_imperial_02
+				1 = male_headgear_secular_indian_imperial_01
+				1 = male_headgear_secular_indian_imperial_02
+                5 = male_headgear_secular_indian_cfp_imperial_01
+                5 = male_headgear_religious_hindu_cfp_devoted_01
 				
 			}
 			female = {
 				5 = female_headgear_secular_indian_royalty_01
+            ####CFP India					
+				2 = female_headgear_secular_indian_royalty_01
+                5 = female_headgear_secular_indian_cfp_imperial_01
+                5 = female_headgear_religious_hindu_cfp_devoted_01	
 				
 			}
 			boy = male
