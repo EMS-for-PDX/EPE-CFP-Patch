@@ -1686,7 +1686,104 @@ accessory_genes = {
         }		
 		
 		
+##########################################################################
+####Tibetan 
+##########################################################################
 		
+
+		tibetan_common = {
+			index = 104
+			male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_steppe_common_01
+			}
+			boy = male
+            girl = female
+		}
+		
+		tibetan_low_nobility = {
+            index = 105
+            male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_steppe_common_01
+            }
+            boy = male
+            girl = female
+        }
+		
+		tibetan_high_nobility = {
+			index = 106
+            male = {
+                1 = male_Turkic_Fur_Cap_04	
+                1 = male_Turkic_Fur_Cap_05				
+                1 = male_headgear_secular_steppe_nobility_01
+            }
+            female = {
+                5 = female_cuman_noble_hat_01
+            }
+			boy = male
+            girl = female
+		}
+
+		tibetan_royalty = {
+			index = 107
+			male = {
+				5 = male_headgear_secular_steppe_royalty_01
+				
+			}
+			female = {
+				5 = female_headgear_secular_steppe_high_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+
+		tibetan_imperial = {
+			index = 108
+			male = {
+				5 = male_headgear_secular_steppe_royalty_01
+				
+			}
+			female = {
+				5 = female_headgear_secular_steppe_high_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}
+
+		tibetan_war = {
+			index = 109
+			male = {
+				1 = male_headgear_secular_steppe_war_nobility_01
+
+			}
+			female = {
+				1 = female_headgear_secular_steppe_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}		
+				
 		
 		
 		
