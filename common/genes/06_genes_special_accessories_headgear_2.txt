@@ -1800,14 +1800,287 @@ accessory_genes = {
 		}		
 				
 		
+######################################################		
+### Early Western ##
+######################################################		
 		
-		
-		
-		
-		
-		
-		
-		
+
+		early_western_common = {
+			index = 110
+			male = {
+				1 = male_headgear_secular_western_common_01
+				1 = male_headgear_secular_western_common_02
+			}
+			female = {
+				35 = empty
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+			}
+			boy = male
+            girl = female
+		}
+
+		early_western_low_nobility = {
+            index = 111
+            male = {
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            }
+            female = {
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				2 = female_Circlets_Western_Small_Leather_Pearls
+                2 = female_Circlets_Western_Small_Leather_Pearls_02
+                2 = female_Circlets_Western_Small_Leather_Pearls_03
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver				
+                5 = female_headgear_secular_western_nobility_05				
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+            }
+            boy = male
+            girl = female
+        }
+
+		early_western_high_nobility = {
+			index = 112
+			male = {
+				1 = male_headgear_secular_western_high_nobility_01			
+				1 = male_western_high_noble_circlet_4
+				1 = male_western_high_noble_circlet_5
+				1 = male_western_high_noble_circlet_6
+				1 = male_western_high_noble_circlet_7	
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				1 = male_Circlets_Western_Small_Silver_Pearls	
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver	
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver					
+			}
+			female = {
+				1 = female_headgear_secular_western_high_nobility_01		
+				1 = female_western_high_noble_circlet_4
+				1 = female_western_high_noble_circlet_5 
+				1 = female_western_high_noble_circlet_6 
+				1 = female_western_high_noble_circlet_7 					
+				1 = female_Circlet_High_Noble_covervail_circlet_04 			
+				1 = female_Circlet_High_Noble_covervail_circlet_05 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_04 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_05 
+				1 = female_Circlet_High_Noble_Headvail_circlet_06 
+				1 = female_Circlet_High_Noble_covervail_circlet_06 	
+				1 = female_Circlet_High_Noble_Headvail_circlet_07 
+				1 = female_Circlet_High_Noble_covervail_circlet_07 						
+			}
+			boy = male
+            girl = female
+		}
+
+		early_western_royalty = {
+			index = 113
+			male = {
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				3 = male_Western_Royal_Crown_03	
+				2 = male_western_royal_crown_04					
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03					
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
+			}
+			boy = male
+            girl = female
+		}
+
+
+
+		early_western_imperial = {
+			index = 114
+			male = {
+				1 = male_headgear_secular_dde_hre_imperial_01
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03					
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
+			}
+			boy = male
+            girl = female
+		}
+
+##########################################################################
+####Early Italian 
+##########################################################################
+
+
+		early_italian_common = {
+			index = 115
+			male = {
+				1 = male_headgear_secular_western_common_01
+				1 = male_headgear_secular_western_common_02
+			}
+			female = {
+				35 = empty
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+			}
+			boy = male
+            girl = female
+		}
+
+		early_italian_low_nobility = {
+            index = 116
+            male = {
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            }
+            female = {
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				2 = female_Circlets_Western_Small_Leather_Pearls
+                2 = female_Circlets_Western_Small_Leather_Pearls_02
+                2 = female_Circlets_Western_Small_Leather_Pearls_03
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver				
+                5 = female_headgear_secular_western_nobility_05				
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+            }
+            boy = male
+            girl = female
+        }
+
+		early_italian_high_nobility = {
+			index = 117
+			male = {
+				1 = male_headgear_secular_western_high_nobility_01			
+				1 = male_western_high_noble_circlet_4
+				1 = male_western_high_noble_circlet_5
+				1 = male_western_high_noble_circlet_6
+				1 = male_western_high_noble_circlet_7	
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				1 = male_Circlets_Western_Small_Silver_Pearls	
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver	
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver					
+			}
+			female = {
+				1 = female_headgear_secular_western_high_nobility_01		
+				1 = female_western_high_noble_circlet_4
+				1 = female_western_high_noble_circlet_5 
+				1 = female_western_high_noble_circlet_6 
+				1 = female_western_high_noble_circlet_7 					
+				1 = female_Circlet_High_Noble_covervail_circlet_04 			
+				1 = female_Circlet_High_Noble_covervail_circlet_05 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_04 			
+				1 = female_Circlet_High_Noble_Headvail_circlet_05 
+				1 = female_Circlet_High_Noble_Headvail_circlet_06 
+				1 = female_Circlet_High_Noble_covervail_circlet_06 	
+				1 = female_Circlet_High_Noble_Headvail_circlet_07 
+				1 = female_Circlet_High_Noble_covervail_circlet_07 						
+			}
+			boy = male
+            girl = female
+		}
+
+		early_italian_royalty = {
+			index = 118
+			male = {
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				3 = male_Western_Royal_Crown_03	
+				2 = male_western_royal_crown_04					
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03					
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
+			}
+			boy = male
+            girl = female
+		}
+
+
+
+		early_italian_imperial = {
+			index = 119
+			male = {
+				1 = male_headgear_secular_dde_hre_imperial_01
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03					
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04					
+			}
+			boy = male
+            girl = female
+		}
+
+
 		
 		
 		
