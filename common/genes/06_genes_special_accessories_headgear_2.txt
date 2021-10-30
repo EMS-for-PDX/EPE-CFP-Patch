@@ -662,7 +662,10 @@ accessory_genes = {
 				1 = female_mer_royal_crown_01_veil_3	
 				1 = female_mer_royal_crown_01_veil_4	
 				1 = female_mer_royal_crown_02_veil_3
-				1 = female_mer_royal_crown_02_veil_4	
+				1 = female_mer_royal_crown_02_veil_4
+				1 = female_frankish_royal_crown_03	
+				1 = female_frankish_royal_crown_04	
+				1 = female_frankish_royal_crown_05					
 			}
 			boy = male
             girl = female
@@ -964,7 +967,10 @@ accessory_genes = {
 				1 = female_mer_royal_crown_02_veil_4
 				1 = female_mer_royal_crown_03_veil_1	
 				1 = female_mer_royal_crown_03_veil_3	
-				1 = female_mer_royal_crown_03_veil_4					
+				1 = female_mer_royal_crown_03_veil_4	
+				1 = female_frankish_royal_crown_03	
+				1 = female_frankish_royal_crown_04	
+				1 = female_frankish_royal_crown_05					
 			}
 			boy = male
             girl = female
