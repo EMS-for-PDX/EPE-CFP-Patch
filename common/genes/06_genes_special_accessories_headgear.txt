@@ -5719,11 +5719,14 @@ accessory_genes = {
 				1 = male_western_great_helm_02			
 				1 = male_early_great_helm_01
 				1 = male_early_great_helm_01_painted
-				1 = male_early_great_helm_02					
+				1 = male_early_great_helm_02				
 			}
 			female = {
-				1 = female_headgear_secular_crusades_western_war_nobility_01
-				
+				1 = female_western_great_helm_01	
+				1 = female_western_great_helm_02				
+				1 = female_early_great_helm_01
+				1 = female_early_great_helm_01_painted				
+				1 = female_early_great_helm_02						
 			}
 			boy = male
             girl = female
@@ -5764,7 +5767,11 @@ accessory_genes = {
 				
 			}
 			female = {
-				1 = female_headgear_secular_crusades_western_war_nobility_01
+				1 = female_western_great_helm_01	
+				1 = female_western_great_helm_02				
+				1 = female_early_great_helm_01
+				1 = female_early_great_helm_01_painted				
+				1 = female_early_great_helm_02	
 				
 			}
 			boy = male

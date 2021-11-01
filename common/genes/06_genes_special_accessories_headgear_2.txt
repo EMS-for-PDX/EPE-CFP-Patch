@@ -658,7 +658,8 @@ accessory_genes = {
 			}
 			female = {
 				1 = female_fra_crown_of_lothair_01	
-				1 = female_fra_crown_of_louis_german_01a					
+				1 = female_fra_crown_of_louis_german_01a
+				1 = female_frankish_royal_crown_01				
 				1 = female_mer_royal_crown_01_veil_3	
 				1 = female_mer_royal_crown_01_veil_4	
 				1 = female_mer_royal_crown_02_veil_3
