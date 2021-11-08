@@ -587,7 +587,8 @@ accessory_genes = {
 			male = {
 				2 = male_fra_phrygian_cap_01
 				2 = male_fra_phrygian_cap_02		
-				2 = male_fra_phrygian_cap_03	
+				2 = male_fra_phrygian_cap_03
+				2 = empty		
 			}
 			female = {
 				5 = empty
@@ -657,16 +658,11 @@ accessory_genes = {
 				1 = male_fra_crown_of_louis_german_01a					
 			}
 			female = {
-				1 = female_fra_crown_of_lothair_01	
-				1 = female_fra_crown_of_louis_german_01a
-				1 = female_frankish_royal_crown_01				
+				2 = female_fra_crown_of_lothair_01	
+				2 = female_fra_crown_of_louis_german_01a
 				1 = female_mer_royal_crown_01_veil_3	
 				1 = female_mer_royal_crown_01_veil_4	
-				1 = female_mer_royal_crown_02_veil_3
-				1 = female_mer_royal_crown_02_veil_4
-				1 = female_frankish_royal_crown_03	
-				1 = female_frankish_royal_crown_04	
-				1 = female_frankish_royal_crown_05					
+				1 = female_mer_royal_crown_02_veil_3				
 			}
 			boy = male
             girl = female
@@ -694,11 +690,18 @@ accessory_genes = {
 			index = 38
 			male = {
 				1 = empty
+				1 = male_headgear_secular_western_common_01
+				1 = male_headgear_secular_western_common_02
 			}
 			female = {
 				5 = empty
                 5 = female_frankish_commoner_veil_01
                 5 = female_frankish_commoner_veil_02
+				35 = empty
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
 			}
 			boy = male
             girl = female
@@ -709,9 +712,32 @@ accessory_genes = {
             male = {
 				1 = empty
 				1 = male_fra_hair_headband_headgear_01_low
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
             }
             female = {
 				1 = female_frankish_noble_veil_02				
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				2 = female_Circlets_Western_Small_Leather_Pearls
+                2 = female_Circlets_Western_Small_Leather_Pearls_02
+                2 = female_Circlets_Western_Small_Leather_Pearls_03
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver				
+                5 = female_headgear_secular_western_nobility_05				
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03			
             }
             boy = male
             girl = female
@@ -719,13 +745,33 @@ accessory_genes = {
 
 		visigoth_high_nobility = {
 			index = 40
-			male = {
-				1 = male_frankish_noble_crown_1
-				1 = male_frankish_noble_crown_2				
-			}
-			female = {
-				1 = empty						
-			}
+            male = {
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            }
+            female = {
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				2 = female_Circlets_Western_Small_Leather_Pearls
+                2 = female_Circlets_Western_Small_Leather_Pearls_02
+                2 = female_Circlets_Western_Small_Leather_Pearls_03
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver				
+                5 = female_headgear_secular_western_nobility_05				
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+            }
 			boy = male
             girl = female
 		}
@@ -733,10 +779,11 @@ accessory_genes = {
 		visigoth_royalty = {
 			index = 41
 			male = {
-				1 = male_vis_crown_of_recc_01		
+				1 = male_vis_crown_of_guarr_01
+				1 = male_vis_crown_of_recc_01	
 			}
 			female = {
-				1 = female_vis_crown_of_recc_01					
+				1 = female_vis_crown_of_guarr_01						
 			}
 			boy = male
             girl = female
@@ -746,10 +793,11 @@ accessory_genes = {
 		visigoth_imperial = {
 			index = 42
 			male = {
+				1 = male_vis_crown_of_guarr_01
 				1 = male_vis_crown_of_recc_01
 			}
 			female = {
-				1 = female_vis_crown_of_recc_01						
+				1 = female_vis_crown_of_guarr_01						
 			}
 			boy = male
             girl = female
@@ -2039,24 +2087,13 @@ accessory_genes = {
 		early_italian_royalty = {
 			index = 118
 			male = {
-				3 = male_headgear_secular_western_royalty_01
-				3 = male_headgear_secular_western_royalty_02
-				3 = male_Western_Royal_Crown_03	
-				2 = male_western_royal_crown_04					
+				2 = male_fra_crown_of_lothair_01	
+				1 = male_fra_crown_of_louis_german_01a
+				1 = male_fra_crown_of_lothair_01	
+				2 = male_fra_crown_of_louis_german_01a						
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01
-				1 = female_headgear_secular_western_royalty_02
-				1 = female_Western_Royal_Crown_03					
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02	
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03	
-				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04				
+				1 = female_early_italian_royal_crown_01						
 			}
 			boy = male
             girl = female
@@ -2067,21 +2104,13 @@ accessory_genes = {
 		early_italian_imperial = {
 			index = 119
 			male = {
-				1 = male_headgear_secular_dde_hre_imperial_01
+				2 = male_fra_crown_of_lothair_01	
+				1 = male_fra_crown_of_louis_german_01a
+				1 = male_fra_crown_of_lothair_01	
+				2 = male_fra_crown_of_louis_german_01a		
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01
-				1 = female_headgear_secular_western_royalty_02
-				1 = female_Western_Royal_Crown_03					
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03	
-				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_early_italian_royal_crown_01					
 			}
 			boy = male
             girl = female
