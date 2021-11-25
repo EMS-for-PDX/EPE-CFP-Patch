@@ -967,6 +967,56 @@ accessory_genes = {
 		}
 
 
+##########################################################################
+####Bulgarian Royal
+##########################################################################
+		bulgarian_royalty = {
+			index = 39
+			male = {
+				1 = male_bulgarian_royalty_sagum_01			
+			}
+			female = {
+				1 = female_bulgarian_royalty_cloak_01
+			}
+		}
+
+
+##########################################################################
+####South Slav Royal
+##########################################################################
+		south_slav_royalty = {
+			index = 40
+			male = {
+				1 = male_south_slav_royalty_sagum_01			
+			}
+			female = {
+				1 = female_south_slav_royalty_cloak_01
+			}
+		}
+
+
+##########################################################################
+####Byzantine Duke
+##########################################################################		
+		byzantine_duchy = {
+			index = 41
+			male = {
+				1 = male_byzantine_duchy_sagum_01	
+				1 = male_byzantine_duchy_sagum_02				
+			}
+			female = {
+				1 = empty
+			}
+		}
+
+
+
+
+
+
+
+
+
 
 
 
