@@ -1009,7 +1009,18 @@ accessory_genes = {
 			}
 		}
 
-
+##########################################################################
+####Georgia Royal
+##########################################################################
+		georgia_royalty = {
+			index = 42
+			male = {
+				1 = male_georgia_royalty_sagum_01			
+			}
+			female = {
+				1 = female_georgia_royalty_cloak_01
+			}
+		}
 
 
 
