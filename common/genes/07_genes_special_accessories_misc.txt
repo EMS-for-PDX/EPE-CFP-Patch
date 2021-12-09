@@ -1022,7 +1022,18 @@ accessory_genes = {
 			}
 		}
 
-
+##########################################################################
+####Armenian Royal
+##########################################################################
+		armenian_royalty = {
+			index = 43
+			male = {
+				1 = male_armenian_royalty_sagum_01			
+			}
+			female = {
+				1 = female_armenian_royalty_cloak_01
+			}
+		}
 
 
 
