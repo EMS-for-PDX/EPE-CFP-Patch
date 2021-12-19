@@ -1001,6 +1001,7 @@ accessory_genes = {
 		byzantine_duchy = {
 			index = 41
 			male = {
+				1 = empty			
 				1 = male_byzantine_duchy_sagum_01	
 				1 = male_byzantine_duchy_sagum_02				
 			}
