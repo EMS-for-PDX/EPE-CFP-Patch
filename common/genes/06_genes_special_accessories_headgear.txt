@@ -92,6 +92,7 @@ accessory_genes = {
 				1 = male_headgear_secular_northern_war_viking_04
             ####CFP anglo-Saxon royalty
 				1 = male_headgear_secular_northern_royalty_suttonhoo_01
+				1 = male_headgear_secular_northern_cfp_war_coppergate_01
             ####CFP western war high noble headgears			
 				1 = male_headgear_secular_western_war_high_nobility_01
 				1 = male_headgear_secular_dde_hre_war_high_nobility_01
@@ -114,6 +115,7 @@ accessory_genes = {
             ####CFP turkic war headgears
 				1 = male_headgears_secular_turkic_war_cuman_01
 				1 = male_headgears_secular_turkic_war_cuman_02
+				1 = male_headgear_secular_turkic_cfp_war_kipchak_02
            ####CFP slavic headgears
 				1 = male_headgear_secular_slavic_high_nobility_01
 				1 = male_headgear_secular_slavic_royalty_01
@@ -121,6 +123,7 @@ accessory_genes = {
            ####CFP slavic war headgears
 				1 = male_headgears_secular_slavic_war_helmet_01
 				1 = male_headgears_secular_slavic_war_helmet_02
+				1 = male_headgear_secular_slavic_cfp_war_type4_01
            ####rre_imperial headgears
 				1 = male_headgear_secular_rre_laurelwreath_02
 				1 = male_headgear_secular_rre_laurelwreath_03
@@ -313,6 +316,7 @@ accessory_genes = {
             ####CFP turkic war headgears
 				1 = female_headgears_secular_turkic_war_cuman_01
 				1 = female_headgears_secular_turkic_war_cuman_02
+				1 = female_headgear_secular_turkic_cfp_war_kipchak_02
            ####CFP slavic headgears
 				1 = female_headgear_secular_slavic_high_nobility_01
 				1 = female_headgear_secular_slavic_royalty_01
@@ -320,6 +324,7 @@ accessory_genes = {
            ####CFP slavic war headgears
 				1 = female_headgears_secular_slavic_war_helmet_01
 				1 = female_headgears_secular_slavic_war_helmet_02
+				1 = female_headgear_secular_slavic_cfp_war_type4_01
            ####rre_imperial headgears
 				1 = female_headgear_secular_rre_laurelwreath_02
 				1 = female_headgear_secular_rre_laurelwreath_03
@@ -1114,7 +1119,9 @@ accessory_genes = {
                 5 = female_headgear_secular_byzantine_high_nobility_01
             ####CFP byzantine headgears	
                 1 = female_headgear_secular_byzantine_propoloma_high_01
-                1 = female_headgear_secular_byzantine_propoloma_high_02						
+                1 = female_headgear_secular_byzantine_propoloma_high_02
+				1 = female_headgear_secular_byzantine_propoloma_high_03
+				1 = female_headgear_secular_byzantine_propoloma_high_04
             }
             boy = male
             girl = female
@@ -1131,7 +1138,8 @@ accessory_genes = {
             female = {
                 1 = female_headgear_secular_byzantine_nobility_01
             ####CFP byzantine headgears					
-                1 = female_headgear_secular_byzantine_propoloma_low_01						
+                1 = female_headgear_secular_byzantine_propoloma_low_01
+				1 = female_headgear_secular_byzantine_propoloma_low_02				
             }
             boy = male
             girl = female
@@ -1985,10 +1993,14 @@ accessory_genes = {
 		turkish_war = {
 			index = 87
 			male = {
-				1 = male_headgear_secular_steppe_war_nobility_01				
+				1 = male_headgear_secular_steppe_war_nobility_01
+				1 = male_headgear_secular_turkic_cfp_war_kipchak_02
+				1 = male_headgear_secular_turkic_cfp_war_kipchak_01
 			}
 			female = {
 				1 = female_headgear_secular_steppe_war_nobility_01
+				1 = female_headgear_secular_turkic_cfp_war_kipchak_02
+				1 = female_headgear_secular_turkic_cfp_war_kipchak_01
 				
 			}
 			boy = male
@@ -3797,7 +3809,7 @@ accessory_genes = {
             female = {
                 1 = female_headgear_northern_slav_headband_01_high
            ####CFP slavic headgears
-				1 = female_headgear_secular_slavic_high_nobility_01					
+				1 = female_headgear_secular_slavic_high_nobility_01
 
             }
             boy = male
@@ -3841,13 +3853,15 @@ accessory_genes = {
 				5 = male_headgear_secular_northern_war_nobility_01
            ####CFP slavic war headgears
 				1 = male_headgears_secular_slavic_war_helmet_01
-				1 = male_headgears_secular_slavic_war_helmet_02				
+				1 = male_headgears_secular_slavic_war_helmet_02	
+				1 = male_headgear_secular_slavic_cfp_war_type4_01		
 			}
 			female = {
 				1 = female_headgear_secular_northern_war_nobility_01
            ####CFP slavic war headgears
 				1 = female_headgears_secular_slavic_war_helmet_01
-				1 = female_headgears_secular_slavic_war_helmet_02				
+				1 = female_headgears_secular_slavic_war_helmet_02
+				1 = female_headgear_secular_slavic_cfp_war_type4_01			
 			}
 			boy = male
             girl = female
@@ -4006,13 +4020,15 @@ accessory_genes = {
 				2 = male_kipchak_war_helmet_01	
             ####CFP turkic war headgears
 				1 = male_headgears_secular_turkic_war_cuman_01
-				1 = male_headgears_secular_turkic_war_cuman_02					
+				1 = male_headgears_secular_turkic_war_cuman_02
+				1 = male_headgear_secular_turkic_cfp_war_kipchak_02				
 			}
 			female = {
 				1 = female_headgear_secular_steppe_war_nobility_01
             ####CFP turkic war headgears
 				1 = female_headgears_secular_turkic_war_cuman_01
-				1 = female_headgears_secular_turkic_war_cuman_02					
+				1 = female_headgears_secular_turkic_war_cuman_02
+				1 = female_headgear_secular_turkic_cfp_war_kipchak_02			
 				
 			}
 			boy = male
@@ -4977,7 +4993,7 @@ accessory_genes = {
 				1 = male_early_west_nasalhelm_02	
 				1 = male_high_west_phrygian_01	
 				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03				
+				1 = male_high_west_phrygian_03		
 						
 			}
 			female = {
@@ -4986,7 +5002,7 @@ accessory_genes = {
 				1 = female_western_bandhelm_03	
 				1 = female_western_bandhelm_04				
 				2 = female_headgear_secular_western_war_nobility_01
-				2 = female_headgear_secular_crusades_western_war_nobility_01				
+				2 = female_headgear_secular_crusades_western_war_nobility_01
 			}
 			boy = male
             girl = female
