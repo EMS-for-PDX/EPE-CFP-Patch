@@ -1167,7 +1167,8 @@ accessory_genes = {
 		byzantine_imperial = {
 			index = 37
 			male = {
-				1 = male_byz_imp_stemma_01	
+				1 = male_byz_imp_stemma_01
+				1 = male_byz_imp_stemma_02	
 				1 = male_headgear_secular_byzantine_imperial_01	
             ####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_imperial_02
