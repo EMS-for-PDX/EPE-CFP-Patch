@@ -3460,8 +3460,10 @@ accessory_genes = {
 				2 = empty	
 				10 = male_headgear_secular_sogdian_cap_01_low					
 				10 = male_headgear_secular_sogdian_headband_01_low	
+				10 = male_headgear_secular_sogdian_headband_01_low_white					
 				10 = male_non_islamic_iranian_bulb_02_low	
-				10 = male_non_islamic_iranian_bulb_03_low				
+				10 = male_non_islamic_iranian_bulb_03_low
+				
             }
             female = {
                 4 = empty
@@ -3488,6 +3490,7 @@ accessory_genes = {
 				3 = male_non_islamic_iranian_bulb_01_high_color			
 				3 = male_non_islamic_iranian_bulb_02_high
 				1 = male_non_islamic_iranian_bulb_02_low
+				1 = male_headgear_secular_sogdian_headband_01_low_white					
 
 				
 			}
