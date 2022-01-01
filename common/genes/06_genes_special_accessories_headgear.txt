@@ -5446,8 +5446,15 @@ accessory_genes = {
 		west_slav_war = {
 			index = 236
 			male = {
-				1 = male_moravian_spangenhelm_01
-				1 = male_moravian_spangenhelm_02										
+				1 = male_headgear_secular_western_war_nobility_01
+				1 = male_headgear_secular_crusades_western_war_nobility_01				
+				1 = male_early_west_nasalhelm_01
+				1 = male_early_west_nasalhelm_02	
+				1 = male_high_west_phrygian_01	
+				1 = male_high_west_phrygian_02	
+				1 = male_high_west_phrygian_03	
+				1 = male_High_West_Phrygian_Round_Helm_01	
+				1 = male_High_West_Phrygian_Round_Helm_02							
 			}
 			female = {
 				1 = female_headgear_secular_western_war_nobility_01

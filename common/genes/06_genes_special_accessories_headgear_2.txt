@@ -2244,7 +2244,95 @@ accessory_genes = {
             girl = female
 		}				
 				
-		
+##########################################################################
+####Early West Slav
+##########################################################################
+
+
+		early_west_slav_common = {
+			index = 126
+			male = {
+				3 = empty			
+				2 = male_Turkic_Fur_Cap_02
+				1 = male_Turkic_Fur_Cap_01
+				1 = male_headgear_secular_fp1_common_01				
+				
+			}
+			female = {
+				1 = female_headgear_secular_fp1_common_01
+				1 = female_headgear_secular_fp1_common_02
+				1 = female_headgear_secular_northern_common_01				
+			}
+		}
+
+		early_west_slav_low_nobility = {
+			index = 127
+			male = {
+				2 = male_headgear_secular_fp1_nobility_01
+				1 = male_headgear_secular_fp1_common_01
+				1 = male_Turkic_Fur_Cap_02
+				
+			}
+			female = {
+				1 = female_headgear_secular_fp1_common_01
+				1 = female_headgear_secular_fp1_common_02
+				1 = female_headgear_secular_fp1_nobility_03	
+				1 = female_headgear_secular_northern_common_01				
+			}
+		}
+
+		early_west_slav_high_nobility = {
+			index = 128
+			male = {
+				2 = male_headgear_secular_fp1_nobility_01
+				1 = male_headgear_secular_fp1_common_01
+				1 = male_Turkic_Fur_Cap_04
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_nobility_01
+				1 = female_headgear_secular_fp1_nobility_02
+				1 = female_headgear_secular_fp1_nobility_03		
+				1 = female_headgear_secular_northern_common_01
+			}
+		}
+
+		early_west_slav_royalty = {
+			index = 129
+			male = {
+				1 = male_headgear_secular_fp1_royalty_01
+			}
+			female = {
+				1 = female_headgear_secular_fp1_royalty_01					
+			}
+		}
+
+		early_west_slav_imperial = {
+			index = 130
+			male = {
+				1 = male_headgear_secular_fp1_imperial_01
+
+			}
+			female = {
+				1 = female_headgear_secular_fp1_imperial_01		
+						
+			}
+		}	
+
+		early_west_slav_war = {
+			index = 131
+			male = {
+				1 = male_moravian_spangenhelm_01
+				1 = male_moravian_spangenhelm_02				
+			}
+			female = {
+				1 = female_western_bandhelm_01
+				1 = female_western_bandhelm_02	
+				1 = female_western_bandhelm_03	
+				1 = female_western_bandhelm_04	
+				
+			}
+		}		
 		
 		
 		
