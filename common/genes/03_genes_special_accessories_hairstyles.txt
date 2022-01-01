@@ -2144,6 +2144,99 @@ special_genes = {
 				boy = male
 				girl = male
 			}
+			
+##########################################################################
+####Gaelic/Irish  
+##########################################################################				
+				gaelic_hairstyles_straight = {
+					index = 86
+					male = {
+						2 = male_hair_fp1_01 # Medium short center part
+						2 = male_hair_fp1_02 # Center part ponytail
+						2 = male_hair_fp1_03 # Mohawk ish
+						2 = male_hair_fp1_04 # Medium short pulled back
+						2 = male_hair_fp1_05 # Long fine
+						3 = male_hair_fp1_06 # Medium long side part well kempt
+						2 = male_hair_fp1_07 # Medium long side part thick
+						3 = male_hair_fp1_08 # Long straight with bangs as braids
+						2 = male_hair_fp1_09 # Single braid in back, shaved sides
+						2 = male_hair_rtt_01	
+						###western
+						3 = male_hair_western_01 # Bowl cut
+						2 = male_hair_western_03 # Buzz cut
+						3 = male_hair_western_07 # Long side part
+						2 = male_hair_western_09 # Short clumpy
+						1 = male_hair_byzantine_02 # Roman style
+				        1 = male_hair_frankish_01							
+						
+					}
+
+					female = {
+						3 = female_hair_fp1_01 # Let out but with smaller braids braided in
+						2 = female_hair_fp1_02 # Very big loose braid on one shoulder
+						2 = female_hair_fp1_03 # Pigtail braids
+						2 = female_hair_fp1_04 # Crown braid with ribbon
+						3 = female_hair_fp1_05 # Twin tails on chest, let out in back
+						3 = female_hair_fp1_06 # Let out fluffy straight
+						###western						
+						3 = female_hair_western_01 # Crown braid
+						3 = female_hair_western_03 # Rolled braid
+						3 = female_hair_western_07 # Twin tails with ribbons
+						3 = female_hair_western_08 # Twin braids tied up on head
+						3 = female_hair_western_09 # Chignon
+						3 = female_hair_western_10 # Single tail ribboned						
+						
+					}
+					boy = male
+					girl = female
+				}
+
+				gaelic_hairstyles_wavy = {
+					index = 87
+					male = {
+						2 = male_hair_fp1_01 # Medium short center part
+						2 = male_hair_fp1_02 # Center part ponytail
+						2 = male_hair_fp1_03 # Mohawk ish
+						2 = male_hair_fp1_04 # Medium short pulled back
+						2 = male_hair_fp1_05 # Long fine
+						2 = male_hair_fp1_07 # Medium long side part thick
+						2 = male_hair_fp1_09 # Single braid in back, shaved sides
+						2 = male_hair_rtt_01	
+						###western
+						3 = male_hair_western_02 # Medium/long wavy
+						1 = male_hair_western_03 # Buzz cut
+						1 = male_hair_western_04 # Fade, shaved sides
+						3 = male_hair_western_05 # Medium/long wavy with fringe
+						3 = male_hair_western_06 # Messy bowl
+						3 = male_hair_western_07 # Long side part
+						3 = male_hair_western_08 # Medium/long center part
+						1 = male_hair_western_09 # Short clumpy
+						3 = male_hair_mena_02 # Well kempt wavy
+						1 = male_hair_byzantine_01 # Curled bowl
+						1 = male_hair_byzantine_02 # Roman style
+				        1 = male_hair_frankish_01						
+					}
+
+					female = {
+						2 = female_hair_fp1_02 # Very big loose braid on one shoulder
+						2 = female_hair_fp1_03 # Pigtail braids
+						2 = female_hair_fp1_04 # Crown braid with ribbon
+						###western						
+						3 = female_hair_western_01 # Crown braid
+						3 = female_hair_western_02 # Long wavy
+						3 = female_hair_western_03 # Rolled braid
+						3 = female_hair_western_04 # Twin braids wavy
+						3 = female_hair_western_05 # Behind head wavy
+						3 = female_hair_western_06 # Tight updo with barbette
+						3 = female_hair_western_07 # Twin tails with ribbons
+						3 = female_hair_western_08 # Twin braids tied up on head
+						3 = female_hair_western_09 # Chignon						
+					}
+					boy = male
+					girl = female
+				}				
+			
+			
 		}
 
 	}

@@ -2750,20 +2750,7 @@ accessory_genes = {
             girl = female
 		}			
 		
-######################
-		gaelic_high_nobility = {
-			index = 116
-			male = {
-				1 = male_celtic_leather_headband_01
-				1 = male_celtic_leather_headband_02				
-			}
-			female = {
-				1 = female_celtic_leather_headband_01	
-				1 = female_celtic_leather_headband_02					
-			}
-			boy = male
-            girl = female
-		}		
+		
 ##############################
 ######################
 		norse_high_nobility = {
@@ -5831,7 +5818,7 @@ accessory_genes = {
             girl = female
 		}
 
-
+		###index = 116 free space
 
 
 
