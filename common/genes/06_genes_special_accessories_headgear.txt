@@ -1087,7 +1087,12 @@ accessory_genes = {
 				1 = male_headgear_secular_northern_war_nasal_02
 				1 = male_headgear_secular_northern_war_nasal_03
 				1 = male_headgear_secular_western_war_mail_coif_01
-				1 = male_headgear_secular_western_war_mail_coif_02					
+				1 = male_headgear_secular_western_war_mail_coif_02	
+            ####CFP norse war
+				1 = male_headgear_secular_northern_war_viking_01
+				1 = male_headgear_secular_northern_war_viking_02
+				1 = male_headgear_secular_northern_war_viking_03
+				1 = male_headgear_secular_northern_war_viking_04				
 				}
 			female = {
 				1 = female_norse_gjermundbu_01t					
@@ -1099,7 +1104,12 @@ accessory_genes = {
 				1 = female_headgear_secular_northern_war_nasal_03
 				1 = female_headgear_secular_western_war_mail_coif_01
 				1 = female_headgear_secular_western_war_mail_coif_02
-				1 = female_headgear_secular_western_war_padded_hood_01					
+				1 = female_headgear_secular_western_war_padded_hood_01	
+            ####CFP norse war
+				1 = female_headgear_secular_northern_war_viking_01
+				1 = female_headgear_secular_northern_war_viking_02
+				1 = female_headgear_secular_northern_war_viking_03
+				1 = female_headgear_secular_northern_war_viking_04					
 			}
 			boy = male
             girl = female
@@ -1210,6 +1220,7 @@ accessory_genes = {
 			index = 38
 			male = {
 				1 = male_headgear_secular_byzantine_war_nobility_01
+				1 = male_epe_byz_spangenhelm_01					
             ####CFP byzantine war headgears	
 				1 = male_headgear_secular_byzantine_war_nobility_02
 				1 = male_headgear_secular_byzantine_war_roman_01
@@ -5591,7 +5602,8 @@ accessory_genes = {
 		Khazar_war = {
 			index = 244
 			male = {
-				1 = male_khazar_helmet_01				
+				1 = male_khazar_helmet_01	
+				1 = male_epe_byz_spangenhelm_01					
 			}
 			female = {
 				1 = female_headgear_secular_steppe_war_nobility_01

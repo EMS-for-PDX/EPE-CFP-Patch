@@ -1123,7 +1123,7 @@ accessory_genes = {
 			index = 62
 			male = {
 				1 = male_headgear_secular_byzantine_war_nobility_01
-				
+				1 = male_epe_byz_spangenhelm_01					
 			}
 			female = {
 				1 = female_headgear_secular_byzantine_war_nobility_01
@@ -1209,7 +1209,7 @@ accessory_genes = {
 			index = 68
 			male = {
 				1 = male_headgear_secular_byzantine_war_nobility_01
-				
+				1 = male_epe_byz_spangenhelm_01					
 			}
 			female = {
 				1 = female_headgear_secular_byzantine_war_nobility_01
@@ -1295,7 +1295,7 @@ accessory_genes = {
 			index = 74
 			male = {
 				1 = male_headgear_secular_byzantine_war_nobility_01
-				
+				1 = male_epe_byz_spangenhelm_01					
 			}
 			female = {
 				1 = female_headgear_secular_byzantine_war_nobility_01
