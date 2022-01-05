@@ -2298,10 +2298,8 @@ accessory_genes = {
 
 			}
 			female = {
-				1 = female_headgear_secular_fp1_nobility_01
-				1 = female_headgear_secular_fp1_nobility_02
-				1 = female_headgear_secular_fp1_nobility_03		
-				1 = female_headgear_secular_northern_common_01
+				2 = female_headgear_early_west_slav_high_03	
+				2 = female_headgear_early_west_slav_high_04	
 			}
 		}
 
