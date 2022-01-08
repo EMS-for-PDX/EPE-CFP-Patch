@@ -1907,34 +1907,21 @@ accessory_genes = {
 
 		early_western_high_nobility = {
 			index = 112
-			male = {
-				1 = male_headgear_secular_western_high_nobility_01			
-				1 = male_western_high_noble_circlet_4
-				1 = male_western_high_noble_circlet_5
-				1 = male_western_high_noble_circlet_6
-				1 = male_western_high_noble_circlet_7	
-				1 = male_Circlets_Western_Small_Gold_Pearls
-				1 = male_Circlets_Western_Small_Silver_Pearls	
-				1 = male_Circlets_Western_Small_Simple
-				1 = male_Circlets_Western_Small_Simple_silver	
-				1 = male_Circlets_Western_Small_Jewells
-				1 = male_Circlets_Western_Small_Jewells_silver					
-			}
-			female = {
-				1 = female_headgear_secular_western_high_nobility_01		
-				1 = female_western_high_noble_circlet_4
-				1 = female_western_high_noble_circlet_5 
-				1 = female_western_high_noble_circlet_6 
-				1 = female_western_high_noble_circlet_7 					
-				1 = female_Circlet_High_Noble_covervail_circlet_04 			
-				1 = female_Circlet_High_Noble_covervail_circlet_05 			
-				1 = female_Circlet_High_Noble_Headvail_circlet_04 			
-				1 = female_Circlet_High_Noble_Headvail_circlet_05 
-				1 = female_Circlet_High_Noble_Headvail_circlet_06 
-				1 = female_Circlet_High_Noble_covervail_circlet_06 	
-				1 = female_Circlet_High_Noble_Headvail_circlet_07 
-				1 = female_Circlet_High_Noble_covervail_circlet_07 						
-			}
+            male = {
+				1 = male_west_early_noble_circlet_01
+				1 = male_west_early_noble_circlet_02
+				1 = male_west_early_noble_circlet_03
+				1 = male_west_early_noble_circlet_04
+				1 = male_west_early_noble_circlet_05
+            }
+            female = {
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver							
+            }
 			boy = male
             girl = female
 		}
@@ -2156,30 +2143,21 @@ accessory_genes = {
 		gaelic_low_nobility = {
             index = 121
             male = {
-				1 = male_Circlets_Western_Small_Gold_Pearls
-				2 = male_Circlets_Western_Small_Leather_Pearls
-                2 = male_Circlets_Western_Small_Leather_Pearls_02
-                2 = male_Circlets_Western_Small_Leather_Pearls_03
-				1 = male_Circlets_Western_Small_Silver_Pearls
-				1 = male_Circlets_Western_Small_Simple
-				1 = male_Circlets_Western_Small_Simple_silver
-				1 = male_Circlets_Western_Small_Jewells
-				1 = male_Circlets_Western_Small_Jewells_silver	
+				5 = male_celtic_leather_headband_01	
+				5 = male_celtic_leather_headband_02
+				3 = male_gaelic_low_noble_circlet_04
+				3 = male_gaelic_low_noble_circlet_05
+				1 = male_Circlets_Western_Small_Leather_Pearls
+                1 = male_Circlets_Western_Small_Leather_Pearls_02
+                1 = male_Circlets_Western_Small_Leather_Pearls_03
             }
             female = {
-				2 = female_Circlets_Western_Small_Gold_Pearls	
-				2 = female_Circlets_Western_Small_Silver_Pearls	
-				2 = female_Circlets_Western_Small_Leather_Pearls
+				3 = female_celtic_leather_headband_01	
+				3 = female_celtic_leather_headband_02
                 2 = female_Circlets_Western_Small_Leather_Pearls_02
                 2 = female_Circlets_Western_Small_Leather_Pearls_03
-				1 = female_Circlets_Western_Small_Jewells
-				1 = female_Circlets_Western_Small_Jewells_silver	
-				1 = female_Circlets_Western_Small_Simple
-				1 = female_Circlets_Western_Small_Simple_silver						
-                5 = female_headgear_secular_western_nobility_01
-                5 = female_headgear_secular_western_nobility_01_2
-				5 = female_headgear_secular_western_nobility_02
-				5 = female_headgear_secular_western_nobility_03
+				3 = female_gaelic_low_noble_circlet_04
+				3 = female_gaelic_low_noble_circlet_05			
             }
             boy = male
             girl = female
@@ -2189,18 +2167,12 @@ accessory_genes = {
 		gaelic_high_nobility = {
 			index = 122
 			male = {
-				4 = male_celtic_leather_headband_01
-				4 = male_celtic_leather_headband_02		
-				2 = male_Circlets_Western_Small_Leather_Pearls
-                2 = male_Circlets_Western_Small_Leather_Pearls_02
-                2 = male_Circlets_Western_Small_Leather_Pearls_03	
+				2 = male_gaelic_high_noble_circlet_01
+                2 = male_gaelic_high_noble_circlet_02
 			}
 			female = {
-				4 = female_celtic_leather_headband_01	
-				4 = female_celtic_leather_headband_02
-				2 = female_Circlets_Western_Small_Leather_Pearls
-                2 = female_Circlets_Western_Small_Leather_Pearls_02
-                2 = female_Circlets_Western_Small_Leather_Pearls_03		
+				2 = female_gaelic_high_noble_circlet_01
+                2 = female_gaelic_high_noble_circlet_02
 			}
 			boy = male
             girl = female
@@ -2209,10 +2181,12 @@ accessory_genes = {
 		gaelic_royalty = {
 			index = 123
 			male = {
-				1 = male_headgear_secular_western_royalty_01				
+                2 = male_gaelic_royal_crown_01
+				2 = male_gaelic_royal_crown_02		
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01				
+                2 = female_gaelic_royal_crown_01
+				2 = female_gaelic_royal_crown_02				
 			}
 			boy = male
             girl = female
@@ -2221,10 +2195,10 @@ accessory_genes = {
 		gaelic_imperial = {
 			index = 124
 			male = {
-				1 = male_headgear_secular_western_royalty_02			
+				2 = male_gaelic_imperial_crown_01
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01			
+				2 = female_gaelic_imperial_crown_01	
 			}
 			boy = male
             girl = female
@@ -2243,7 +2217,8 @@ accessory_genes = {
 			boy = male
             girl = female
 		}				
-				
+		
+		
 ##########################################################################
 ####Early West Slav
 ##########################################################################
