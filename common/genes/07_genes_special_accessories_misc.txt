@@ -796,7 +796,7 @@ accessory_genes = {
 				1 = male_frankish_high_sagum_01
 			}
 			female = {
-				1 = empty			
+				1 = female_cloaks_secular_western_royalty_01	
 			}
 		}
 

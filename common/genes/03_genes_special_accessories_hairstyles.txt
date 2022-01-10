@@ -1,4 +1,4 @@
-﻿
+﻿ 
 
 special_genes = {
 
@@ -50,6 +50,7 @@ special_genes = {
 				1 = male_hair_northern_03
 				1 = male_hair_steppe_01
 				1 = male_hair_steppe_02
+				1 = male_hair_fp1_08
                ##EPE
 				1 = male_hair_ethiopian_01
 				1 = male_hair_ethiopian_02
@@ -1188,13 +1189,17 @@ special_genes = {
 			}
 
 			female = {
-				4 = female_hair_custom_05				
-				4 = female_hair_western_06				
+				6 = female_hair_custom_05				
+				3 = female_hair_western_06
+				9 = female_hair_western_07					
 				5 = female_hair_western_05
-				5 = female_hair_western_04
+				9 = female_hair_western_04
 				5 = female_hair_western_01		
-				5 = female_hair_western_08	
-				5 = female_hair_western_09					
+				3 = female_hair_western_08	
+				5 = female_hair_western_09	
+				8 = female_hair_western_04 # Twin braids wavy
+				8 = female_hair_western_07 # Twin tails with ribbons
+				6 = female_hair_western_10 # Single tail ribboned				
 			}
 			boy = {
 				1 = male_hair_western_09
@@ -1226,13 +1231,17 @@ special_genes = {
 			}
 
 			female = {
-				4 = female_hair_custom_05				
-				4 = female_hair_western_06				
+				6 = female_hair_custom_05
+				8 = female_hair_western_06
+				9 = female_hair_western_07
 				5 = female_hair_western_05
-				5 = female_hair_western_04
-				5 = female_hair_western_01		
-				5 = female_hair_western_08	
-				5 = female_hair_western_09					
+				7 = female_hair_western_04
+				3 = female_hair_western_01		
+				3 = female_hair_western_08	
+				3 = female_hair_western_09
+				4 = female_hair_western_02 # Long wavy
+				8 = female_hair_western_04 # Twin braids wavy
+				3 = female_hair_western_05 # Behind head wavy					
 			}
 			boy = {
 				1 = male_hair_western_09
@@ -1264,6 +1273,7 @@ special_genes = {
 				female = {
 					3 = female_hair_western_05 # Behind head wavy
 					3 = female_hair_western_06 # Tight updo with barbette
+					6 = female_hair_custom_05
 				}
 				boy = male
 				girl = female
