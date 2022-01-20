@@ -702,7 +702,8 @@ special_genes = {
 
 				female = {
 					2 = female_hair_western_05 # Behind head wavy
-					2 = female_hair_indian_03 # Let out wavy with jewelry					
+					2 = female_hair_custom_01 # Let out wavy now with jewelry	
+					2 = female_hair_custom_05 									
 				}
 				boy = male
 				girl = female
@@ -1167,7 +1168,8 @@ special_genes = {
 				female = {
 					2 = female_hair_western_05 # Behind head wavy
 					2 = female_hair_western_02 # Long wavy	
-				    2 = female_hair_custom_05					
+				    2 = female_hair_custom_05
+					2 = female_hair_custom_01 # Let out wavy now with jewelry						
 				}
 				boy = male
 				girl = female
