@@ -56,6 +56,9 @@ special_genes = {
 					1 = male_beard_indian_03
 					1 = male_beard_fp1_01
 					1 = male_beard_fp1_05
+				    1 = epe_male_beard_fp1_02 #						
+				    1 = epe_male_beard_fp1_04 #	
+				    1 = epe_male_beard_indian_01 #							
 					1 = cfp_male_sideburns_western_01
 					1 = cfp_male_frenchfork_western_01
 					1 = cfp_male_sideburns_western_02
@@ -211,7 +214,7 @@ special_genes = {
 					5 = cfp_male_sideburns_western_01
 					10 = cfp_male_goatee_northern_01
 					10 = cfp_male_goatee_northern_02				
-								
+				    1 = epe_male_beard_fp1_04 #										
 				}
 				female = {
 					1 = empty
@@ -228,7 +231,8 @@ special_genes = {
 					5 = male_beard_western_03 # Short beard
 					10 = male_beard_western_04 # Short goatee
 					10 = male_beard_western_06 # Big bushy beard
-					5 = cfp_male_moustache_slavic_01								
+					5 = cfp_male_moustache_slavic_01	
+				    1 = epe_male_beard_fp1_04 #							
 				}
 				female = {
 					1 = empty
@@ -251,7 +255,7 @@ special_genes = {
 					5 = male_beard_steppe_01
 					5 = male_beard_steppe_02
 					5 = male_beard_turkic_01	
-			
+				    5 = epe_male_beard_fp1_02 #					
 				}
 				female = {
 					1 = empty
@@ -271,6 +275,7 @@ special_genes = {
 					5 = male_beard_steppe_01
 					5 = male_beard_steppe_02
 					5 = male_beard_turkic_01	
+				    5 = epe_male_beard_fp1_02 #						
 					
 				}
 				female = {
@@ -303,7 +308,8 @@ special_genes = {
 					10 = male_beard_indian_03 # Big messy straight beard
 				10 = male_long_mustache_indian_01	
 				10 = male_long_mustache_indian_02	
-				10 = male_long_mustache_indian_03					
+				10 = male_long_mustache_indian_03	
+				 2 = epe_male_beard_indian_01 #							
 								
 				}
 				female = {
@@ -322,7 +328,7 @@ special_genes = {
 					5 = male_beard_mena_02 # Big with small mustache
 				15 = male_long_mustache_indian_02	
 				15 = male_long_mustache_indian_03						
-								
+				 2 = epe_male_beard_indian_01 #											
 				}
 				female = {
 					1 = empty
@@ -446,7 +452,9 @@ special_genes = {
 				10 = male_long_mustache_indian_02	
 				10 = male_long_mustache_indian_03
 				20 = mena_curled_mustache_chinstrap_01
-				20 = mena_islamic_pointed_beard								
+				20 = mena_islamic_pointed_beard		
+				 5 = epe_male_beard_fp1_04 #	
+				 2 = epe_male_beard_indian_01 #							 
 				}
 				female = {
 					1 = empty
@@ -465,7 +473,8 @@ special_genes = {
 				    15 = male_long_mustache_indian_03					
 					5 = male_beard_mena_01 # Very curly medium length full beard
 					5 = male_beard_mena_02 # Big with small mustache
-								
+				    5 = epe_male_beard_fp1_04 #	
+				    2 = epe_male_beard_indian_01 #								
 				}
 				female = {
 					1 = empty
@@ -618,7 +627,8 @@ special_genes = {
 				5 = male_beard_custom_03				 
 				5 = male_beard_steppe_01
 				5 = male_beard_steppe_02
-				5 = male_beard_turkic_01				
+				5 = male_beard_turkic_01
+				5 = epe_male_beard_fp1_02 #					
 				}
 				female = {
 					1 = empty
@@ -637,7 +647,8 @@ special_genes = {
 				 5 = mena_curled_mustache_chinstrap_01
 				 5 = mena_islamic_pointed_beard_03
 				 5 = male_mustache_iranian_05	
-				 5 = mena_islamic_pointed_beard				 
+				 5 = mena_islamic_pointed_beard		
+				 5 = epe_male_beard_fp1_02 #					 
 				}
 				female = {
 					1 = empty
@@ -832,7 +843,8 @@ special_genes = {
 				10 = male_beard_western_07
 				10 = male_beard_western_08
 				5 = male_beard_western_09
-				#5 = male_beard_western_10			
+				#5 = male_beard_western_10	
+				5 = epe_male_beard_fp1_04 #					
 				}
 				female = {
 					1 = empty
@@ -851,6 +863,7 @@ special_genes = {
 					5 = male_beard_western_05 # Mustache
 					20 = male_beard_western_06 # Big bushy beard
 					15 = male_beard_mena_04 # Short stylish
+				    5 = epe_male_beard_fp1_04 #						
 				}
 				female = {
 					1 = empty
