@@ -1175,11 +1175,11 @@ accessory_genes = {
         bulgarian_royalty = {
             index = 66
             male = {
-                1 = male_headgear_secular_byzantine_royalty_01
+                1 = male_bulg_imperial_crown_01
                 
             }
             female = {
-                1 = female_headgear_secular_byzantine_royalty_01
+                1 = female_bulg_imperial_crown_01
                 
             }
             boy = male
@@ -1189,11 +1189,11 @@ accessory_genes = {
 		bulgarian_imperial = {
 			index = 67
 			male = {
-				1 = male_headgear_secular_byzantine_imperial_01
+				1 = male_bulg_imperial_crown_01
 				
 			}
 			female = {
-				1 = female_headgear_secular_byzantine_imperial_01				
+                1 = female_bulg_imperial_crown_01			
 			}
 			boy = male
             girl = female
