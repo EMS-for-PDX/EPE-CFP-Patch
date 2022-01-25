@@ -62,6 +62,8 @@ special_genes = {
 				1 = male_hair_turkic_04	
 				1 = male_hair_turkic_05				
 				1 = male_hair_turkic_06	
+				1 = epe_male_hair_steppe_01
+			    1 = epe_male_hair_steppe_02					
 				1 = male_hair_frankish_01					
 			   
                ###CFP hairstyles
@@ -664,9 +666,11 @@ special_genes = {
 				index = 26
 				male = {
 					#weight = <object in gfx/portrait/accessories/>
-					3 = male_hair_steppe_01 # Looped twin braids, forehead patch
-					3 = male_hair_steppe_02 # Long twin tails, forward combed mohawk
-					
+						3 = male_hair_steppe_01 # Looped twin braids, forehead patch
+						3 = male_hair_steppe_02 # Long twin tails, forward combed mohawk
+						3 = epe_male_hair_steppe_01
+			          	3 = male_hair_turkic_06	 		
+			          	3 = epe_male_hair_steppe_02						
 				}
 
 				female = {
@@ -682,9 +686,11 @@ special_genes = {
 				index = 27
 				male = {
 					#weight = <object in gfx/portrait/accessories/>
-					3 = male_hair_steppe_01 # Looped twin braids, forehead patch
-					3 = male_hair_steppe_02 # Long twin tails, forward combed mohawk
-					
+						3 = male_hair_steppe_01 # Looped twin braids, forehead patch
+						3 = male_hair_steppe_02 # Long twin tails, forward combed mohawk
+						3 = epe_male_hair_steppe_01
+			          	3 = male_hair_turkic_06	 		
+			          	3 = epe_male_hair_steppe_02						
 				}
 
 				female = {
@@ -1168,6 +1174,7 @@ special_genes = {
 					2 = male_hair_mena_01 # Short curly
 					2 = male_hair_mena_03 # Curly ball
 					2 = male_hair_mena_04 # Medium curly
+					
 				}
 
 				female = {
