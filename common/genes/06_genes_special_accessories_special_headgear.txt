@@ -152,7 +152,171 @@ accessory_genes = {
             girl = female
 		}		
 		
-		
+##########################################################################
+#### Royal Court/Expansion pack 1 Dlc headgears
+##########################################################################
+	## EP1 - ROCCO ##
+	
+	ep1_western_royalty = {
+		index = 11
+		male = {
+			1 = male_headgear_secular_ep1_western_royalty_01
+			# CFP: add western_royalty options or the EP1 crown is displayed 50% of the time
+			1 = male_headgear_secular_western_royalty_01
+			1 = male_headgear_secular_western_royalty_02
+			1 = male_headgear_secular_western_cfp_royalty_03
+			1 = male_headgear_secular_western_cfp_royalty_01
+			1 = male_headgear_secular_western_cfp_royalty_02
+		}
+		female = {
+			1 = female_headgear_secular_ep1_western_royalty_01
+			1 = female_headgear_secular_western_royalty_01
+			1 = female_headgear_secular_western_royalty_02
+			1 = female_headgear_secular_western_cfp_royalty_03
+			1 = female_headgear_secular_western_cfp_royalty_01
+			1 = female_headgear_secular_western_cfp_royalty_02
+		}
+	}
+
+	ep1_steppe_royalty = {
+		index = 12
+		male = {
+			1 = male_headgear_secular_ep1_mena_royalty_01
+		}
+		female = {
+			1 = female_headgear_secular_ep1_mena_royalty_01
+		}
+	}
+
+	ep1_indian_royalty = {
+		index = 13
+		male = {
+			1 = male_headgear_secular_ep1_indian_royalty_01
+		}
+		female = {
+			1 = female_headgear_secular_ep1_indian_royalty_01
+		}
+	}
+
+	ep1_jester = {
+		index = 14
+		male = {
+			50 = male_headgear_secular_ep1_jester_01
+		}
+		female = {
+			50 = female_headgear_secular_ep1_jester_01
+		}
+		boy = male
+		girl = female
+	}
+
+	ep1_crown_of_justinian = {
+		index = 15
+		male = {
+			50 = male_headgear_secular_ep1_crown_of_justinian
+		}
+		female = {
+			50 = female_headgear_secular_ep1_crown_of_justinian
+		}
+		boy = male
+		girl = female
+	}
+
+	ep1_crown_of_lombardy = {
+		index = 16
+		male = {
+			50 = male_headgear_secular_ep1_crown_of_lombardy
+		}
+		female = {
+			50 = female_headgear_secular_ep1_crown_of_lombardy
+		}
+		boy = male
+		girl = female
+	}
+
+	ep1_sassanid_crown = {
+		index = 17
+		male = {
+			50 = male_headgear_secular_ep1_sassanid_crown
+		}
+		female = {
+			50 = female_headgear_secular_ep1_sassanid_crown
+		}
+		boy = male
+		girl = female
+	}
+
+	ep1_diamond_crown = {
+		index = 18
+		male = {
+			50 = male_headgear_secular_ep1_diamond_crown
+		}
+		female = {
+			50 = female_headgear_secular_ep1_diamond_crown
+		}
+		boy = male
+		girl = female
+	}
+	
+	ep1_sub_saharan_royalty = {
+		index = 19
+		male = {
+			1 = male_headgear_secular_ep1_sub_saharan_royalty_01
+		}
+		female = {
+			1 = female_headgear_secular_ep1_sub_saharan_royalty_01
+		}
+	}
+
+	ep1_mena_royalty = {
+		index = 20
+		male = {
+			1 = male_headgear_secular_ep1_mena_royalty_02
+		}
+		female = {
+			1 = female_headgear_secular_ep1_mena_royalty_02
+		}
+	}
+
+	ep1_indian_imperial = {
+		index = 21
+		male = {
+			1 = male_headgear_secular_ep1_diamond_crown
+		}
+		female = {
+			1 = female_headgear_secular_ep1_diamond_crown
+		}
+	}
+
+	ep1_byzantine_imperial = {
+		index = 22
+		male = {
+			1 = male_headgear_secular_ep1_crown_of_justinian
+		}
+		female = {
+			1 = female_headgear_secular_ep1_crown_of_justinian
+		}
+	}
+
+	ep1_italian_royalty = {
+		index = 23
+		male = {
+			1 = male_headgear_secular_ep1_crown_of_lombardy
+		}
+		female = {
+			1 = female_headgear_secular_ep1_crown_of_lombardy
+		}
+	}
+
+	ep1_persian_imperial = {
+		index = 24
+		male = {
+			1 = male_headgear_secular_ep1_sassanid_crown
+		}
+		female = {
+			1 = female_headgear_secular_ep1_sassanid_crown
+		}
+	}
 		
 		
 		

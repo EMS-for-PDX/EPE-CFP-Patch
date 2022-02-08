@@ -1,7 +1,7 @@
 ﻿
 special_genes = {
 
-
+ 
 	accessory_genes = {
 
 
@@ -186,8 +186,8 @@ special_genes = {
 					20 = male_beard_mena_01 # Very curly medium length full beard
 					20 = male_beard_mena_02 # Big with small mustache
 					20 = male_beard_mena_03 # Big chin strap 
-				20 = mena_islamic_pointed_beard		
-				20 = mena_islamic_pointed_beard_03					
+					20 = mena_islamic_pointed_beard		
+					20 = mena_islamic_pointed_beard_03					
 				}
 				female = {
 					1 = empty
@@ -208,8 +208,8 @@ special_genes = {
 					20 = male_beard_northern_02 # Single braid
 					20 = male_beard_northern_03 # Beaded beard
 					15 = male_beard_mena_04 # Short stylish
-				5 = male_beard_custom_07
-				5 = male_beard_custom_08	
+					5 = male_beard_custom_07
+					5 = male_beard_custom_08	
 					5 = cfp_male_sideburns_western_02
 					5 = cfp_male_sideburns_western_01
 					10 = cfp_male_goatee_northern_01

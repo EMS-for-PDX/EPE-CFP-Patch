@@ -450,6 +450,7 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_secular_byzantine_war_nobility_01_low
+				1 = male_clothes_secular_byzantine_cfp_war_nobility_01
 				
 			}
 
@@ -608,10 +609,15 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_secular_mena_war_nobility_01_low
+				1 = male_clothes_secular_mena_war_nobility_02_low #CFP
+				1 = male_clothes_secular_northern_war_gambeson_02 #CFP
+				1 = male_clothes_secular_mena_cfp_war_common_01
 			}
 
 			female = {
 				1 = female_clothes_secular_mena_war_nobility_01_low
+				1 = female_clothes_secular_mena_war_nobility_02_low  #CFP
+				1 = female_clothes_secular_northern_war_gambeson_02 #CFP
 			}
 
 			boy = male
@@ -683,10 +689,13 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_secular_mena_war_nobility_01_low
+				1 = male_clothes_secular_mena_war_nobility_02_low #CFP
+				1 = male_clothes_secular_mena_cfp_war_common_01
 			}
 
 			female = {
 				1 = female_clothes_secular_mena_war_nobility_01_low
+				1 = female_clothes_secular_mena_war_nobility_02_low  #CFP
 			}
 
 			boy = male
@@ -752,12 +761,14 @@ accessory_genes = {
 
 			male = {		
 				1 = male_clothes_secular_northern_war_nobility_01_common
-				2 = male_clothes_epe_northern_war_nobility_03_common					
+				2 = male_clothes_epe_northern_war_nobility_03_common
+				2 = male_clothes_secular_northern_war_gambeson_01					
 			}
 
 			female = {		
 				1 = female_clothes_secular_northern_war_nobility_01	
-				2 = female_clothes_epe_northern_war_nobility_03_common						
+				2 = female_clothes_epe_northern_war_nobility_03_common
+				2 = male_clothes_secular_northern_war_gambeson_01						
 			}
 			boy = male
 			girl = female
@@ -896,11 +907,14 @@ accessory_genes = {
 			index = 45
 
 			male = {
-				1 = male_clothes_secular_dde_hre_war_nobility_01_low
+				4 = male_clothes_secular_dde_hre_war_nobility_01_low
+				1 = male_clothes_secular_western_war_nobility_01_low
+				1 = male_clothing_secular_western_cfp_war_nobility_01
 			}
 
 			female = {
-				1 = female_clothes_secular_dde_hre_war_nobility_01_low
+				4 = female_clothes_secular_dde_hre_war_nobility_01_low
+				1 = female_clothes_secular_western_war_nobility_01_low
 			}
 
 			boy = male
@@ -1063,6 +1077,7 @@ accessory_genes = {
 			male = {
 				1 = male_clothes_religious_catholic_devoted_01
 				1 = male_clothes_religious_catholic_devoted_02
+				5 = male_clothes_religious_catholic_cfp_devoted_01
 			}
 
 			female = {
@@ -1076,8 +1091,10 @@ accessory_genes = {
 		religious_catholic_high_clothes = {
 			index = 55
 
-			male = {
-				1 = male_clothes_religious_catholic_high_01
+			male = { # Duplicate weights to make seed different from catholic_high headgear gene
+					1 = male_clothes_religious_catholic_high_01
+					2 = male_clothes_religious_dde_catholic_high_01_common
+					1 = male_clothes_religious_catholic_high_01
 				
 			}
 
@@ -1107,21 +1124,21 @@ accessory_genes = {
 # dde catholic #
 
 
-		religious_dde_catholic_high_clothes = {
-			index = 57
+		# religious_dde_catholic_high_clothes = {
+		# 	index = 57
 
-			male = {
-				1 = male_clothes_religious_dde_catholic_high_01_common
+		# 	male = {
+		# 		1 = male_clothes_religious_dde_catholic_high_01_common
 				
-			}
+		# 	}
 
-			female = {
-				1 = female_clothes_religious_catholic_devoted_01_common
-			}
+		# 	female = {
+		# 		1 = female_clothes_religious_catholic_devoted_01_common
+		# 	}
 
-			boy = male
-			girl = female
-		}
+		# 	boy = male
+		# 	girl = female
+		# }
 
 # african pagans #
 	
@@ -4847,15 +4864,21 @@ accessory_genes = {
 			girl = female
 		}
 
+		ep1_jester_clothes = {
+			index = 248
 
+			male = {
+				1 = male_clothes_secular_ep1_jester_01
+			}
 
+			female = {
+				1 = female_clothes_secular_ep1_jester_01
+			}
 
+			boy = male
+			girl = female
 
-
-
-
-
-
+		}
 
 
 
