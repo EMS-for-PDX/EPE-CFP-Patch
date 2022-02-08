@@ -56,29 +56,13 @@ cfp_portrait_dde_turkic_clothing_trigger = {
 cfp_portrait_oghuz_clothing_trigger = {
 	has_culture = culture:turkish
 }
-cfp_portrait_slavic_clothing_trigger = {
-	OR = {
-		has_culture_group = culture_group:east_slavic_group
-		has_culture_group = culture_group:west_slavic_group
-		has_culture_group = culture_group:south_slavic_group
-	}
-}
 
 ## WESTERN
-cfp_portrait_latin_clothing_trigger = {
-	has_culture_group = culture_group:latin_group
-}
-cfp_portrait_iberian_clothing_trigger = {
-	has_culture_group = culture_group:iberian_group
-}
+
 
 ## MENA
-cfp_portrait_iranian_clothing_trigger = {
-	has_culture_group = culture_group:iranian_group
-}
-cfp_portrait_berber_clothing_trigger = {
-	has_culture_group = culture_group:berber_group
-}
+
+
 cfp_portrait_andalusian_clothing_trigger = {
 	has_culture = culture:andalusian
 }
