@@ -1,5 +1,4 @@
-
-version="1.4.4"
+version="1.5.0"
 tags={
 	"Graphics"
 	"Portraits"
@@ -7,5 +6,5 @@ tags={
 }
 name="EPE-CFP-Patch"
 
-supported_version="1.4.4"
+supported_version="1.5.0.1"
 
