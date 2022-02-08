@@ -1458,7 +1458,18 @@ accessory_genes = {
 			}
 		}
 
-
+##########################################################################
+####Royal court Expansion 1
+##########################################################################
+		ep1_cloak_adventurer = {
+			index = 46
+			male = {
+				1 = male_cloaks_secular_ep1_adventurer_01
+			}
+			female = {
+				1 = empty
+			}
+		}
 
 
 
