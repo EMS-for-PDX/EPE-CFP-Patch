@@ -429,7 +429,11 @@ accessory_genes = {
                 1 = female_headgear_secular_indian_cfp_war_tibetan_01
                 1 = female_headgear_secular_indian_cfp_war_timurid_01
                 1 = female_headgear_religious_hindu_cfp_mask_01				
-				
+            ####CFP western war headgears fullplate
+				1 = female_headgear_secular_western_war_flat_top_01
+				1 = female_headgear_secular_western_war_topf_01
+				1 = female_headgear_secular_western_war_sugarloaf_01
+			
 			}
 		}
 

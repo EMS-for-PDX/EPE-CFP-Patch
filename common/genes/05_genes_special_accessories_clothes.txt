@@ -72,7 +72,10 @@ accessory_genes = {
 					1 = female_clothes_secular_indian_cfp_nobility_01_low
 					1 = female_clothes_secular_indian_cfp_nobility_02_low	
 					1 = female_clothes_secular_indian_cfp_nobility_01_high
-					1 = female_clothes_secular_indian_cfp_nobility_02_high					
+					1 = female_clothes_secular_indian_cfp_nobility_02_high
+            ####cfp western_war_late
+					1 = female_clothes_secular_western_cfp_war_plate_01
+					# 1 = female_clothes_secular_western_cfp_war_plate_02			
 			}
 			
 			boy = male
@@ -3936,7 +3939,8 @@ accessory_genes = {
 			}
 
 			female = {
-				1 = female_clothes_secular_western_war_nobility_01_low				
+					1 = female_clothes_secular_western_cfp_war_plate_01
+					# 1 = female_clothes_secular_western_cfp_war_plate_02			
 			}
 
 			boy = male
