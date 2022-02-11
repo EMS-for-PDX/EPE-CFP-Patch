@@ -257,9 +257,13 @@ accessory_genes = {
 		index = 16
 		male = {
 			50 = male_headgear_secular_ep1_crown_of_lombardy
+			50 = male_headgear_secular_latin_cfp_icol_01
+			50 = male_iron_crown_of_lombardy_01
 		}
 		female = {
 			50 = female_headgear_secular_ep1_crown_of_lombardy
+			50 = female_headgear_secular_latin_cfp_icol_01
+			50 = male_iron_crown_of_lombardy_01
 		}
 		boy = male
 		girl = female
