@@ -263,82 +263,90 @@ special_genes = {
 				girl = female
 			}  
 
-			mena_hairstyles_straight = {
-				index = 6
-				male = {
-					3 = male_hair_mena_02 # Well kempt wavy
-					1 = male_hair_western_03 # Buzz cut
-					3 = male_hair_western_07 # Long side part
-					2 = male_hair_western_09 # Short clumpy
-				}
-				
-				female = {
-					1 = female_hair_mena_01 # Gold band and braids
-					1 = cfp_female_hair_mena_01
-				}
-				boy = male
-				girl = female
-			}   
+				mena_hairstyles_straight = {
+					index = 6
+					male = {
+						3 = male_hair_mena_02 # Well kempt wavy
+						1 = male_hair_western_03 # Buzz cut
+						3 = male_hair_western_07 # Long side part
+						2 = male_hair_western_09 # Short clumpy
+					}
+					
+					female = {
+						1 = female_hair_mena_01 # Gold band and braids
+					    1 = female_hair_turko_iranian_03
+						1 = female_hair_custom_03						
+						1 = female_hair_custom_04
+						1 = female_hair_western_05								
+					}
+					boy = male
+					girl = female
+				}  
 
-			mena_hairstyles_wavy = {
-				index = 7
-				male = {
-					3 = male_hair_mena_02 # Well kempt wavy
-					3 = male_hair_western_02 # Medium/long wavy
-					1 = male_hair_western_03 # Buzz cut
-					3 = male_hair_western_06 # Messy bowl
-					1 = male_hair_western_07 # Long side part
+				mena_hairstyles_wavy = {
+					index = 7
+					male = {
+						3 = male_hair_mena_02 # Well kempt wavy
+						3 = male_hair_western_02 # Medium/long wavy
+						1 = male_hair_western_03 # Buzz cut
+						3 = male_hair_western_06 # Messy bowl
+						1 = male_hair_western_07 # Long side part
 
-				}
-				
-				female = {
-					2 = female_hair_mena_01 # Gold band and braids
-					1 = cfp_female_hair_mena_01
-					2 = female_hair_mena_02 # Behind head long curly
-					1 = cfp_female_hair_mena_02
-					1 = female_hair_western_05 # Behind head wavy
-				}
-				boy = male
-				girl = female
-			}   
+					}
+					
+					female = {
+						2 = female_hair_mena_01 # Gold band and braids
+					    2 = female_hair_turko_iranian_03						
+						2 = female_hair_mena_02 # Behind head long curly							
+						1 = female_hair_western_05 # Behind head wavy
+						2 = female_hair_custom_01
+						2 = female_hair_custom_04
+						2 = female_hair_custom_05								
+					}
+					boy = male
+					girl = female
+				}  
 
-			mena_hairstyles_curly = {
-				index = 8
-				male = {
-					2 = male_hair_mena_01 # Short curly
-					2 = male_hair_mena_03 # Curly ball
-					2 = male_hair_mena_04 # Medium curly
-					1 = male_hair_western_03 # Buzz cut
-				}
-				
-				female = {
-					3 = female_hair_mena_02 # Behind head long curly
-					1 = cfp_female_hair_mena_02
-					1 = female_hair_western_05 # Behind head wavy
-				}
-				boy = male
-				girl = female
-			}   
+				mena_hairstyles_curly = {
+					index = 8
+					male = {
+						2 = male_hair_mena_01 # Short curly
+						2 = male_hair_mena_03 # Curly ball
+						2 = male_hair_mena_04 # Medium curly
+						1 = male_hair_western_03 # Buzz cut
+					}
+					
+					female = {
+						3 = female_hair_mena_02 # Behind head long curly
+						3 = female_hair_custom_01
+						3 = female_hair_custom_05							
+						2 = female_hair_western_05 # Behind head wavy
+					}
+					boy = male
+					girl = female
+				}   
 
-			mena_hairstyles_afro = {
-				index = 9
-				male = {
-					2 = male_hair_sub_saharan_01 # Short african
-					2 = cfp_male_hair_sub_saharan_01 # Short african 
-					2 = male_hair_sub_saharan_02 # Small afro
-					2 = male_hair_sub_saharan_03 # Short dreads
+				mena_hairstyles_afro = {
+					index = 9
+					male = {
+						2 = male_hair_sub_saharan_01 # Short african 
+						2 = male_hair_sub_saharan_02 # Small afro
+						2 = male_hair_sub_saharan_03 # Short dreads
+					}
+					
+					female = {
+						2 = female_hair_sub_saharan_01 # Medium afro
+						2 = female_hair_sub_saharan_02 # Long Rasta braids
+						2 = female_hair_sub_saharan_03 # Short Rasta braids
+						2 = female_hair_sub_saharan_03b # Short Rasta braids jewelry						
+						1 = female_hair_sub_saharan_child_01	
+					    2 = female_hair_ethiopian_03 
+					    2 = female_hair_ethiopian_03_jewelry 
+					    2 = female_hair_ethiopian_05_v2 						
+					}
+					boy = male
+					girl = female
 				}
-				
-				female = {
-					2 = female_hair_sub_saharan_01 # Medium afro
-					2 = female_hair_sub_saharan_02 # Long Rasta braids
-					2 = female_hair_sub_saharan_03 # Short Rasta braids
-					2 = cfp_female_hair_african_01 # Twisted Cornrows
-					2 = cfp_female_hair_african_02 # Straight Cornrows
-				}
-				boy = male
-				girl = female
-			}  
 
 				byzantine_hairstyles_straight = {
 					index = 10
