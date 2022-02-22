@@ -82,8 +82,12 @@ accessory_genes = {
 				1 = male_headgear_secular_western_war_topf_01
 				1 = male_headgear_secular_western_war_sugarloaf_01
             ####CFP western war headgears late
+				1 = male_headgear_secular_western_cfp_war_pixane_01
 				1 = male_headgear_secular_western_cfp_war_bascinet_03
-				1 = male_headgear_secular_western_cfp_war_pixane_01	
+				1 = male_headgear_secular_western_cfp_war_pixane_01
+				1 = male_headgear_secular_western_cfp_war_great_bascinet_02
+				1 = male_headgear_secular_western_cfp_war_great_bascinet_03				
+				1 = male_headgear_secular_western_cfp_war_great_bascinet_01			
             ####CFP western war headgears late fullplate
 				1 = male_headgear_secular_western_cfp_war_bascinet_01
 				1 = male_headgear_secular_western_cfp_war_bascinet_02

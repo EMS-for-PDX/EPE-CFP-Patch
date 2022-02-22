@@ -139,8 +139,11 @@ accessory_genes = {
 		late_medieval_era_western_war = {
 			index = 7
 			male = {				
+				10 = male_headgear_secular_western_cfp_war_pixane_01
+				5 = male_headgear_secular_western_cfp_war_bascinet_02
 				5 = male_headgear_secular_western_cfp_war_bascinet_03
-				5 = male_headgear_secular_western_cfp_war_pixane_01						
+				10 = male_headgear_secular_western_cfp_war_great_bascinet_02
+				10 = male_headgear_secular_western_cfp_war_great_bascinet_03				
 			}
 			female = {
 				5 = female_headgear_secular_western_cfp_war_pixane_01				
@@ -181,8 +184,8 @@ accessory_genes = {
 		late_medieval_era_plate_western_war_closed = {
 			index = 10
 			male = {				
-				5 = male_headgear_secular_western_cfp_war_bascinet_01
-				5 = male_headgear_secular_western_cfp_war_bascinet_02							
+				5 = male_headgear_secular_western_cfp_war_great_bascinet_01
+				10 = male_headgear_secular_western_cfp_war_bascinet_01						
 			}
 			female = {
 				5 = female_headgear_secular_western_cfp_war_pixane_01				

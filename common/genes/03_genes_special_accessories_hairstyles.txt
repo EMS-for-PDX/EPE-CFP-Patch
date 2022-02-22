@@ -80,7 +80,10 @@ special_genes = {
 				1 = cfp_male_hair_steppe_04	
 				1 = cfp_male_hair_sub_saharan_01
 				1 = cfp_male_hair_sub_saharan_02
-				1 = cfp_male_hair_sub_saharan_03				
+				1 = cfp_male_hair_sub_saharan_03	
+				1 = cfp_male_hair_slavic_03 # Straight Bowl
+				1 = cfp_male_hair_slavic_04 # Curly Bowl
+				1 = cfp_male_hair_hungarian_01 # Hungarian Braids				
 			}
 
 			female = {
@@ -147,7 +150,8 @@ special_genes = {
 				1 = cfp_female_hair_steppe_01
 				1 = cfp_female_hair_steppe_02	
 				1 = cfp_female_hair_african_01
-				1 = cfp_female_hair_african_02				
+				1 = cfp_female_hair_african_02	
+				1 = cfp_female_hair_celtic_01				
 			}
 			boy = male
 			girl = female

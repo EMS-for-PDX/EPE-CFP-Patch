@@ -74,14 +74,18 @@ special_genes = {
 				    1 = male_beard_western_8e #	
 				    1 = male_beard_western_8f #	
 				    1 = male_beard_western_9b #						
-				    1 = epe_male_beard_indian_01 #							
+				    1 = epe_male_beard_indian_01 #	
+                    ###CFP					
 					1 = cfp_male_sideburns_western_01
 					1 = cfp_male_frenchfork_western_01
 					1 = cfp_male_sideburns_western_02
 					1 = cfp_male_moustache_western_01
 					1 = cfp_male_goatee_northern_01
 					1 = cfp_male_goatee_northern_02
-					1 = cfp_male_moustache_slavic_01					
+					1 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
+					1 = cfp_male_moustache_slavic_02 # Handlebar Moustache
+					1 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache
+					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache					
 				}
 				female = {
 					1 = empty
@@ -247,9 +251,12 @@ special_genes = {
 					5 = male_beard_custom_06	
 					##CFP					
 					5 = cfp_male_sideburns_western_02
-					5 = cfp_male_sideburns_western_01
-					10 = cfp_male_goatee_northern_01
-					10 = cfp_male_goatee_northern_02									
+					10 = cfp_male_frenchfork_western_01
+					2 = cfp_male_moustache_western_01 # Imperial Moustache
+					2 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
+					2 = cfp_male_moustache_slavic_02 # Handlebar Moustache
+					1 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache
+					2 = cfp_male_moustache_hungarian_01 # Hungarian Moustache							
 				}
 				female = {
 					1 = empty
@@ -267,9 +274,12 @@ special_genes = {
 					10 = male_beard_western_04 # Short goatee
 					10 = male_beard_western_06 # Big bushy beard
 				    1 = epe_male_beard_fp1_04 #							
-					##CFP	
-					5 = cfp_male_moustache_slavic_01		
-	
+					##CFP		
+					1 = cfp_male_moustache_western_01 # Imperial Moustache
+					1 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
+					1 = cfp_male_moustache_slavic_02 # Handlebar Moustache
+					1 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache
+					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache
 				}
 				female = {
 					1 = empty
@@ -845,7 +855,11 @@ special_genes = {
 					5 = male_beard_fp1_04 # Huge braid
 					5 = male_beard_fp1_05 # Long narrow wavy
 					5 = epe_male_beard_fp1_02 #
-					5 = male_beard_custom_06					
+					5 = male_beard_custom_06	
+					###CFP
+					5 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
+					5 = cfp_male_moustache_slavic_02 # Handlebar Moustache
+					5 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache					
 								
 				}
 				female = {
@@ -867,6 +881,10 @@ special_genes = {
 					5 = male_beard_fp1_05 # Long narrow wavy
 					5 = epe_male_beard_fp1_02 #
 					5 = male_beard_western_2b #	
+					###CFP
+					5 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
+					5 = cfp_male_moustache_slavic_02 # Handlebar Moustache
+					5 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache							
 								
 				}
 				female = {
