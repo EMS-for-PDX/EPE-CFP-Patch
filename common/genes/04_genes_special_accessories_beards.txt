@@ -314,7 +314,6 @@ special_genes = {
 					5 = male_beard_steppe_01
 					5 = male_beard_steppe_02
 					5 = male_beard_turkic_01	
-				    5 = epe_male_beard_fp1_02 #						
 					
 				}
 				female = {
