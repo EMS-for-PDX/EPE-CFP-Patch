@@ -2403,7 +2403,208 @@ accessory_genes = {
 		}		
 		
 		
+##########################################################################
+####Western Turkic
+##########################################################################
+
+		western_turk_common = {
+			index = 138
+			male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_steppe_common_01
+			}
+			boy = male
+            girl = female
+		}
 		
+        western_turk_low_nobility = {
+            index = 139
+            male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_steppe_common_01
+            }
+            boy = male
+            girl = female
+        }	
+
+		western_turk_high_nobility = {
+            index = 140
+            male = {
+                1 = male_Turkic_Fur_Cap_04	
+                1 = male_Turkic_Fur_Cap_05				
+                1 = male_headgear_secular_steppe_nobility_01
+            }
+            female = {
+                5 = female_cuman_noble_hat_01
+            }
+            boy = male
+            girl = female
+        }	
+
+		western_turk_royalty = {
+			index = 141
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				3 = male_Turkic_Eagle_Crown_02_02				
+				2 = male_Turkic_Fur_Cap_04	
+                2 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		western_turk_imperial = {
+			index = 142
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				2 = male_Turkic_Eagle_Crown_02_02					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		western_turk_war = {
+			index = 143
+			male = {
+				1 = male_headgear_secular_steppe_war_nobility_01				
+			}
+			female = {
+				1 = female_headgear_secular_steppe_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}		
+		
+		
+##########################################################################
+####Magyar
+##########################################################################
+
+		magyar_common = {
+			index = 144
+			male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_steppe_common_01
+			}
+			boy = male
+            girl = female
+		}
+		
+        magyar_low_nobility = {
+            index = 145
+            male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_steppe_common_01
+            }
+            boy = male
+            girl = female
+        }	
+
+		magyar_high_nobility = {
+            index = 146
+            male = {
+                1 = male_Turkic_Fur_Cap_04	
+                1 = male_Turkic_Fur_Cap_05				
+                1 = male_headgear_secular_steppe_nobility_01
+            }
+            female = {
+                5 = female_cuman_noble_hat_01
+            }
+            boy = male
+            girl = female
+        }	
+
+		magyar_royalty = {
+			index = 147
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				3 = male_Turkic_Eagle_Crown_02_02				
+				2 = male_Turkic_Fur_Cap_04	
+                2 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		magyar_imperial = {
+			index = 148
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				2 = male_Turkic_Eagle_Crown_02_02					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		magyar_war = {
+			index = 149
+			male = {
+				1 = male_headgear_secular_steppe_war_nobility_01				
+			}
+			female = {
+				1 = female_headgear_secular_steppe_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}			
 		
 		
 		
