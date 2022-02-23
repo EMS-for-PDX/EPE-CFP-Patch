@@ -2254,7 +2254,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		east_african_royalty_clothes = {
+		ethiopia_royalty_clothes = {
 			index = 114
 
 			male = {
@@ -2271,7 +2271,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		east_african_imperial_clothes = {
+		nubia_royalty_clothes = {
 			index = 115
 
 			male = {
@@ -4886,7 +4886,22 @@ accessory_genes = {
 
 		}
 
+		east_african_islamic_royalty_clothes = {
+			index = 249
 
+			male = {
+				1 = male_clothes_secular_mena_nobility_01_high
+				1 = male_clothes_secular_mena_nobility_02_high
+			}
+
+			female = {
+				1 = female_clothes_secular_mena_nobility_01_high
+				1 = female_clothes_secular_mena_nobility_02_high
+			}
+
+			boy = male
+			girl = female
+		}
 
 
 
