@@ -2609,9 +2609,37 @@ accessory_genes = {
 ##########################################################################
 ####Nubia
 ##########################################################################		
+
+		nubia_low_nobility = {
+            index = 150
+            male = {
+                25 = empty
+		
+            }
+            female = {
+                15 = empty
+            }
+            boy = male
+            girl = female
+        }	
+
+        nubia_high_nobility = { 
+            index = 151
+            male = {
+           ####CFP East african headgears				
+                1 = male_headgear_secular_africa_east_cfp_high_nobility_01
+                1 = male_headgear_secular_africa_east_cfp_high_nobility_03
+            }
+            female = {
+           ####CFP East african headgears				
+                1 = female_headgear_secular_africa_east_cfp_high_nobility_01
+            }
+            boy = male
+            girl = female
+        }
 				
         nubia_royalty = {
-            index = 150
+            index = 152
 			male = {
            ####CFP East african headgears	
                 1 = male_headgear_secular_africa_east_cfp_royalty_01		   
@@ -2625,7 +2653,7 @@ accessory_genes = {
             girl = female
         }
 		nubia_imperial = {
-			index = 151
+			index = 153
             male = {
            ####CFP East african headgears					
                 1 = male_headgear_secular_africa_east_cfp_imperial_01
@@ -2643,7 +2671,7 @@ accessory_genes = {
 ##########################################################################		
 			
         somali_royalty = {
-            index = 152
+            index = 154
             male = {
 				1 = male_headgear_epe_white_abbasid_high_01	
 				1 = male_headgear_epe_white_abbasid_common_01	
@@ -2658,7 +2686,7 @@ accessory_genes = {
             girl = female
         }
 		somali_imperial = {
-			index = 153
+			index = 155
             male = {
 				1 = male_headgear_epe_white_abbasid_high_01	
 				1 = male_headgear_epe_white_abbasid_common_01	
@@ -2672,7 +2700,7 @@ accessory_genes = {
 			boy = male
             girl = female
 		}		
-				
+	
 		
 		
 		
