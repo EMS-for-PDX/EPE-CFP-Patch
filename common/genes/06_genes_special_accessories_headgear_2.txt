@@ -2606,7 +2606,73 @@ accessory_genes = {
             girl = female
 		}			
 		
+##########################################################################
+####Nubia
+##########################################################################		
+				
+        nubia_royalty = {
+            index = 150
+			male = {
+           ####CFP East african headgears	
+                1 = male_headgear_secular_africa_east_cfp_royalty_01		   
+			}
+			female = {
+           ####CFP East african headgears				
+                1 = female_headgear_secular_africa_east_cfp_royalty_01
+				
+			}
+            boy = male
+            girl = female
+        }
+		nubia_imperial = {
+			index = 151
+            male = {
+           ####CFP East african headgears					
+                1 = male_headgear_secular_africa_east_cfp_imperial_01
+            }
+            female = {
+           ####CFP East african headgears					
+            	1 = female_headgear_secular_africa_east_cfp_imperial_01
+            }
+			boy = male
+            girl = female
+		}		
 		
+##########################################################################
+####Somali
+##########################################################################		
+			
+        somali_royalty = {
+            index = 152
+            male = {
+				1 = male_headgear_epe_white_abbasid_high_01	
+				1 = male_headgear_epe_white_abbasid_common_01	
+				1 = male_headgear_epe_white_mena_common_01	
+				1 = male_headgear_epe_white_mena_nobility_01					
+            }
+            female = {
+            	1 = female_headgear_secular_mena_nobility_01  
+                1 = female_headgear_secular_mena_common_02				
+            }
+            boy = male
+            girl = female
+        }
+		somali_imperial = {
+			index = 153
+            male = {
+				1 = male_headgear_epe_white_abbasid_high_01	
+				1 = male_headgear_epe_white_abbasid_common_01	
+				1 = male_headgear_epe_white_mena_common_01	
+				1 = male_headgear_epe_white_mena_nobility_01					
+            }
+            female = {
+            	1 = female_headgear_secular_mena_nobility_01  
+                1 = female_headgear_secular_mena_common_02				
+            }
+			boy = male
+            girl = female
+		}		
+				
 		
 		
 		

@@ -2258,13 +2258,14 @@ accessory_genes = {
 			index = 114
 
 			male = {
-				1 = male_clothes_secular_sub_saharan_nobility_01_high
-				1 = male_clothes_secular_sub_saharan_nobility_02_high
+				1 = male_clothes_epe_ethiopia_01_royalty
+				#1 = male_clothes_epe_ethiopia_02_royalty
+				1 = male_clothes_epe_ethiopia_03_royalty				
 			}
 
 			female = {
-				1 = female_clothes_secular_sub_saharan_nobility_01_high
-				1 = female_clothes_secular_sub_saharan_nobility_02_high
+				1 = female_clothes_epe_ethiopia_01_royalty
+				1 = female_clothes_epe_ethiopia_02_royalty
 			}
 
 			boy = male
@@ -2275,13 +2276,13 @@ accessory_genes = {
 			index = 115
 
 			male = {
-				1 = male_clothes_secular_sub_saharan_nobility_01_high
-				1 = male_clothes_secular_sub_saharan_nobility_02_high
+				1 = male_clothes_epe_nubia_01_royalty
+				1 = male_clothes_epe_nubia_02_royalty
 			}
 
 			female = {
-				1 = female_clothes_secular_sub_saharan_nobility_01_high
-				1 = female_clothes_secular_sub_saharan_nobility_02_high
+				1 = female_clothes_epe_nubia_01_royalty
+				1 = female_clothes_epe_nubia_02_royalty
 			}
 
 			boy = male
@@ -4890,13 +4891,15 @@ accessory_genes = {
 			index = 249
 
 			male = {
-				1 = male_clothes_secular_mena_nobility_01_high
-				1 = male_clothes_secular_mena_nobility_02_high
+				1 = male_clothes_epe_somali_01_royalty
+				1 = male_clothes_epe_somali_02_royalty
+				1 = male_clothes_epe_somali_03_royalty				
 			}
 
 			female = {
-				1 = female_clothes_secular_mena_nobility_01_high
-				1 = female_clothes_secular_mena_nobility_02_high
+				1 = female_clothes_epe_somali_01_royalty
+				1 = female_clothes_epe_somali_02_royalty
+				1 = female_clothes_epe_somali_03_royalty				
 			}
 
 			boy = male
