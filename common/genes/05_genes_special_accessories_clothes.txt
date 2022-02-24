@@ -2259,8 +2259,9 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_epe_ethiopia_01_royalty
-				#1 = male_clothes_epe_ethiopia_02_royalty
-				1 = male_clothes_epe_ethiopia_03_royalty				
+				1 = male_clothes_epe_ethiopia_02_royalty
+				1 = male_clothes_epe_ethiopia_03_royalty	
+				1 = male_clothes_epe_ethiopia_04_royalty					
 			}
 
 			female = {
