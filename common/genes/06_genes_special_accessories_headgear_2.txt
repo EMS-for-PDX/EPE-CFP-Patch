@@ -2701,7 +2701,128 @@ accessory_genes = {
             girl = female
 		}		
 	
+##########################################################################
+####Christian Norse
+##########################################################################				
 		
+		
+		northern_christian_low_nobility = {
+            index = 156
+            male = {
+				1 = male_Circlets_Western_Small_Gold_Pearls
+				2 = male_Circlets_Western_Small_Leather_Pearls
+                2 = male_Circlets_Western_Small_Leather_Pearls_02
+                2 = male_Circlets_Western_Small_Leather_Pearls_03
+				1 = male_Circlets_Western_Small_Silver_Pearls
+				1 = male_Circlets_Western_Small_Simple
+				1 = male_Circlets_Western_Small_Simple_silver
+				1 = male_Circlets_Western_Small_Jewells
+				1 = male_Circlets_Western_Small_Jewells_silver	
+            }
+            female = {
+				2 = female_Circlets_Western_Small_Gold_Pearls	
+				2 = female_Circlets_Western_Small_Silver_Pearls	
+				2 = female_Circlets_Western_Small_Leather_Pearls
+                2 = female_Circlets_Western_Small_Leather_Pearls_02
+                2 = female_Circlets_Western_Small_Leather_Pearls_03
+				1 = female_Circlets_Western_Small_Jewells
+				1 = female_Circlets_Western_Small_Jewells_silver	
+				1 = female_Circlets_Western_Small_Simple
+				1 = female_Circlets_Western_Small_Simple_silver						
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+            }
+            boy = male
+            girl = female
+        }
+
+		northern_christian_high_nobility = {
+			index = 157
+			male = {
+				2 = male_west_early_noble_circlet_01
+				2 = male_west_early_noble_circlet_02
+				2 = male_west_early_noble_circlet_03
+				2 = male_west_early_noble_circlet_04
+				2 = male_west_early_noble_circlet_05			
+			}
+			female = {
+				2 = female_west_early_noble_circlet_01
+				2 = female_west_early_noble_circlet_02
+				2 = female_west_early_noble_circlet_03
+				2 = female_west_early_noble_circlet_04
+				2 = female_west_early_noble_circlet_05
+				2 = female_west_early_noble_circlet_01_veil
+				2 = female_west_early_noble_circlet_02_veil
+				2 = female_west_early_noble_circlet_03_veil
+				2 = female_west_early_noble_circlet_04_veil
+				2 = female_west_early_noble_circlet_05_veil			
+			}
+			boy = male
+            girl = female
+		}
+
+		northern_christian_royalty = {
+			index = 158
+			male = {
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				3 = male_Western_Royal_Crown_03	
+				2 = male_western_royal_crown_04					
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03
+				1 = female_western_royal_crown_04
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
+			}
+			boy = male
+            girl = female
+		}
+
+		northern_christian_imperial = {
+			index = 159
+			male = {
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				3 = male_Western_Royal_Crown_03	
+				2 = male_western_royal_crown_04					
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03
+				1 = female_western_royal_crown_04
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_Western_Royal_Crown_03
+				1 = female_western_royal_crown_04	
+				1 = female_crown_royalty_Headvail_01				
+				1 = female_crown_royalty_covervail_01	
+				1 = female_crown_royalty_Headvail_02	
+				1 = female_crown_royalty_covervail_02	
+				1 = female_crown_royalty_headvail_03	
+				1 = female_crown_royalty_covervail_03	
+				1 = female_crown_royalty_headvail_04
+				1 = female_crown_royalty_covervail_04				
+			}
+			boy = male
+            girl = female
+		}		
+				
 		
 		
 		
