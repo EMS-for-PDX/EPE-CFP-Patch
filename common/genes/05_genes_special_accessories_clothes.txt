@@ -23,6 +23,9 @@ accessory_genes = {
             ####cfp western_war_late
 					1 = male_clothes_secular_western_cfp_war_plate_01
 					1 = male_clothes_secular_western_cfp_war_plate_02
+					1 = male_clothes_secular_western_cfp_war_plate_03
+					1 = male_clothes_secular_western_cfp_war_plate_04	
+					1 = male_clothes_secular_western_cfp_war_plate_05					
             ####cfp norman
 					1 = male_clothes_secular_northern_war_gambeson_01
 					1 = male_clothes_secular_western_war_norman_01			
