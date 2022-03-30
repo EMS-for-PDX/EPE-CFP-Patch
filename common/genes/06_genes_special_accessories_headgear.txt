@@ -1016,7 +1016,9 @@ accessory_genes = {
 				1 = male_headgear_secular_mena_high_nobility_01
 				1 = male_headgear_secular_dde_abbasid_high_nobility_01
 				1 = male_headgear_religious_dde_muslim_head_01
-				1 = male_headgear_epe_white_abbasid_high_01						
+				1 = male_headgear_epe_white_abbasid_high_01	
+				1 = male_headgear_epe_white_mena_nobility_02	
+				1 = male_headgear_epe_white_mena_nobility_03				
             }
             female = {
             	1 = female_headgear_secular_mena_nobility_01
@@ -1033,7 +1035,9 @@ accessory_genes = {
 				3 = male_headgear_secular_mena_common_01
 				3 = male_headgear_secular_dde_abbasid_common_02
 				1 = male_headgear_secular_dde_abbasid_common_01				
-				1 = male_headgear_epe_white_abbasid_common_01								
+				1 = male_headgear_epe_white_abbasid_common_01
+				1 = male_headgear_epe_white_mena_nobility_02	
+				1 = male_headgear_epe_white_mena_nobility_03				
 			}
 			female = {
 				1 = female_headgear_secular_dde_abbasid_common_01
@@ -3053,7 +3057,9 @@ accessory_genes = {
                 2 = male_headgear_secular_mena_high_nobility_01
 				1 = male_headgear_religious_dde_muslim_head_01
 				2 = male_headgear_secular_mena_nobility_01
-				1 = male_headgear_epe_white_abbasid_high_01		
+				1 = male_headgear_epe_white_abbasid_high_01	
+				1 = male_headgear_epe_white_mena_nobility_02	
+				1 = male_headgear_epe_white_mena_nobility_03	
             }
             female = {
             	1 = female_headgear_secular_mena_nobility_01
@@ -3069,7 +3075,9 @@ accessory_genes = {
 				10 = male_headgear_secular_dde_abbasid_common_01
 				10 = male_headgear_secular_mena_common_01
 				10 = male_headgear_secular_dde_abbasid_common_02
-				10 = male_headgear_epe_white_abbasid_common_01		
+				10 = male_headgear_epe_white_abbasid_common_01
+				5 = male_headgear_epe_white_mena_nobility_02	
+				5 = male_headgear_epe_white_mena_nobility_03					
 			}
 			female = {
 				# 1 = female_headgear_secular_dde_abbasid_common_01
@@ -3140,11 +3148,11 @@ accessory_genes = {
 		dde_high_abbasid_low_nobility = {
             index = 134
             male = {
-                5 = empty
 				10 = male_headgear_epe_mena_low_01
                 10 = male_headgear_secular_mena_common_01
                 10 = male_headgear_secular_mena_nobility_01
-		
+				5 = male_headgear_epe_white_mena_nobility_02	
+				5 = male_headgear_epe_white_mena_nobility_03				
             }
             female = {
                 5 = female_headgear_secular_mena_common_01
