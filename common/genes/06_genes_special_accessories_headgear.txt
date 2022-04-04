@@ -27,6 +27,7 @@ accessory_genes = {
 			index = 1
 			male = {
 				1 = male_crown_of_charlemagne_01	
+                1 = male_headgear_secular_byzantine_royalty_01				
 				1 = male_headgear_secular_byzantine_imperial_01			
             ####CFP western headgears		
 				1 = male_headgear_secular_western_pillbox_low_01			
@@ -1301,7 +1302,8 @@ accessory_genes = {
         byzantine_royalty = {
             index = 39
             male = {
-                1 = male_headgear_secular_byzantine_royalty_01
+                1 = male_byz_royal_crown_01
+				1 = male_byz_royal_crown_02
             }
             female = {
                 5 = female_headgear_secular_byzantine_royalty_01
@@ -4769,10 +4771,8 @@ accessory_genes = {
 		hungarian_royalty = {
 			index = 213
 			male = {
-				1 = male_headgear_secular_western_royalty_01
-				1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03
-				1 = male_western_royal_crown_04	
+				5 = male_byz_royal_crown_01
+				5 = male_byz_royal_crown_02
 				####CFP hungarian headgears	
 				10 = male_headgear_secular_hungarian_royalty_01				
 			}

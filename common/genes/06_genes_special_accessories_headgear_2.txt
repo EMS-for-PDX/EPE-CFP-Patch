@@ -1251,7 +1251,8 @@ accessory_genes = {
 		 armenian_high_nobility = {
             index = 71
             male = {
-                5 = male_headgear_secular_byzantine_high_nobility_01
+                1 = male_byz_royal_crown_01
+				1 = male_byz_royal_crown_02
 
             }
             female = {
@@ -1351,7 +1352,8 @@ accessory_genes = {
         south_slav_royalty = {
             index = 78
             male = {
-                1 = male_headgear_secular_byzantine_royalty_01
+                1 = male_byz_royal_crown_01
+				1 = male_byz_royal_crown_02
                 
             }
             female = {
