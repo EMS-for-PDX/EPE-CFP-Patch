@@ -261,7 +261,8 @@ accessory_genes = {
 			female = {
 				1 = female_crown_of_charlemagne_01	
 				1 = female_early_iranian_royal_crown_early_01
-				1 = female_early_iranian_royal_crown_early_02				
+				1 = female_early_iranian_royal_crown_early_02	
+                1 = female_headgear_secular_byzantine_royalty_01				
             ####CFP western headgears				
 				1 = female_headgear_secular_western_nobility_05
 				1 = female_headgear_secular_western_nobility_06
@@ -1306,7 +1307,7 @@ accessory_genes = {
 				1 = male_byz_royal_crown_02
             }
             female = {
-                5 = female_headgear_secular_byzantine_royalty_01
+                1 = female_byz_royal_crown_01
                 
             }
 			boy = male
@@ -4777,20 +4778,9 @@ accessory_genes = {
 				10 = male_headgear_secular_hungarian_royalty_01				
 			}
 			female = {
-				1 = female_headgear_secular_western_royalty_01
-				1 = female_headgear_secular_western_royalty_02
-				1 = female_Western_Royal_Crown_03					
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03		
-				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04
+				1 = female_byz_royal_crown_01
 				####CFP hungarian headgears			
-				10 = female_headgear_secular_hungarian_royalty_01						
+				1 = female_headgear_secular_hungarian_royalty_01						
 			}
 			boy = male
             girl = female

@@ -1266,11 +1266,12 @@ accessory_genes = {
         armenian_royalty = {
             index = 72
             male = {
-                1 = male_headgear_secular_byzantine_royalty_01
+                1 = male_byz_royal_crown_01
+				1 = male_byz_royal_crown_02
                 
             }
             female = {
-                1 = female_headgear_secular_byzantine_royalty_01
+				1 = female_byz_royal_crown_01		
                 
             }
             boy = male
@@ -1357,7 +1358,7 @@ accessory_genes = {
                 
             }
             female = {
-                1 = female_headgear_secular_byzantine_royalty_01
+				1 = female_byz_royal_crown_01	
                 
             }
             boy = male
