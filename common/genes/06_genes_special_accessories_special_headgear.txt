@@ -411,7 +411,20 @@ accessory_genes = {
 			}
 		}		
 		
-		
+####Croatia Kingdom titles	
+        croatia_royalty = {
+            index = 26
+            male = {
+				1 = male_crown_of_zvonimir_01
+                
+            }
+            female = {
+				1 = female_byz_royal_crown_01		
+                
+            }
+            boy = male
+            girl = female
+        }		
 		
 		
 		
