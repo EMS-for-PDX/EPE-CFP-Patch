@@ -611,7 +611,7 @@ special_genes = {
 				male = {
 					#weight = <object in gfx/portrait/accessories/>
 					3 = male_hair_northern_02 # Long partly let out with ponytail
-					3 = male_hair_northern_03 # Norman style short with shaved back and sides
+					3 = male_hair_byzantine_02 # Norman style short with shaved back and sides
 					2 = male_hair_western_07 # Long side part
 					1 = cfp_male_hair_viking_01
 					
@@ -636,7 +636,7 @@ special_genes = {
 						#weight = <object in gfx/portrait/accessories/>
 						2 = male_hair_northern_01 # Long wavy metal hair
 						3 = male_hair_northern_02 # Long partly let out with ponytail
-						3 = male_hair_northern_03 # Norman style short with shaved back and sides
+						3 = male_hair_byzantine_02 # Norman style short with shaved back and sides
 						
 					}
 
@@ -2470,7 +2470,60 @@ special_genes = {
 					girl = female
 				}			
 			
+			slavic_hairstyles_warrior = {
+				index = 92
+				male = {
+					5 = male_hair_western_04
+					5 = male_hair_western_07
+					10 = male_hair_northern_01
+					10 = male_hair_northern_02
+					6 = cfp_male_hair_slavic_01
+					5 = cfp_male_hair_slavic_02
+				}
+				female = {
+					1 = female_hair_northern_01 # Small braids and hair tied at neck
+					1 = female_hair_northern_02 # Single tight braid
+					1 = female_hair_northern_03 # Long straight
+					2 = cfp_female_hair_celtic_01
+				}
+				boy = male
+				girl = female
+			}
 			
+			hungarian_hairstyles_warrior = {
+				index = 93
+				male = {
+					5 = male_hair_western_04
+					5 = male_hair_western_07
+					5 = male_hair_northern_01
+					5 = male_hair_northern_02
+					10 = cfp_male_hair_hungarian_01
+				}
+				female = {
+					1 = female_hair_northern_01 # Small braids and hair tied at neck
+					1 = female_hair_northern_02 # Single tight braid
+					1 = female_hair_northern_03 # Long straight
+					2 = cfp_female_hair_celtic_01
+				}
+				boy = male
+				girl = female
+			}			
+			
+			norman_hairstyles_warrior = {
+				index = 94
+				male = {
+					5 = male_hair_western_03
+					5 = male_hair_western_04
+					15 = male_hair_northern_03
+				}
+				female = {
+					1 = female_hair_northern_01 # Small braids and hair tied at neck
+					1 = female_hair_northern_02 # Single tight braid
+					1 = female_hair_northern_03 # Long straight
+				}
+				boy = male
+				girl = female
+			}				
 			
 			
 		
