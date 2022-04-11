@@ -1248,6 +1248,7 @@ accessory_genes = {
 			male = {
 				1 = male_byz_imp_stemma_01
 				1 = male_byz_imp_stemma_02	
+				1 = male_byz_imp_stemma_03				
 				1 = male_headgear_secular_byzantine_imperial_01	
             ####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_imperial_02
@@ -4772,7 +4773,6 @@ accessory_genes = {
 		hungarian_royalty = {
 			index = 213
 			male = {
-				5 = male_byz_royal_crown_01
 				5 = male_byz_royal_crown_02
 				####CFP hungarian headgears	
 				10 = male_headgear_secular_hungarian_royalty_01				

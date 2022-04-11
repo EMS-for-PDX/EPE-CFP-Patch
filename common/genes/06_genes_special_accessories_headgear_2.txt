@@ -1106,13 +1106,20 @@ accessory_genes = {
 
 		georgian_imperial = {
 			index = 61
-			male = {
-				1 = male_headgear_secular_byzantine_imperial_01
-				
-			}
-			female = {
-				1 = female_headgear_secular_byzantine_imperial_01				
-			}
+            male = {
+				1 = male_byz_imp_stemma_01
+				1 = male_byz_imp_stemma_02	
+				1 = male_byz_imp_stemma_03
+                
+            }
+            female = {
+				3 = byz_female_imperial_crown_hair_01				
+				1 = female_headgear_secular_byzantine_imperial_01	
+				2 = Byzantine_Empress_Veil_Cowl_3
+			    2 = Byzantine_Empress_Veil_Cowl_3_transparent	
+			    2 = Byzantine_Empress_Veil_Cowl_3_novail	
+                
+            }
 			boy = male
             girl = female
 		}
@@ -1281,11 +1288,17 @@ accessory_genes = {
 		armenian_imperial = {
 			index = 73
 			male = {
-				1 = male_headgear_secular_byzantine_imperial_01
+				1 = male_byz_imp_stemma_01
+				1 = male_byz_imp_stemma_02	
+				1 = male_byz_imp_stemma_03
 				
 			}
 			female = {
-				1 = female_headgear_secular_byzantine_imperial_01				
+				3 = byz_female_imperial_crown_hair_01				
+				1 = female_headgear_secular_byzantine_imperial_01	
+				2 = Byzantine_Empress_Veil_Cowl_3
+			    2 = Byzantine_Empress_Veil_Cowl_3_transparent	
+			    2 = Byzantine_Empress_Veil_Cowl_3_novail				
 			}
 			boy = male
             girl = female
@@ -1368,11 +1381,17 @@ accessory_genes = {
 		south_slav_imperial = {
 			index = 79
 			male = {
-				1 = male_headgear_secular_byzantine_imperial_01
+				1 = male_byz_imp_stemma_01
+				1 = male_byz_imp_stemma_02	
+				1 = male_byz_imp_stemma_03
 				
 			}
 			female = {
-				1 = female_headgear_secular_byzantine_imperial_01				
+				3 = byz_female_imperial_crown_hair_01				
+				1 = female_headgear_secular_byzantine_imperial_01	
+				2 = Byzantine_Empress_Veil_Cowl_3
+			    2 = Byzantine_Empress_Veil_Cowl_3_transparent	
+			    2 = Byzantine_Empress_Veil_Cowl_3_novail				
 			}
 			boy = male
             girl = female
