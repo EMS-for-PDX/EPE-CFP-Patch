@@ -1255,11 +1255,12 @@ accessory_genes = {
 				1 = male_headgear_secular_byzantine_monomachus_01					
 			}
 			female = {
-				3 = byz_female_imperial_crown_hair_01				
-				1 = female_headgear_secular_byzantine_imperial_01	
-				2 = Byzantine_Empress_Veil_Cowl_3
-			    2 = Byzantine_Empress_Veil_Cowl_3_transparent	
-			    2 = Byzantine_Empress_Veil_Cowl_3_novail					
+				1 = fem_byz_imperial_stemma_01
+				# 3 = byz_female_imperial_crown_hair_01				
+				# 1 = female_headgear_secular_byzantine_imperial_01	
+				# 2 = Byzantine_Empress_Veil_Cowl_3
+			    # 2 = Byzantine_Empress_Veil_Cowl_3_transparent	
+			    # 2 = Byzantine_Empress_Veil_Cowl_3_novail						
             ####CFP byzantine headgears	
 				1 = female_headgear_secular_byzantine_imperial_02
 				1 = female_headgear_secular_byzantine_monomachus_01						
