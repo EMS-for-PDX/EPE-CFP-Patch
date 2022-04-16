@@ -1368,10 +1368,12 @@ accessory_genes = {
             male = {
                 1 = male_byz_royal_crown_01
 				1 = male_byz_royal_crown_02
+				1 = male_byz_royal_crown_03
                 
             }
             female = {
-				1 = female_byz_royal_crown_01		
+                1 = female_byz_royal_crown_01
+				1 = female_byz_royal_crown_02		
                 
             }
             boy = male
