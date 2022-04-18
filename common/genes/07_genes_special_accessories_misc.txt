@@ -1484,6 +1484,16 @@ accessory_genes = {
 			}
 		}
 
+		byzantine_high_noble_war_cloak = {
+			index = 48
+			male = {
+				1 = male_cloak_epe_byzantine_war_high_noble_01	
+				
+			}
+			female = {
+				1 = empty
+			}
+		}
 
 
 
