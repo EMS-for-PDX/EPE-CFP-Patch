@@ -1248,7 +1248,8 @@ accessory_genes = {
 			male = {
 				1 = male_byz_imp_stemma_01
 				1 = male_byz_imp_stemma_02	
-				1 = male_byz_imp_stemma_03				
+				1 = male_byz_imp_stemma_03
+				1 = male_byz_imp_stemma_04			
 				1 = male_headgear_secular_byzantine_imperial_01	
             ####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_imperial_02
@@ -1256,6 +1257,8 @@ accessory_genes = {
 			}
 			female = {
 				1 = fem_byz_imperial_stemma_01
+				1 = fem_byz_imperial_stemma_02
+				1 = fem_byz_imperial_stemma_02_veil	
 				# 3 = byz_female_imperial_crown_hair_01				
 				# 1 = female_headgear_secular_byzantine_imperial_01	
 				# 2 = Byzantine_Empress_Veil_Cowl_3
@@ -1287,6 +1290,7 @@ accessory_genes = {
 			}
 			female = {
 				1 = female_headgear_secular_byzantine_war_nobility_01
+				1 = female_epe_byz_spangenhelm_01					
             ####CFP byzantine war headgears	
 				1 = female_headgear_secular_byzantine_war_nobility_02
 				1 = female_headgear_secular_byzantine_war_roman_01

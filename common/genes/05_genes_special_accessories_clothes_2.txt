@@ -290,7 +290,25 @@ accessory_genes = {
 		}	
 
 
+##########################################################################
+####Byzantine Emperor armor
+##########################################################################		
 
+		byzantine_war_imperial_clothes = {
+			index = 13
+
+			male = {
+				1 = male_clothing_epe_byzantine_war_imperial_01
+				
+			}
+
+			female = {
+				1 = female_clothing_epe_byzantine_war_imperial_01
+				
+			}
+			boy = male
+			girl = female
+		}	
 
 
 
