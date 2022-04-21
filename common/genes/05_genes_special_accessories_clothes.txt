@@ -16,6 +16,8 @@ accessory_genes = {
 		most_clothes = {
 			index = 0
 			male = {
+            ####CFP Byzantine			
+					1 = male_clothes_secular_byzantine_cfp_war_nobility_01			
             ####CFP Mena
 					1 = male_clothes_secular_mena_war_nobility_02_low #CFP
 					1 = male_clothes_secular_northern_war_gambeson_02 #CFP
@@ -456,7 +458,6 @@ accessory_genes = {
 
 			male = {
 				1 = male_clothes_secular_byzantine_war_nobility_01_low
-				1 = male_clothes_secular_byzantine_cfp_war_nobility_01
 				
 			}
 
