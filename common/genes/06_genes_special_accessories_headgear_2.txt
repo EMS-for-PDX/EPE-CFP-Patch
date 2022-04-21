@@ -2738,9 +2738,27 @@ accessory_genes = {
 ####Christian Norse
 ##########################################################################				
 		
+
+		northern_christian_common = {
+			index = 156
+			male = {
+				5 = male_headgear_secular_western_common_01
+				5 = male_headgear_secular_western_common_02
+				35 = empty
+			}
+			female = {
+				35 = empty
+                5 = female_headgear_secular_western_nobility_01
+                5 = female_headgear_secular_western_nobility_01_2
+				5 = female_headgear_secular_western_nobility_02
+				5 = female_headgear_secular_western_nobility_03
+			}
+			boy = male
+            girl = female
+		}
 		
 		northern_christian_low_nobility = {
-            index = 156
+            index = 157
             male = {
 				1 = male_Circlets_Western_Small_Gold_Pearls
 				2 = male_Circlets_Western_Small_Leather_Pearls
@@ -2772,7 +2790,7 @@ accessory_genes = {
         }
 
 		northern_christian_high_nobility = {
-			index = 157
+			index = 158
 			male = {
 				2 = male_west_early_noble_circlet_01
 				2 = male_west_early_noble_circlet_02
@@ -2797,7 +2815,7 @@ accessory_genes = {
 		}
 
 		northern_christian_royalty = {
-			index = 158
+			index = 159
 			male = {
 				3 = male_headgear_secular_western_royalty_01
 				3 = male_headgear_secular_western_royalty_02
@@ -2827,7 +2845,7 @@ accessory_genes = {
 		}
 
 		northern_christian_imperial = {
-			index = 159
+			index = 160
 			male = {
 				3 = male_headgear_secular_western_royalty_01
 				3 = male_headgear_secular_western_royalty_02
@@ -2855,25 +2873,34 @@ accessory_genes = {
 			boy = male
             girl = female
 		}		
-				
+
+##########################################################################
+####Pagan Byzantine
+##########################################################################				
 		
+        byzantine_pagan_royalty = {
+            index = 161
+			male = {
+				1 = male_roman_emperor_wreath_01 
+			}
+			female = {
+				1 = female_roman_emperor_wreath_01
+			}
+            boy = male
+            girl = female
+        }		
 		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
-		
+		byzantine_pagan_imperial = {
+			index = 162
+			male = {
+				1 = male_roman_emperor_wreath_02
+			}
+			female = {
+				1 = female_roman_emperor_wreath_02		
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		
