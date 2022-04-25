@@ -262,7 +262,8 @@ accessory_genes = {
 				1 = female_crown_of_charlemagne_01	
 				1 = female_early_iranian_royal_crown_early_01
 				1 = female_early_iranian_royal_crown_early_02	
-                1 = female_headgear_secular_byzantine_royalty_01				
+                1 = female_headgear_secular_byzantine_royalty_01
+				1 = fem_byz_crown_of_theodora_01					
             ####CFP western headgears				
 				1 = female_headgear_secular_western_nobility_05
 				1 = female_headgear_secular_western_nobility_06

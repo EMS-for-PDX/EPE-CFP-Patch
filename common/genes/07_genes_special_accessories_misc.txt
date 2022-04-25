@@ -1243,12 +1243,14 @@ accessory_genes = {
 
 		byzantine_imperial = {
 			index = 30
-			male = {
-				1 = male_byzantine_imperial_sagum_01	
-				1 = male_byzantine_imperial_sagum_02				
+			male = {			
+				5 = male_byzantine_imperial_sagum_01	
+				5 = male_byzantine_imperial_sagum_02
+				2 = male_byzantine_imperial_sagum_02_plane					
 			}
 			female = {
-				1 = female_byzantine_imperial_sagum_02
+				10 = female_byzantine_imperial_sagum_02
+				2 = female_byzantine_imperial_sagum_02_plane					
 			}
 		}	
 
