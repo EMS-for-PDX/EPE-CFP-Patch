@@ -33,8 +33,7 @@
 					1 = empty
 				}
 				female = {
-					3 = empty
-					1 = female_accessories_cfp_byzantine_earrings_01
+					1 = female_epe_byzantine_earing_01
 				}
 				boy = male
 				girl = female
@@ -74,10 +73,9 @@
 					1 = empty
 				}
 				female = {
-					3 = empty
-					1 = female_accessories_cfp_indian_earrings_01
-					1 = female_accessories_cfp_indian_earrings_02
-					1 = female_accessories_cfp_indian_earrings_03
+					1 = female_epe_indian_earing_01
+					1 = female_epe_indian_earing_02
+					1 = female_epe_indian_earing_03	
 				}
 				boy = male
 				girl = female

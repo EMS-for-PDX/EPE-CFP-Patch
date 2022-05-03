@@ -534,10 +534,9 @@ special_genes = {
 				}
 
 				female = {
-					2 = female_hair_indian_01 # Tight updo with jewelry
-					1 = cfp_female_hair_indian_01
-					2 = female_hair_indian_02 # Braids with jewelry
-					1 = cfp_female_hair_indian_02
+					    2 = female_hair_custom_02
+					    2 = female_hair_custom_03	
+					    2 = female_hair_custom_01	
 					
 				}
 				boy = male
@@ -555,12 +554,9 @@ special_genes = {
 				}
 
 				female = {
-					2 = female_hair_indian_01 # Tight updo with jewelry
-					1 = cfp_female_hair_indian_01
-					2 = female_hair_indian_02 # Braids with jewelry
-					1 = cfp_female_hair_indian_02
-					2 = female_hair_indian_03 # Let out wavy with jewelry
-					1 = cfp_female_hair_indian_03
+					    2 = female_hair_custom_02
+					    2 = female_hair_custom_03	
+					    2 = female_hair_custom_01	
 					
 				}
 				boy = male
@@ -577,8 +573,7 @@ special_genes = {
 				}
 
 				female = {
-					2 = female_hair_indian_03 # Let out wavy with jewelry
-					1 = cfp_female_hair_indian_03
+						2 = female_hair_custom_01 # Let out wavy with jewelry
 					
 				}
 				boy = male
@@ -1002,10 +997,8 @@ special_genes = {
 				}
 
 				female = {
-				1 = female_hair_indian_01
-				1 = female_hair_custom_02
-				1 = female_hair_custom_03
-				1 = female_hair_indian_03
+					1 = female_hair_custom_02
+					1 = female_hair_custom_03
 					
 				}
 				boy = male
@@ -1023,10 +1016,9 @@ special_genes = {
 				}
 
 				female = {
-				1 = female_hair_indian_01
-				1 = female_hair_custom_02
-				1 = female_hair_custom_03
-				1 = female_hair_indian_03
+					  2 = female_hair_custom_02
+					  2 = female_hair_custom_03	
+					  2 = female_hair_custom_01	
 					
 				}
 				boy = male
@@ -1043,7 +1035,7 @@ special_genes = {
 				}
 
 				female = {
-					2 = female_hair_indian_03 # Let out wavy with jewelry
+						2 = female_hair_custom_01 # Let out wavy with jewelry
 					
 				}
 				boy = male
@@ -2525,7 +2517,26 @@ special_genes = {
 				girl = female
 			}				
 			
+###Indian hairstyle female high noble
 			
+				indian_hairstyles_straight_wavy_high_noble = {
+					index = 95
+					male = {
+						#weight = <object in gfx/portrait/accessories/>
+						2 = male_hair_indian_01 # Short Pompadour
+						2 = male_hair_indian_03 # High man bun
+					
+					}
+
+					female = {
+						2 = female_hair_indian_01 # Tight updo with jewelry
+						2 = female_hair_indian_02 # Braids with jewelry
+						2 = female_hair_indian_03 # Let out wavy with jewelry				
+					}
+					boy = male
+					girl = female
+				}			
+						
 		
 
 
