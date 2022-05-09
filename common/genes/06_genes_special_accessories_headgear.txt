@@ -1029,7 +1029,9 @@ accessory_genes = {
 				1 = male_headgear_religious_dde_muslim_head_01
 				1 = male_headgear_epe_white_abbasid_high_01	
 				1 = male_headgear_epe_white_mena_nobility_02	
-				1 = male_headgear_epe_white_mena_nobility_03				
+				1 = male_headgear_epe_white_mena_nobility_03	
+				1 = male_headgear_epe_dde_abbasid_high_nobility_02	
+				1 = male_headgear_epe_dde_abbasid_high_nobility_02_white					
             }
             female = {
             	1 = female_headgear_secular_mena_nobility_01
@@ -3091,7 +3093,9 @@ accessory_genes = {
 				2 = male_headgear_secular_mena_nobility_01
 				1 = male_headgear_epe_white_abbasid_high_01	
 				1 = male_headgear_epe_white_mena_nobility_02	
-				1 = male_headgear_epe_white_mena_nobility_03	
+				1 = male_headgear_epe_white_mena_nobility_03					
+				1 = male_headgear_epe_dde_abbasid_high_nobility_02	
+				1 = male_headgear_epe_dde_abbasid_high_nobility_02_white	
             }
             female = {
             	1 = female_headgear_secular_mena_nobility_01
