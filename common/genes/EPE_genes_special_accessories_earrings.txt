@@ -45,8 +45,8 @@
 					1 = empty
 				}
 				female = {
-					3 = empty
-					1 = female_accessories_cfp_mena_earrings_01
+					1 = empty
+					3 = female_epe_mena_earing_01
 				}
 				boy = male
 				girl = female
