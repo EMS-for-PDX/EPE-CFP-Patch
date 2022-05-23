@@ -1189,8 +1189,9 @@ accessory_genes = {
             index = 34
             male = {
                 5 = male_headgear_secular_byzantine_high_nobility_01
-                5 = male_epe_byz_ceremonial_hat_01_high					
-                5 = male_epe_byz_ceremonial_hat_02_high	
+                5 = male_epe_byz_pannonian_hat_01_high	
+                5 = male_epe_byz_pannonian_hat_03_high			
+                5 = male_epe_byz_pannonian_hat_04_high	
             ####CFP byzantine headgears	
                 5 = male_headgear_secular_byzantine_skiadion_01			
                 5 = male_headgear_secular_byzantine_pannonian_high_01					
