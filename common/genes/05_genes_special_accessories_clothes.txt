@@ -4805,10 +4805,10 @@ accessory_genes = {
 		}
 
 ##########################################################################
-####Early Polish
+####Andalusia
 ##########################################################################
 
-		early_polish_commoner_clothes = {
+		andalusian_commoner_clothes = {
 			index = 244
 
 			male = {
@@ -4826,7 +4826,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		 early_polish_low_nobility_clothes = {
+		 andalusian_low_nobility_clothes = {
 			index = 245
 
 			male = {
@@ -4845,7 +4845,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		early_polish_high_nobility_clothes = {
+		andalusian_high_nobility_clothes = {
 			index = 246
 
 			male = {
@@ -4862,7 +4862,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		early_polish_war_nobility_clothes = {
+		andalusian_war_nobility_clothes = {
 			index = 247
 
 			male = {

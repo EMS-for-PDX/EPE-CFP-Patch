@@ -5607,11 +5607,11 @@ accessory_genes = {
 					
 		
 ##########################################################################
-####Kirghiz  
+####Andalusia  
 ##########################################################################
 		
 
-		kirghiz_common = {
+		andalusian_common = {
 			index = 245
 			male = {
 				5 = male_headgear_secular_steppe_common_01
@@ -5629,7 +5629,7 @@ accessory_genes = {
             girl = female
 		}
 		
-		kirghiz_low_nobility = {
+		andalusian_low_nobility = {
             index = 246
             male = {
 				5 = male_headgear_secular_steppe_common_01
@@ -5647,7 +5647,7 @@ accessory_genes = {
             girl = female
         }
 		
-		kirghiz_high_nobility = {
+		andalusian_high_nobility = {
 			index = 247
             male = {
                 1 = male_Turkic_Fur_Cap_04	
@@ -5661,7 +5661,7 @@ accessory_genes = {
             girl = female
 		}
 
-		kirghiz_royalty = {
+		andalusian_royalty = {
 			index = 248
 			male = {
 				3 = Male_Turkic_Eagle_Crown_01			
@@ -5680,7 +5680,7 @@ accessory_genes = {
 		}
 
 
-		kirghiz_imperial = {
+		andalusian_imperial = {
 			index = 249
 			male = {
 				3 = Male_Turkic_Eagle_Crown_01			
@@ -5696,7 +5696,7 @@ accessory_genes = {
             girl = female
 		}
 
-		kirghiz_war = {
+		andalusian_war = {
 			index = 250
 			male = {
 				1 = male_headgear_secular_steppe_war_nobility_01				

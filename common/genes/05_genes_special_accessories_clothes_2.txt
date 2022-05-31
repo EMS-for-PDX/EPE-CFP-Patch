@@ -412,7 +412,77 @@ accessory_genes = {
 			girl = female
 		}		
 		
-		
+##########################################################################
+####Early Polish
+##########################################################################
+
+		early_polish_commoner_clothes = {
+			index = 19
+
+			male = {
+				1 = male_clothes_early_west_slav_01_common			
+				1 = male_clothes_early_west_slav_02_common
+			}
+
+			female = {
+				1 = female_clothes_early_west_slav_01_common			
+				1 = female_clothes_early_west_slav_02_common
+				1 = female_clothes_early_west_slav_03_common
+			}
+
+			boy = male
+			girl = female
+		}
+
+		 early_polish_low_nobility_clothes = {
+			index = 20
+
+			male = {
+				2 = male_clothes_early_west_slav_01_low			
+				2 = male_clothes_early_west_slav_01_low_alt
+				2 = male_clothes_early_west_slav_02_low
+				2 = male_clothes_early_west_slav_02_low_alt	
+			}
+
+			female = {
+				2 = female_clothes_early_west_slav_01_low			
+				2 = female_clothes_early_west_slav_02_low
+				2 = female_clothes_early_west_slav_03_low
+			}
+			boy = male
+			girl = female
+		}
+
+		early_polish_high_nobility_clothes = {
+			index = 21
+
+			male = {
+				1 = male_clothes_early_west_slav_01_high
+				1 = male_clothes_early_west_slav_02_high
+			}
+
+			female = {
+				2 = female_clothes_early_west_slav_01_high			
+				2 = female_clothes_early_west_slav_02_high
+				2 = female_clothes_early_west_slav_03_high
+			}
+			boy = male
+			girl = female
+		}
+
+		early_polish_war_nobility_clothes = {
+			index = 22
+
+			male = {
+				1 = male_clothes_balto_finnic_war_nobility_01_common		
+			}
+
+			female = {
+				1 = female_clothes_balto_finnic_war_nobility_01_common	
+			}
+			boy = male
+			girl = female
+		}		
 		
 		
 		

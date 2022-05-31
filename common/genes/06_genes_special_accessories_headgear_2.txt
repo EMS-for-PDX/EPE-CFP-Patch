@@ -3037,7 +3037,108 @@ accessory_genes = {
             girl = female
         }			
 		
+##########################################################################
+####Kirghiz  
+##########################################################################
 		
+
+		kirghiz_common = {
+			index = 168
+			male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				5 = empty
+				5 = female_headgear_secular_steppe_common_01
+			}
+			boy = male
+            girl = female
+		}
+		
+		kirghiz_low_nobility = {
+            index = 169
+            male = {
+				5 = male_headgear_secular_steppe_common_01
+				5 = male_Turkic_Fur_Cap_01
+				5 = male_Turkic_Fur_Cap_02	
+				5 = male_Turkic_Fur_Cap_03
+				5 = male_Turkic_Fur_Cap_04	
+                5 = male_Turkic_Fur_Cap_05					
+            }
+            female = {
+                5 = empty
+                5 = female_headgear_secular_steppe_common_01
+            }
+            boy = male
+            girl = female
+        }
+		
+		kirghiz_high_nobility = {
+			index = 170
+            male = {
+                1 = male_Turkic_Fur_Cap_04	
+                1 = male_Turkic_Fur_Cap_05				
+                1 = male_headgear_secular_steppe_nobility_01
+            }
+            female = {
+                5 = female_cuman_noble_hat_01
+            }
+			boy = male
+            girl = female
+		}
+
+		kirghiz_royalty = {
+			index = 171
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				3 = male_Turkic_Eagle_Crown_02_02				
+				2 = male_Turkic_Fur_Cap_04	
+                2 = male_Turkic_Fur_Cap_05					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+
+		kirghiz_imperial = {
+			index = 172
+			male = {
+				3 = Male_Turkic_Eagle_Crown_01			
+				2 = male_Turkic_Eagle_Crown_02
+				2 = male_Turkic_Eagle_Crown_02_02					
+			}
+			female = {
+				1 = female_headgear_secular_steppe_high_nobility_01	
+				1 = Female_Khanum_Headress_01	
+				1 = Female_Khanum_Headress_02					
+			}
+			boy = male
+            girl = female
+		}
+
+		kirghiz_war = {
+			index = 173
+			male = {
+				1 = male_headgear_secular_steppe_war_nobility_01				
+			}
+			female = {
+				1 = female_headgear_secular_steppe_war_nobility_01
+				
+			}
+			boy = male
+            girl = female
+		}			
 		
 		
 		
