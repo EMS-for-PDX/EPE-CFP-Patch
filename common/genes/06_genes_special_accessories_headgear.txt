@@ -2798,7 +2798,18 @@ accessory_genes = {
 			boy = male
             girl = female
 		}			
-		
+
+		fp2_scripted_headgear_01 = {
+			index = 116
+			male = {
+				1 = no_headgear
+				1 = male_headgear_secular_fp2_iberian_muslim_common_01_low
+				1 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
+			}
+			boy = male
+			girl = male
+			female = male
+		}		
 		
 ##############################
 ######################
@@ -4349,12 +4360,11 @@ accessory_genes = {
 				4 = empty						
 				4 = male_headgear_secular_western_common_01
 				4 = male_headgear_secular_western_common_02
-           ####CFP iberian headgears
-				4 = male_headgear_secular_iberian_cfp_bonnet_common_01	
-				
+				4 = male_headgear_secular_iberian_cfp_bonnet_common_01				
 				###dlc version
 				10 = empty
-				20 = male_headgear_secular_fp2_iberian_christian_common_01
+				10 = male_headgear_secular_iberian_cfp_bonnet_common_01					
+				10 = male_headgear_secular_fp2_iberian_christian_common_01
 				
 			}
 			female = {
@@ -4364,12 +4374,11 @@ accessory_genes = {
                 2 = female_headgear_secular_western_nobility_01_2
 				2 = female_headgear_secular_western_nobility_02
 				2 = female_headgear_secular_western_nobility_03
-           ####CFP iberian headgears
-				4 = female_headgear_secular_iberian_cfp_bonnet_common_01	
-				
+				2 = female_headgear_secular_iberian_cfp_bonnet_common_01				
 				###dlc version	
 				10 = empty
-				20 = female_headgear_secular_fp2_iberian_christian_common_01				
+				10 = female_headgear_secular_iberian_cfp_bonnet_common_01				
+				10 = female_headgear_secular_fp2_iberian_christian_common_01				
 			}
 			boy = male
             girl = female
@@ -4388,12 +4397,13 @@ accessory_genes = {
 				1 = male_Circlets_Western_Small_Simple_silver
 				1 = male_Circlets_Western_Small_Jewells
 				1 = male_Circlets_Western_Small_Jewells_silver
-           ####CFP iberian headgears
-				1 = male_headgear_secular_iberian_cfp_bonnet_low_01	
+				1 = male_headgear_secular_iberian_cfp_bonnet_low_01				
+
 				
 				###dlc version	
+				1 = male_headgear_secular_iberian_cfp_bonnet_low_01				
 				1 = male_headgear_secular_fp2_iberian_christian_nobility_01_low
-				1 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_low				
+				2 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_low				
             }
             female = {
 				1 = female_Circlets_Western_Small_Silver_Pearls	
@@ -4405,12 +4415,13 @@ accessory_genes = {
 				1 = female_Circlets_Western_Small_Simple
 				1 = female_Circlets_Western_Small_Simple_silver					
                 1 = female_headgear_secular_western_nobility_05	
-           ####CFP iberian headgears
-				1 = female_headgear_secular_iberian_cfp_bonnet_low_01
+				1 = female_headgear_secular_iberian_cfp_bonnet_low_01				
+
 				
 				###dlc version	
+				1 = female_headgear_secular_iberian_cfp_bonnet_low_01				
 				1 = female_headgear_secular_fp2_iberian_christian_nobility_01_low
-				1 = female_headgear_secular_fp2_iberian_christian_high_nobility_01				
+				2 = female_headgear_secular_fp2_iberian_christian_high_nobility_01				
             }
             boy = male
             girl = female
@@ -4429,15 +4440,15 @@ accessory_genes = {
 				1 = male_Circlets_Western_Small_Simple_silver
 				1 = male_Circlets_Western_Small_Jewells
 				1 = male_Circlets_Western_Small_Jewells_silver
-           ####CFP iberian headgears
-				1 = male_headgear_secular_iberian_cfp_bonnet_low_01	
+				1 = male_headgear_secular_iberian_cfp_bonnet_low_01				
+
 				
 				###dlc version	
+				1 = male_headgear_secular_iberian_cfp_bonnet_low_01				
 				1 = male_headgear_secular_fp2_iberian_christian_nobility_01_low
-				1 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_low				
+				2 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_low				
             }
             female = {
-			    ###non-dlc version				
 				1 = female_Circlets_Western_Small_Silver_Pearls	
 				1 = female_Circlets_Western_Small_Leather_Pearls
                 1 = female_Circlets_Western_Small_Leather_Pearls_02
@@ -4447,12 +4458,13 @@ accessory_genes = {
 				1 = female_Circlets_Western_Small_Simple
 				1 = female_Circlets_Western_Small_Simple_silver					
                 1 = female_headgear_secular_western_nobility_05	
-           ####CFP iberian headgears
-				1 = female_headgear_secular_iberian_cfp_bonnet_low_01
+				1 = female_headgear_secular_iberian_cfp_bonnet_low_01				
+
 				
 				###dlc version	
+				1 = female_headgear_secular_iberian_cfp_bonnet_low_01				
 				1 = female_headgear_secular_fp2_iberian_christian_nobility_01_low
-				1 = female_headgear_secular_fp2_iberian_christian_high_nobility_01				
+				2 = female_headgear_secular_fp2_iberian_christian_high_nobility_01				
             }
             boy = male
             girl = female
@@ -4463,42 +4475,34 @@ accessory_genes = {
 			index = 198
 			male = {
 			    ###non-dlc version				
-				2 = male_west_early_noble_circlet_01
+				3 = male_west_early_noble_circlet_01
 				2 = male_west_early_noble_circlet_02
 				2 = male_west_early_noble_circlet_03
 				2 = male_west_early_noble_circlet_04
 				2 = male_west_early_noble_circlet_05
-           ####CFP iberian headgears
 				2 = male_headgear_secular_iberian_cfp_bonnet_high_01
-            ####CFP western headgears	
-				1 = male_headgear_secular_western_high_nobility_04	
-				1 = male_headgear_secular_slavic_high_nobility_01
-				1 = male_headgear_secular_western_pillbox_low_01
 
 				
 				###dlc version	
+				1 = male_headgear_secular_iberian_cfp_bonnet_high_01				
 				1 = male_headgear_secular_fp2_iberian_christian_nobility_01_high
-				1 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_high
+				2 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_high
 
 				
 			}
 			female = {
 			    ###non-dlc version				
-				2 = female_west_early_noble_circlet_01_veil
+				3 = female_west_early_noble_circlet_01_veil
 				2 = female_west_early_noble_circlet_02_veil
 				2 = female_west_early_noble_circlet_03_veil
 				2 = female_west_early_noble_circlet_04_veil
 				2 = female_west_early_noble_circlet_05_veil		
-           ####CFP iberian headgears
-				3 = female_headgear_secular_iberian_cfp_bonnet_high_01	
-            ####CFP western headgears				
-				1 = female_headgear_secular_western_high_nobility_04
-				1 = female_headgear_secular_slavic_high_nobility_01	
-
+				2 = female_headgear_secular_iberian_cfp_bonnet_high_01
 				
 				###dlc version	
+				1 = female_headgear_secular_iberian_cfp_bonnet_high_01				
 				1 = female_headgear_secular_fp2_iberian_christian_high_nobility_01
-				1 = female_headgear_secular_fp2_iberian_christian_nobility_01_high				
+				2 = female_headgear_secular_fp2_iberian_christian_nobility_01_high				
 				
 			}
 			boy = male
@@ -4543,7 +4547,7 @@ accessory_genes = {
 				1 = male_Western_Royal_Crown_03	
 				1 = male_western_royal_crown_04	
 				###dlc version
-				5 = male_headgear_secular_fp2_iberian_christian_royalty_01
+				10 = male_headgear_secular_fp2_iberian_christian_royalty_01
 				
 			}
 			female = {	
@@ -4553,7 +4557,7 @@ accessory_genes = {
 				1 = female_crown_royalty_headvail_04
 				1 = female_crown_royalty_covervail_04	
 				###dlc version
-				5 = female_headgear_secular_fp2_iberian_christian_royalty_01				
+				10 = female_headgear_secular_fp2_iberian_christian_royalty_01				
 			}
 			boy = male
             girl = female
@@ -4563,35 +4567,39 @@ accessory_genes = {
 			index = 201
 			male = {
 			    ###non-dlc version				
-				5 = male_iberian_nasalhelm_01			
-				1 = male_early_west_nasalhelm_01
+				10 = male_iberian_nasalhelm_01			
+				2 = male_early_west_nasalhelm_01
 				1 = male_early_west_nasalhelm_02	
 				1 = male_high_west_phrygian_01	
 				1 = male_high_west_phrygian_02	
 				1 = male_high_west_phrygian_03	
 				1 = male_High_West_Phrygian_Round_Helm_01	
 				1 = male_High_West_Phrygian_Round_Helm_02
-           ####CFP iberian war headgears					
-				3 = male_headgear_secular_iberian_cfp_war_cervelliere_01
-				3 = male_headgear_secular_iberian_cfp_war_nasal_01	
+				1 = male_headgear_secular_iberian_cfp_war_cervelliere_01
+				1 = male_headgear_secular_iberian_cfp_war_nasal_01				
 				###dlc version
-				1 = male_headgear_secular_fp2_iberian_christian_royalty_01				
+				5 = male_headgear_secular_iberian_cfp_war_cervelliere_01
+				5 = male_headgear_secular_iberian_cfp_war_nasal_01				
+				5 = male_headgear_secular_fp2_iberian_christian_war_nobility_01				
 				
 			}
 			female = {
 			    ###non-dlc version				
 				5 = female_headgear_secular_western_war_nobility_01
 				5 = female_headgear_secular_crusades_western_war_nobility_01
-           ####CFP iberian war headgears					
 				5 = female_headgear_secular_iberian_cfp_war_cervelliere_01
-				5 = female_headgear_secular_iberian_cfp_war_nasal_01	
+				5 = female_headgear_secular_iberian_cfp_war_nasal_01				
 				###dlc version
-				1 = female_headgear_secular_fp2_iberian_christian_royalty_01
+				5 = female_headgear_secular_iberian_cfp_war_cervelliere_01
+				5 = female_headgear_secular_iberian_cfp_war_nasal_01				
+				5 = female_headgear_secular_fp2_iberian_christian_war_nobility_01
 				
 			}
 			boy = male
             girl = female
 		}
+		
+		
 		
 		
 ##########################################################################
