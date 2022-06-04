@@ -2714,7 +2714,7 @@ accessory_genes = {
 ####Iberian
 ##########################################################################
 
-		iberian_commoner_clothes = {
+		fp2_christian_commoner_clothes = {
 			index = 137
 
 			male = {
@@ -2739,7 +2739,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		iberian_low_nobility_clothes = {
+		fp2_christian_low_nobility_clothes = {
 			index = 138
 
 			male = {
@@ -2766,7 +2766,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		iberian_high_nobility_clothes = {
+		fp2_christian_high_nobility_clothes = {
 			index = 139
 
 			male = {
@@ -2795,7 +2795,7 @@ accessory_genes = {
 		
 		
 		
-		iberian_war_nobility_clothes = {
+		fp2_christian_war_nobility_clothes = {
 			index = 140
 
 			male = {
@@ -2814,7 +2814,7 @@ accessory_genes = {
 
 			boy = male
 			girl = female
-		}	
+		}		
 				
 		
 ##########################################################################
@@ -4830,7 +4830,7 @@ accessory_genes = {
 ####Andalusia
 ##########################################################################
 
-		andalusian_commoner_clothes = {
+		fp2_muslim_commoner_clothes = {
 			index = 244
 
 
@@ -4856,7 +4856,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		 andalusian_low_nobility_clothes = {
+		 fp2_muslim_low_nobility_clothes = {
 			index = 245
 
 			male = {
@@ -4883,7 +4883,7 @@ accessory_genes = {
 			girl = female
 		}
 
-		andalusian_high_nobility_clothes = {
+		fp2_muslim_high_nobility_clothes = {
 			index = 246
 
 			male = {
@@ -4912,7 +4912,7 @@ accessory_genes = {
 		
 		
 		
-		andalusian_war_nobility_clothes = {
+		fp2_muslim_war_nobility_clothes = {
 			index = 247
 
 			male = {

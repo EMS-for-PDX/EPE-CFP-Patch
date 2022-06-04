@@ -4353,7 +4353,7 @@ accessory_genes = {
 		
 		
 
-		iberia_common = {
+		fp2_christian_common = {
 			index = 195
 			male = {
 			    ###non-dlc version			
@@ -4384,7 +4384,7 @@ accessory_genes = {
             girl = female
 		}
 		
-		iberia_low_nobility = {
+		fp2_christian_low_nobility = {
             index = 196
             male = {
 			    ###non-dlc version				
@@ -4427,7 +4427,7 @@ accessory_genes = {
             girl = female
         }
 		
-		iberia_count = {
+		fp2_christian_count = {
             index = 197
             male = {
 			    ###non-dlc version				
@@ -4471,7 +4471,7 @@ accessory_genes = {
         }
 		
 
-		iberia_high_nobility = {
+		fp2_christian_high_nobility = {
 			index = 198
 			male = {
 			    ###non-dlc version				
@@ -4509,7 +4509,7 @@ accessory_genes = {
             girl = female
 		}
 
-		iberia_royalty = {
+		fp2_christian_royalty = {
 			index = 199
 			male = {
 			    ###non-dlc version				
@@ -4538,7 +4538,7 @@ accessory_genes = {
 		}
 
 
-		iberia_imperial = {
+		fp2_christian_imperial = {
 			index = 200
 			male = {
 			    ###non-dlc version			
@@ -4563,7 +4563,7 @@ accessory_genes = {
             girl = female
 		}
 
-		iberia_war = {
+		fp2_christian_war_nobility = {
 			index = 201
 			male = {
 			    ###non-dlc version				
@@ -5664,19 +5664,20 @@ accessory_genes = {
 ##########################################################################
 		
 
-		andalusian_common = {
+		fp2_muslim_common = {
 			index = 245
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_common_01_low
 			}
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_common_01
+				1 = female_headgear_secular_andalusian_cfp_common_01				
 			}
 			boy = male
             girl = female
 		}
 		
-		andalusian_low_nobility = {
+		fp2_muslim_low_nobility = {
             index = 246
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_nobility_01
@@ -5685,12 +5686,13 @@ accessory_genes = {
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_low
 				1 = female_headgear_secular_fp2_iberian_muslim_nobility_01
+				1 = female_headgear_secular_andalusian_cfp_low_01				
 			}
             boy = male
             girl = female
         }
 		
-		andalusian_high_nobility = {
+		fp2_muslim_high_nobility = {
 			index = 247
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
@@ -5698,44 +5700,53 @@ accessory_genes = {
 			female = {
 				
 				1 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_high
+				1 = female_headgear_secular_andalusian_cfp_high_01				
 			}
 			boy = male
             girl = female
 		}
 
-		andalusian_royalty = {
+		fp2_muslim_royalty = {
 			index = 248
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_royalty_01
+				1 = male_headgear_secular_fp2_iberian_muslim_royalty_01				
 			}
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_royalty_01
+				1 = female_headgear_secular_fp2_iberian_muslim_royalty_01				
 			}
 			boy = male
             girl = female
 		}
 
 
-		andalusian_imperial = {
+		fp2_muslim_imperial = {
 			index = 249
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_royalty_01
+				1 = male_headgear_secular_fp2_iberian_muslim_royalty_01				
 			}
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_royalty_01
+				1 = female_headgear_secular_fp2_iberian_muslim_royalty_01				
 			}
 			boy = male
             girl = female
 		}
 
-		andalusian_war = {
+		fp2_muslim_war_nobility = {
 			index = 250
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_war_nobility_01
+				1 = male_headgear_secular_andalusian_cfp_war_turban_01
+				1 = male_headgear_secular_andalusian_cfp_war_nasal_01				
 			}
 			
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_war_nobility_01
+				1 = female_headgear_secular_andalusian_cfp_war_turban_01
+				1 = female_headgear_secular_andalusian_cfp_war_nasal_01					
 			}
 			boy = male
             girl = female
