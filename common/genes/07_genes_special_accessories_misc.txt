@@ -806,7 +806,7 @@ accessory_genes = {
 				1 = male_legwear_secular_western_war_01
 			}
 			female = {
-				1 = female_legwear_secular_western_common_01
+				1 = female_legwear_secular_western_war_01
 			}
 			boy = male
 			girl = female
@@ -847,6 +847,7 @@ accessory_genes = {
 			boy = male
 			girl = female
 		}
+
 		fp1_common_legwear = {
 			index = 7
 			male = {
@@ -1362,8 +1363,7 @@ accessory_genes = {
 				1 = male_frankish_royal_sagum_01
 			}
 			female = {
-				1 = female_cloaks_secular_western_royalty_01
-				1 = female_cloaks_secular_western_royalty_02a				
+				1 = female_cloaks_secular_western_royalty_01			
 			}
 		}
 ##########################################################################
@@ -1670,13 +1670,41 @@ accessory_genes = {
 
 
 
-	
-	
-		
-		
-		
+
 		
 	}		
+		
+
+#####################################
+#									#
+# 		  	   secondary prop		        #
+#									#
+#####################################
+
+		
+	props_2 = {
+		ep1_mena_book_big = {
+			index = 0
+			male = {
+			1 = ep1_mena_book_big_01
+			}
+			female = {
+				1 = ep1_mena_book_big_01		
+			}
+			boy = male
+			girl = female
+		}		
+		
+	}	
+	
+	
+
+
+
+
+
+
+
 }
 
 
