@@ -22,14 +22,15 @@ accessory_genes = {
            girl = male
        }
 
-####CFP headgears
+		####CFP headgears
 		all_headgear = {
 			index = 1
 			male = {
+				100 = empty
 				1 = male_crown_of_charlemagne_01	
                 1 = male_headgear_secular_byzantine_royalty_01				
 				1 = male_headgear_secular_byzantine_imperial_01			
-            ####CFP western headgears		
+            	####CFP western headgears		
 				1 = male_headgear_secular_western_pillbox_low_01			
 				1 = male_headgear_secular_western_nobility_03
 				1 = male_headgear_secular_western_nobility_04
@@ -39,7 +40,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_pillbox_common_01
 				1 = male_headgear_secular_western_headband_common_01	
 				1 = male_headgear_secular_western_cfp_imperial_01
-            ####CFP western war headgears		
+            	####CFP western war headgears		
 				1 = male_headgear_secular_western_war_kettle_hat_01
 				1 = male_headgear_secular_western_war_kettle_hat_02
 				1 = male_headgear_secular_western_war_kettle_hat_03
@@ -48,13 +49,13 @@ accessory_genes = {
 				1 = male_headgear_secular_western_war_mail_coif_03
 				1 = male_headgear_secular_western_war_padded_hood_01
 				1 = male_headgear_secular_western_war_frankish_01	
-            ####CFP Mena headgears		
+            	####CFP Mena headgears		
 				1 = male_headgear_secular_mena_cfp_bonnet_low_01
-            ####CFP Mena war headgears		
+            	####CFP Mena war headgears		
 				1 = male_headgear_secular_mena_cfp_war_mail_coif_01
 				1 = male_headgear_secular_mena_cfp_war_mail_coif_02
 				1 = male_headgear_secular_mena_cfp_war_striped_01	
-            ####CFP northern war headgears	
+            	####CFP northern war headgears	
 				1 = male_headgear_secular_northern_war_nobility_02
 				1 = male_headgear_secular_northern_war_nasal_01
 				1 = male_headgear_secular_northern_war_nasal_02
@@ -62,7 +63,7 @@ accessory_genes = {
 				1 = male_headgear_secular_western_war_mail_coif_01
 				1 = male_headgear_secular_western_war_mail_coif_02	
 				1 = male_headgear_secular_northern_cfp_war_coppergate_01				
-            ####CFP byzantine headgears	
+            	####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_pannonian_common_01				
                 1 = male_headgear_secular_byzantine_pannonian_high_01
                 1 = male_headgear_secular_byzantine_skiadion_01	
@@ -70,7 +71,7 @@ accessory_genes = {
                 1 = male_headgear_secular_byzantine_skiadion_01	
 				1 = male_headgear_secular_byzantine_imperial_02
 				1 = male_headgear_secular_byzantine_monomachus_01
-            ####CFP byzantine war headgears	
+            	####CFP byzantine war headgears	
 				1 = male_headgear_secular_byzantine_war_nobility_02
 				1 = male_headgear_secular_byzantine_war_roman_01
 				1 = male_headgear_secular_byzantine_war_roman_02
@@ -78,41 +79,41 @@ accessory_genes = {
 				1 = male_headgear_secular_byzantine_war_nasal_01
 				1 = male_headgear_secular_western_war_mail_coif_01
 				1 = male_headgear_secular_western_war_mail_coif_03	
-            ####CFP western war headgears fullplate
+            	####CFP western war headgears fullplate
 				1 = male_headgear_secular_western_war_flat_top_01
 				1 = male_headgear_secular_western_war_topf_01
 				1 = male_headgear_secular_western_war_sugarloaf_01
-            ####CFP western war headgears late
+            	####CFP western war headgears late
 				1 = male_headgear_secular_western_cfp_war_pixane_01
 				1 = male_headgear_secular_western_cfp_war_bascinet_03
 				1 = male_headgear_secular_western_cfp_war_pixane_01
 				1 = male_headgear_secular_western_cfp_war_great_bascinet_02
 				1 = male_headgear_secular_western_cfp_war_great_bascinet_03				
 				1 = male_headgear_secular_western_cfp_war_great_bascinet_01			
-            ####CFP western war headgears late fullplate
+            	####CFP western war headgears late fullplate
 				1 = male_headgear_secular_western_cfp_war_bascinet_01
 				1 = male_headgear_secular_western_cfp_war_bascinet_02
-            ####CFP norse war
+            	####CFP norse war
 				1 = male_headgear_secular_northern_war_viking_01
 				1 = male_headgear_secular_northern_war_viking_02
 				1 = male_headgear_secular_northern_war_viking_03
 				1 = male_headgear_secular_northern_war_viking_04
-            ####CFP anglo-Saxon royalty
+            	####CFP anglo-Saxon royalty
 				1 = male_headgear_secular_northern_royalty_suttonhoo_01
 				1 = male_headgear_secular_northern_cfp_war_coppergate_01
-            ####CFP western war high noble headgears			
+            	####CFP western war high noble headgears			
 				1 = male_headgear_secular_western_war_high_nobility_01
 				1 = male_headgear_secular_dde_hre_war_high_nobility_01
 				1 = male_headgear_secular_dde_hre_war_high_nobility_02	
-            ####CFP hungarian headgears	
+            	####CFP hungarian headgears	
 				1 = male_headgear_secular_hungarian_high_nobility_01
 				1 = male_headgear_secular_hungarian_royalty_01
-            ####CFP hungarian war headgears	
+            	####CFP hungarian war headgears	
 				1 = male_headgears_secular_hungarian_war_helmet_01
-            ####CFP norman sicily war headgears					
+            	####CFP norman sicily war headgears					
 				1 = male_headgear_secular_latin_war_norman_01
 				1 = male_headgear_secular_latin_war_norman_02
-            ####CFP turkic headgears	
+            	####CFP turkic headgears	
 				1 = male_headgears_secular_turkic_low_cuman_nobility_01
 				1 = male_headgears_secular_turkic_low_cuman_nobility_02			
 				1 = male_headgears_secular_turkic_high_cuman_nobility_01
@@ -121,15 +122,15 @@ accessory_genes = {
 				1 = male_headgears_secular_turkic_royalty_02
 				1 = male_headgear_secular_turkic_cfp_war_kipchak_01		
 				1 = male_headgear_secular_turkic_cfp_war_kipchak_02				
-            ####CFP turkic war headgears
+            	####CFP turkic war headgears
 				1 = male_headgears_secular_turkic_war_cuman_01
 				1 = male_headgears_secular_turkic_war_cuman_02
 				1 = male_headgear_secular_turkic_cfp_war_kipchak_02
-           ####CFP slavic headgears
+           		####CFP slavic headgears
 				1 = male_headgear_secular_slavic_high_nobility_01
 				1 = male_headgear_secular_slavic_royalty_01
 				1 = male_headgear_secular_slavic_cfp_monomakh_01
-           ####CFP slavic war headgears
+           		####CFP slavic war headgears
 				1 = male_headgears_secular_slavic_war_helmet_01
 				1 = male_headgears_secular_slavic_war_helmet_02
 
@@ -137,12 +138,12 @@ accessory_genes = {
 
 				1 = male_headgear_secular_slavic_cfp_war_type4_01				
 
-           ####rre_imperial headgears
+           		####rre_imperial headgears
 				1 = male_headgear_secular_rre_laurelwreath_02
 				1 = male_headgear_secular_rre_laurelwreath_03
-           ####trait_laurel headgears
+           		####trait_laurel headgears
 				1 = male_headgear_secular_rre_laurelwreath_01
-           ####CFP latin headgears
+           		####CFP latin headgears
 				1 = male_headgear_secular_latin_cfp_phrygian_common_01
 				1 = male_headgear_secular_latin_cfp_wicker_common_01
 				1 = male_headgear_secular_latin_cfp_nobility_01	
@@ -150,87 +151,87 @@ accessory_genes = {
 				1 = male_headgear_secular_latin_cfp_pannonian_high_01
 				1 = male_headgear_secular_latin_cfp_icol_01
 				1 = male_headgear_secular_latin_cfp_venetian_doge_01
-           ####CFP latin war headgears
+           		####CFP latin war headgears
 				1 = male_headgear_secular_latin_war_flat_top_01
 				1 = male_headgear_secular_latin_war_flat_top_02
 				1 = male_headgear_secular_latin_war_curved_01
 				1 = male_headgear_secular_latin_war_curved_02
-           ####CFP iberian headgears
+           		####CFP iberian headgears
 				1 = male_headgear_secular_iberian_cfp_bonnet_common_01
 				1 = male_headgear_secular_iberian_cfp_bonnet_low_01
 				1 = male_headgear_secular_iberian_cfp_bonnet_high_01
 				1 = male_headgear_secular_iberian_cfp_castilian_royalty_01
 				1 =  male_headgear_secular_iberian_cfp_aragonese_royalty_01
-           ####CFP iberian war royal headgears					
+           		####CFP iberian war royal headgears					
 				1 =  male_headgear_secular_iberian_cfp_war_aragonese_royalty_01
-           ####CFP iberian war headgears					
+           		####CFP iberian war headgears					
 				1 = male_headgear_secular_iberian_cfp_war_cervelliere_01
 				1 = male_headgear_secular_iberian_cfp_war_nasal_01
-           ####CFP iranian headgears
+           		####CFP iranian headgears
 				1 = male_headgear_secular_iranian_cfp_panel_common_01
 				1 = male_headgear_secular_iranian_cfp_panel_low_01
 				1 = male_headgear_secular_iranian_cfp_qalansuwah_low_01
 				1 = male_headgear_secular_iranian_cfp_qalansuwah_low_02		
 				1 = male_headgear_secular_iranian_cfp_qalansuwah_high_01
-           ####CFP iranian war headgears
+           		####CFP iranian war headgears
 				1 = male_headgear_secular_iranian_cfp_war_mail_coif_01
 				1 = male_headgear_secular_iranian_cfp_war_quilted_01
 				1 = male_headgear_secular_iranian_cfp_war_quilted_02
 				1 = male_headgear_secular_iranian_cfp_war_leather_01
-           ####CFP iranian war high medieval headgears	
+           		####CFP iranian war high medieval headgears	
 				1 = male_headgear_secular_iranian_cfp_war_khud_01
 				1 = male_headgear_secular_iranian_cfp_war_khud_02
 				1 = male_headgear_secular_iranian_cfp_war_ilkanate_01
-           ####CFP albanian royalty headgears	
+           		####CFP albanian royalty headgears	
 				1 = male_headgear_secular_slavic_cfp_skanderbeg_01
-           ####CFP crusades western headgears	
+           		####CFP crusades western headgears	
                 1 = male_cloaks_secular_western_cfp_crusades_hood_03		   		   
                 1 = male_cloaks_secular_western_cfp_crusades_hood_01		   
                 1 = male_cloaks_secular_western_cfp_crusades_hood_02	   
-           ####CFP mena high medieval war headgears	
+           		####CFP mena high medieval war headgears	
 				1 = male_headgear_secular_mena_cfp_war_turban_01
-           ####CFP mena high nobility war headgears					
+           		####CFP mena high nobility war headgears					
 				1 = male_headgear_secular_mena_cfp_war_mamluk_01		   
-           ####CFP andalusian nobility war headgears			   
+           		####CFP andalusian nobility war headgears			   
 				1 = male_headgear_secular_andalusian_cfp_war_turban_01
 				1 = male_headgear_secular_andalusian_cfp_war_nasal_01   
 				#andalusian_war_high_nobility
 				1 = male_headgear_secular_andalusian_cfp_war_sallet_01		   
-           ####CFP egyptian headgears			   
+           		####CFP egyptian headgears			   
 				1 = male_headgear_secular_mena_cfp_zamt_01				
-           ####CFP bedouin headgears					
+           		####CFP bedouin headgears					
 				1 = male_headgear_secular_mena_cfp_tagelmust_01
 				1 = male_headgear_secular_mena_cfp_tagelmust_02				
-           ####CFP oghuz headgears					
+           		####CFP oghuz headgears					
 				1 = male_headgears_secular_turkic_high_nobility_01
 				1 = male_headgears_secular_turkic_high_nobility_02				
 				1 = male_headgears_secular_turkic_low_nobility_01				
 				
 				
-            ####CFP west african headgears	
+            	####CFP west african headgears	
                 1 = male_headgear_secular_africa_west_cfp_low_nobility_01
                 1 = male_headgear_secular_africa_west_cfp_low_nobility_02
                 1 = male_headgear_secular_africa_west_cfp_high_nobility_01
-            ####CFP west african war headgears	
+            	####CFP west african war headgears	
                 1 = male_headgear_secular_africa_west_cfp_helmet_01
-            ####CFP central african headgears	
+            	####CFP central african headgears	
 				1 = male_headgear_secular_africa_central_cfp_low_nobility_01
 				1 = male_headgear_secular_africa_central_cfp_low_nobility_02
                 1 = male_headgear_secular_africa_central_cfp_high_nobility_01
-            ####CFP central african war headgears
+            	####CFP central african war headgears
                 1 = male_headgears_secular_africa_central_cfp_war_padded_01
                 1 = male_headgears_secular_africa_central_cfp_war_padded_02
-           ####CFP East african headgears	
+           		####CFP East african headgears	
                 1 = male_headgear_secular_africa_east_cfp_high_nobility_01
                 1 = male_headgear_secular_africa_east_cfp_high_nobility_03	   
                 1 = male_headgear_secular_africa_east_cfp_royalty_01
                 1 = male_headgear_secular_africa_east_cfp_imperial_01				
-           ####CFP East african war headgears	
+           		####CFP East african war headgears	
                 1 = male_headgear_secular_africa_east_cfp_helmet_01				
-            ####CFP Javanese				
+            	####CFP Javanese				
 				1 = male_headgear_secular_java_cfp_high_nobility_01	
 				1 = male_headgear_secular_java_cfp_royalty_01				
-            ####Men of Gods
+            	####Men of Gods
 				1 = male_headgear_secular_mena_cfp_tagelmust_high_01
                 1 = male_headgear_secular_western_pillbox_cfp_crusades_02
                 1 = male_headgear_secular_western_pillbox_cfp_crusades_04	
@@ -245,7 +246,7 @@ accessory_genes = {
 				1 = male_headgear_religious_muslim_cfp_caliph_01
 				1 = male_headgear_religious_jewish_cfp_judenhut_01
 				1 = male_headgear_religious_jewish_cfp_sudra_01				
-            ####CFP India
+            	####CFP India
                 1 = male_headgear_secular_indian_cfp_high_nobility_01
                 1 = male_headgear_secular_indian_cfp_high_nobility_02
                 1 = male_headgear_secular_indian_cfp_royalty_01		
@@ -255,6 +256,103 @@ accessory_genes = {
                 1 = male_headgear_secular_indian_cfp_war_tibetan_01
                 1 = male_headgear_secular_indian_cfp_war_timurid_01	
                 1 = male_headgear_religious_hindu_cfp_mask_01	
+
+				#Vanilla Headgear
+				1 = male_headgear_secular_western_common_01
+                1 = male_headgear_secular_western_common_02
+				1 = male_headgear_secular_dde_hre_common_02
+				1 = male_headgear_secular_dde_hre_high_nobility_02
+				1 = male_headgear_secular_western_high_nobility_01
+				1 = male_headgear_secular_western_royalty_01
+				1 = male_headgear_secular_western_royalty_02
+				1 = male_headgear_secular_dde_hre_imperial_01
+				1 = male_headgear_secular_western_war_nobility_01
+				1 = male_headgear_secular_mena_royalty_01
+				1 = male_headgear_secular_mena_common_01
+                1 = male_headgear_secular_mena_nobility_01
+                1 = male_headgear_secular_mena_high_nobility_01
+				1 = male_headgear_religious_dde_muslim_head_01
+				1 = male_headgear_secular_mena_imperial_01
+				1 = male_headgear_secular_mena_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01
+				1 = male_headgear_religious_catholic_high_01
+				1 = male_headgear_religious_dde_catholic_high_01
+				1 = male_headgear_religious_catholic_head_01
+				1 = male_headgear_secular_dde_hre_royalty_02
+				1 = male_headgear_secular_dde_abbasid_high_nobility_01
+				1 = male_headgear_secular_dde_abbasid_common_01
+				1 = male_headgear_secular_dde_abbasid_common_02
+				1 = male_headgear_secular_dde_abbasid_imperial_01
+				1 = male_headgear_secular_dde_abbasid_war_nobility_01
+				1 = male_headgear_secular_dde_abbasid_royalty_01
+				1 = male_headgear_secular_northern_war_nobility_01
+				1 = male_headgear_secular_northern_common_01
+				1 = male_headgear_secular_byzantine_high_nobility_01
+				1 = male_headgear_secular_byzantine_nobility_01
+				1 = male_headgear_secular_byzantine_imperial_01
+				1 = male_headgear_secular_byzantine_war_nobility_01
+				1 = male_headgear_secular_byzantine_royalty_01
+				1 = male_headgear_secular_steppe_nobility_01
+				1 = male_headgear_secular_steppe_common_01
+				1 = male_headgear_secular_steppe_royalty_01
+				1 = male_headgear_secular_steppe_war_nobility_01
+				1 = male_headgear_secular_sub_saharan_high_nobility_01
+				1 = male_headgear_secular_sub_saharan_common_01
+				1 = male_headgear_secular_sub_saharan_royalty_01
+				1 = male_headgear_secular_sub_saharan_imperial_01
+				1 = male_headgear_secular_indian_high_nobility_01
+				1 = male_headgear_secular_indian_royalty_01
+				1 = male_headgear_secular_indian_imperial_01
+				1 = male_headgear_secular_indian_war_nobility_01
+				1 = male_headgear_secular_crusades_western_war_nobility_01
+				1 = male_headgear_secular_crusades_mena_war_nobility_01
+			# RELIGIOUS #
+				1 = male_headgear_religious_zorastrian_high_01
+				1 = male_headgear_religious_jewish_head_01
+				1 = male_headgear_religious_muslim_high_01
+				1 = male_headgear_religious_dde_muslim_head_01
+				1 = male_headgear_religious_african_high_01
+				1 = male_headgear_religious_steppe_high_01
+				1 = male_headgear_religious_northern_high_01
+			# FP1 # 
+				1 = male_headgear_secular_fp1_common_01
+				1 = male_headgear_secular_fp1_common_02
+				1 = male_headgear_secular_fp1_nobility_01
+				1 = male_headgear_secular_fp1_war_nobility_01
+				1 = male_headgear_secular_fp1_war_nobility_02
+				1 = male_headgear_secular_fp1_royalty_01
+				1 = male_headgear_secular_fp1_imperial_01
+				1 = male_headgear_secular_rtt_nobility_01_low
+			# EP1 # 
+				1 = male_headgear_secular_ep1_western_royalty_01
+				1 = male_headgear_secular_ep1_mena_royalty_01
+				1 = male_headgear_secular_ep1_indian_royalty_01
+				1 = male_headgear_secular_ep1_jester_01
+				1 = male_headgear_secular_ep1_crown_of_justinian
+				1 = male_headgear_secular_ep1_crown_of_lombardy
+				1 = male_headgear_secular_ep1_sassanid_crown
+				1 = male_headgear_secular_ep1_diamond_crown
+				1 = male_headgear_secular_ep1_sub_saharan_royalty_01
+				1 = male_headgear_secular_ep1_mena_royalty_02
+				1 = male_headgear_secular_ep1_diamond_crown
+				1 = male_headgear_secular_ep1_crown_of_justinian
+				1 = male_headgear_secular_ep1_crown_of_lombardy
+			# FP2 #
+					# Christian #
+				3 = male_headgear_secular_fp2_iberian_christian_common_01
+				3 = male_headgear_secular_fp2_iberian_christian_nobility_01_low
+				3 = male_headgear_secular_fp2_iberian_christian_nobility_01_high
+				3 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_low
+				3 = male_headgear_secular_fp2_iberian_christian_high_nobility_01_high
+				3 = male_headgear_secular_fp2_iberian_christian_royalty_01
+				3 = male_headgear_secular_fp2_iberian_christian_war_nobility_01
+					# Muslim #
+				3 = male_headgear_secular_fp2_iberian_muslim_common_01_low
+				3 = male_headgear_secular_fp2_iberian_muslim_common_01_high
+				3 = male_headgear_secular_fp2_iberian_muslim_nobility_01
+				3 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
+				3 = male_headgear_secular_fp2_iberian_muslim_royalty_01
+				3 = male_headgear_secular_fp2_iberian_muslim_war_nobility_01			
 			}
 			
 			
@@ -264,14 +362,14 @@ accessory_genes = {
 				1 = female_early_iranian_royal_crown_early_02	
                 1 = female_headgear_secular_byzantine_royalty_01
 				1 = fem_byz_crown_of_theodora_01					
-            ####CFP western headgears				
+            	####CFP western headgears				
 				1 = female_headgear_secular_western_nobility_05
 				1 = female_headgear_secular_western_nobility_06
 				1 = female_headgear_secular_western_cfp_royalty_01
 				1 = female_headgear_secular_western_cfp_royalty_02	
 				1 = female_headgear_secular_western_headband_common_01	
 				1 = female_headgear_secular_western_cfp_imperial_01
-            ####CFP western war headgears
+            	####CFP western war headgears
 				1 = female_headgear_secular_western_war_kettle_hat_01
 				1 = female_headgear_secular_western_war_kettle_hat_02
 				1 = female_headgear_secular_western_war_kettle_hat_03
@@ -282,12 +380,12 @@ accessory_genes = {
 				1 = female_headgear_secular_northern_war_nasal_02
 				1 = female_headgear_secular_western_war_frankish_01	
 				1 = female_headgear_secular_northern_cfp_war_coppergate_01				
-            ####CFP Mena headgears	
-            ####CFP Mena war headgears	
+            	####CFP Mena headgears	
+            	####CFP Mena war headgears	
 				1 = female_headgear_secular_mena_cfp_war_mail_coif_01
 				1 = female_headgear_secular_mena_cfp_war_mail_coif_02
 				1 = female_headgear_secular_mena_cfp_war_striped_01	
-            ####CFP northern war headgears	
+            	####CFP northern war headgears	
 				1 = female_headgear_secular_northern_war_nobility_02
 				1 = female_headgear_secular_northern_war_nasal_01
 				1 = female_headgear_secular_northern_war_nasal_02
@@ -295,13 +393,13 @@ accessory_genes = {
 				1 = female_headgear_secular_western_war_mail_coif_01
 				1 = female_headgear_secular_western_war_mail_coif_02
 				1 = female_headgear_secular_western_war_padded_hood_01	
-            ####CFP byzantine headgears	
+            	####CFP byzantine headgears	
                 1 = female_headgear_secular_byzantine_propoloma_high_01
                 1 = female_headgear_secular_byzantine_propoloma_high_02	
                 1 = female_headgear_secular_byzantine_propoloma_low_01	
 				1 = female_headgear_secular_byzantine_imperial_02
 				1 = female_headgear_secular_byzantine_monomachus_01	
-            ####CFP byzantine war headgears	
+            	####CFP byzantine war headgears	
 				1 = female_headgear_secular_byzantine_war_nobility_02
 				1 = female_headgear_secular_byzantine_war_roman_01
 				1 = female_headgear_secular_byzantine_war_roman_02
@@ -310,28 +408,28 @@ accessory_genes = {
 				1 = female_headgear_secular_western_war_mail_coif_01
 				1 = female_headgear_secular_western_war_mail_coif_03
 				1 = female_headgear_secular_western_war_padded_hood_01	
-            ####CFP western war headgears fullplate
+            	####CFP western war headgears fullplate
 				1 = female_headgear_secular_western_war_flat_top_01
 				1 = female_headgear_secular_western_war_topf_01
 				1 = female_headgear_secular_western_war_sugarloaf_01	
-            ####CFP norse war
+            	####CFP norse war
 				1 = female_headgear_secular_northern_war_viking_01
 				1 = female_headgear_secular_northern_war_viking_02
 				1 = female_headgear_secular_northern_war_viking_03
 				1 = female_headgear_secular_northern_war_viking_04				
-            ####CFP anglo-Saxon royalty			
+            	####CFP anglo-Saxon royalty			
 				1 = female_headgear_secular_northern_royalty_suttonhoo_01			
-            ####CFP hungarian headgears			
+            	####CFP hungarian headgears			
 				1 = female_headgear_secular_hungarian_high_nobility_01
 				1 = female_headgear_secular_hungarian_royalty_01			
-            ####CFP hungarian war headgears				
+            	####CFP hungarian war headgears				
 				1 = female_headgears_secular_hungarian_war_helmet_01		
-            ####CFP norman sicily war headgears					
+            	####CFP norman sicily war headgears					
 				1 = female_headgear_secular_latin_war_norman_01
 				1 = female_headgear_secular_latin_war_norman_02			
-            ####CFP turkic headgears	
+            	####CFP turkic headgears	
                 1 = female_headgears_secular_turkic_high_cuman_nobility_01
-            ####CFP turkic war headgears
+            	####CFP turkic war headgears
 				1 = female_headgears_secular_turkic_war_cuman_01
 				1 = female_headgears_secular_turkic_war_cuman_02
 
@@ -340,11 +438,11 @@ accessory_genes = {
 				1 = female_headgear_secular_turkic_cfp_war_kipchak_01				
 				1 = female_headgear_secular_turkic_cfp_war_kipchak_02				
 
-           ####CFP slavic headgears
+           		####CFP slavic headgears
 				1 = female_headgear_secular_slavic_high_nobility_01
 				1 = female_headgear_secular_slavic_royalty_01
 				1 = female_headgear_secular_slavic_cfp_monomakh_01
-           ####CFP slavic war headgears
+           		####CFP slavic war headgears
 				1 = female_headgears_secular_slavic_war_helmet_01
 				1 = female_headgears_secular_slavic_war_helmet_02
 
@@ -352,97 +450,186 @@ accessory_genes = {
 
 				1 = female_headgear_secular_slavic_cfp_war_type4_01				
 
-           ####rre_imperial headgears
+           		####rre_imperial headgears
 				1 = female_headgear_secular_rre_laurelwreath_02
 				1 = female_headgear_secular_rre_laurelwreath_03
-           ####trait_laurel headgears
+           		####trait_laurel headgears
 				1 = female_headgear_secular_rre_laurelwreath_01
-           ####CFP latin headgears
+           		####CFP latin headgears
 				1 = female_headgear_secular_latin_cfp_high_nobility_01
 				1 = female_headgear_secular_latin_cfp_hennin_high_01
 				1 = female_headgear_secular_latin_cfp_icol_01
-           ####CFP latin war headgears
+           		####CFP latin war headgears
 				1 = female_headgear_secular_latin_war_flat_top_01
 				1 = female_headgear_secular_latin_war_flat_top_02
 				1 = female_headgear_secular_latin_war_curved_01
 				1 = female_headgear_secular_latin_war_curved_02
-           ####CFP iberian headgears
+           		####CFP iberian headgears
 				1 = female_headgear_secular_iberian_cfp_bonnet_common_01
 				1 = female_headgear_secular_iberian_cfp_bonnet_low_01
 				1 = female_headgear_secular_iberian_cfp_bonnet_high_01
 				1 = female_headgear_secular_iberian_cfp_castilian_royalty_01
 				1 = female_headgear_secular_iberian_cfp_aragonese_royalty_01
-           ####CFP iberian war royal headgears				
+           		####CFP iberian war royal headgears				
 				1 = female_headgear_secular_iberian_cfp_war_aragonese_royalty_01
-           ####CFP iberian war headgears					
+           		####CFP iberian war headgears					
 				1 = female_headgear_secular_iberian_cfp_war_cervelliere_01
 				1 = female_headgear_secular_iberian_cfp_war_nasal_01
-           ####CFP iranian headgears
+           		####CFP iranian headgears
 				1 = female_headgear_secular_iranian_cfp_panel_common_01
 				1 = female_headgear_secular_iranian_cfp_panel_low_01
-           ####CFP iranian war headgears				
+           		####CFP iranian war headgears				
 				1 = female_headgear_secular_iranian_cfp_war_mail_coif_01
 				1 = female_headgear_secular_iranian_cfp_war_quilted_01
 				1 = female_headgear_secular_iranian_cfp_war_quilted_02
 				1 = female_headgear_secular_iranian_cfp_war_leather_01				
-           ####CFP iranian war high medieval headgears					
+           		####CFP iranian war high medieval headgears					
 				1 = female_headgear_secular_iranian_cfp_war_khud_01
 				1 = female_headgear_secular_iranian_cfp_war_khud_02
 				1 = female_headgear_secular_iranian_cfp_war_ilkanate_01				
-           ####CFP albanian royalty headgears					
+           		####CFP albanian royalty headgears					
 				1 = female_headgear_secular_slavic_cfp_skanderbeg_01				
-           ####CFP crusades western headgears				
+           		####CFP crusades western headgears				
                 1 = female_cloaks_secular_western_cfp_crusades_hood_03				
                 1 = female_cloaks_secular_western_cfp_crusades_hood_01				
                 1 = female_cloaks_secular_western_cfp_crusades_hood_02				
-           ####CFP mena high medieval headgears					
+           		####CFP mena high medieval headgears					
 				1 = female_headgear_secular_mena_cfp_war_turban_01				
-           ####CFP mena high nobility headgears	
+           		####CFP mena high nobility headgears	
 				1 = female_headgear_secular_mena_cfp_war_mamluk_01			   
-           ####CFP andalusian nobility war headgears					
+           		####CFP andalusian nobility war headgears					
 				1 = female_headgear_secular_andalusian_cfp_war_turban_01
 				1 = female_headgear_secular_andalusian_cfp_war_nasal_01	
 				#andalusian_war_high_nobility
 				1 = female_headgear_secular_andalusian_cfp_war_sallet_01				
-           ####CFP oghuz headgears					
+           		####CFP oghuz headgears					
                 1 = female_headgears_secular_turkic_high_nobility_01
                 1 = female_headgears_secular_turkic_high_nobility_02				
                 1 = female_headgears_secular_turkic_low_nobility_01									
-            ####CFP west african headgears	
+            	####CFP west african headgears	
             	1 = female_headgear_secular_africa_west_cfp_low_nobility_01
             	1 = female_headgear_secular_africa_west_cfp_low_nobility_02
             	1 = female_headgear_secular_africa_west_cfp_high_nobility_01
-            ####CFP west african war headgears	
+            	####CFP west african war headgears	
             	1 = female_headgear_secular_africa_west_cfp_helmet_01
-            ####CFP central african headgears	
+            	####CFP central african headgears	
 				1 = female_headgear_secular_africa_central_cfp_low_nobility_01
             	1 = female_headgear_secular_africa_central_cfp_high_nobility_01
-            ####CFP central african war headgears
+            	####CFP central african war headgears
             	1 = female_headgears_secular_africa_central_cfp_war_padded_01
             	1 = female_headgears_secular_africa_central_cfp_war_padded_02
-           ####CFP East african headgears	
+           		####CFP East african headgears	
             	1 = female_headgear_secular_africa_east_cfp_common_01
             	1 = female_headgear_secular_africa_east_cfp_low_nobility_01
                 1 = female_headgear_secular_africa_east_cfp_high_nobility_01
                 1 = female_headgear_secular_africa_east_cfp_royalty_01
             	1 = female_headgear_secular_africa_east_cfp_imperial_01	
-           ####CFP East african war headgears	
+           		####CFP East african war headgears	
             	1 = female_headgear_secular_africa_east_cfp_helmet_01				
-            ####CFP Javanese				
+            	####CFP Javanese				
 				1 = female_headgear_secular_java_cfp_high_nobility_01				
 				1 = female_headgear_secular_java_cfp_royalty_01				
-            ####CFP India				
+            	####CFP India				
                 1 = female_headgear_secular_indian_cfp_royalty_01				
                 1 = female_headgear_secular_indian_cfp_imperial_01
                 1 = female_headgear_religious_hindu_cfp_devoted_01
                 1 = female_headgear_secular_indian_cfp_war_tibetan_01
                 1 = female_headgear_secular_indian_cfp_war_timurid_01
                 1 = female_headgear_religious_hindu_cfp_mask_01				
-            ####CFP western war headgears fullplate
+            	####CFP western war headgears fullplate
 				1 = female_headgear_secular_western_war_flat_top_01
 				1 = female_headgear_secular_western_war_topf_01
 				1 = female_headgear_secular_western_war_sugarloaf_01
-			
+
+				#Vanilla Headgear
+				1 = female_headgear_secular_western_nobility_01
+                1 = female_headgear_secular_western_nobility_01_2
+				1 = female_headgear_secular_western_nobility_02
+				1 = female_headgear_secular_western_nobility_03
+				1 = female_headgear_secular_dde_hre_common_02
+				1 = female_headgear_secular_dde_hre_high_nobility_01
+				1 = female_headgear_secular_western_high_nobility_01
+				1 = female_headgear_secular_western_royalty_01
+				1 = female_headgear_secular_western_royalty_02
+				1 = female_headgear_secular_western_war_nobility_01
+				1 = female_headgear_secular_mena_royalty_01
+				1 = female_headgear_secular_mena_common_01
+                1 = female_headgear_secular_mena_common_02
+                1 = female_headgear_secular_mena_nobility_01
+                1 = female_headgear_secular_dde_abbasid_common_01
+                1 = female_headgear_secular_mena_royalty_01
+                1 = female_headgear_secular_mena_war_nobility_01
+                1 = female_headgear_religious_catholic_devoted_01
+                1 = female_headgear_secular_dde_hre_royalty_01
+                1 = female_headgear_secular_dde_abbasid_high_nobility_01
+                1 = female_headgear_secular_dde_abbasid_common_02
+                1 = female_headgear_secular_dde_abbasid_war_nobility_01
+                1 = female_headgear_secular_dde_abbasid_royalty_01
+                1 = female_headgear_secular_northern_war_nobility_01
+                1 = female_headgear_secular_northern_common_01
+                1 = female_headgear_secular_byzantine_high_nobility_01
+                1 = female_headgear_secular_byzantine_nobility_01
+                5 = female_headgear_secular_byzantine_common_01
+                1 = female_headgear_secular_byzantine_imperial_01	
+                1 = female_headgear_secular_byzantine_war_nobility_01
+                1 = female_headgear_secular_byzantine_royalty_01
+                1 = female_headgear_secular_steppe_high_nobility_01
+                1 = female_headgear_secular_steppe_common_01
+                1 = female_headgear_secular_steppe_war_nobility_01
+                1 = female_headgear_secular_mena_nobility_01
+                1 = female_headgear_secular_sub_saharan_common_01
+                1 = female_headgear_secular_mena_royalty_01
+                1 = female_headgear_secular_indian_nobility_02
+                1 = female_headgear_secular_indian_common_01
+                1 = female_headgear_secular_indian_royalty_01
+                1 = female_headgear_secular_indian_royalty_01
+                1 = female_headgear_secular_indian_war_nobility_01
+                1 = female_headgear_secular_crusades_western_war_nobility_01
+                1 = female_headgear_secular_crusades_mena_war_nobility_01
+                1 = female_headgear_religious_muslim_high_01
+                1 = female_headgear_religious_african_high_01
+                1 = female_headgear_religious_steppe_high_01
+                1 = female_headgear_religious_northern_high_01
+                1 = female_headgear_secular_fp1_common_01
+				1 = female_headgear_secular_fp1_common_02
+				1 = female_headgear_secular_fp1_nobility_01
+				1 = female_headgear_secular_fp1_nobility_02
+				1 = female_headgear_secular_fp1_nobility_03	
+				1 = female_headgear_secular_fp1_war_nobility_01	
+				1 = female_headgear_secular_fp1_war_nobility_02	
+				1 = female_headgear_secular_fp1_royalty_01	
+				1 = female_headgear_secular_fp1_imperial_01	
+				1 = female_headgear_secular_rtt_nobility_01_low
+			# EP1 #
+				1 = female_headgear_secular_ep1_western_royalty_01
+				1 = female_headgear_secular_ep1_western_royalty_01
+				1 = female_headgear_secular_ep1_mena_royalty_01
+				1 = female_headgear_secular_ep1_indian_royalty_01
+				1 = female_headgear_secular_ep1_jester_01
+				1 = female_headgear_secular_ep1_crown_of_justinian
+				1 = female_headgear_secular_ep1_crown_of_lombardy
+				1 = female_headgear_secular_ep1_sassanid_crown
+				1 = female_headgear_secular_ep1_diamond_crown
+				1 = female_headgear_secular_ep1_sub_saharan_royalty_01
+				1 = female_headgear_secular_ep1_mena_royalty_02
+				1 = female_headgear_secular_ep1_diamond_crown
+				1 = female_headgear_secular_ep1_crown_of_justinian
+				1 = female_headgear_secular_ep1_crown_of_lombardy
+			# FP2 # 
+			# Christian #
+				3 = female_headgear_secular_fp2_iberian_christian_common_01
+				3 = female_headgear_secular_fp2_iberian_christian_nobility_01_low
+				3 = female_headgear_secular_fp2_iberian_christian_nobility_01_high
+				3 = female_headgear_secular_fp2_iberian_christian_high_nobility_01
+				3 = female_headgear_secular_fp2_iberian_christian_royalty_01
+				3 = female_headgear_secular_fp2_iberian_christian_war_nobility_01
+			# Muslim #
+				3 = female_headgear_secular_fp2_iberian_muslim_common_01
+				3 = female_headgear_secular_fp2_iberian_muslim_nobility_01
+				3 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_low
+				3 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_high
+				3 = female_headgear_secular_fp2_iberian_muslim_royalty_01
+				3 = female_headgear_secular_fp2_iberian_muslim_war_nobility_01	
 			}
 		}
 
