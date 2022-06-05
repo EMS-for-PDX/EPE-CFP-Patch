@@ -2940,7 +2940,7 @@ accessory_genes = {
 				2 = male_clothes_secular_western_nobility_02_common
 				2 = male_clothes_secular_western_nobility_03_common
 				###dlc version
-				2 = male_clothes_secular_fp2_iberian_christian_common_01			
+				3 = male_clothes_secular_fp2_iberian_christian_common_01			
 			}
 
 			female = {
@@ -2949,7 +2949,7 @@ accessory_genes = {
 				2 = female_clothes_secular_western_nobility_02_common
 				2 = female_clothes_secular_western_nobility_03_common
 				###dlc version
-				2 = female_clothes_secular_fp2_iberian_christian_common_01
+				3 = female_clothes_secular_fp2_iberian_christian_common_01
 			}
 
 			boy = male
@@ -2965,8 +2965,8 @@ accessory_genes = {
 				2 = male_clothes_secular_western_nobility_02_low
 				2 = male_clothes_secular_western_nobility_03_low
 				###dlc version
-				2 = male_clothes_secular_fp2_iberian_christian_nobility_01_low
-				2 = male_clothes_secular_fp2_iberian_christian_nobility_02_low				
+				3 = male_clothes_secular_fp2_iberian_christian_nobility_01_low
+				3 = male_clothes_secular_fp2_iberian_christian_nobility_02_low				
 			}
 
 			female = {
@@ -2975,8 +2975,8 @@ accessory_genes = {
 				2 = female_clothes_secular_western_nobility_02_low
 				2 = female_clothes_secular_western_nobility_03_low
 				###dlc version
-				2 = female_clothes_secular_fp2_iberian_christian_nobility_01_low	
-				2 = female_clothes_secular_fp2_iberian_christian_nobility_02_low				
+				3 = female_clothes_secular_fp2_iberian_christian_nobility_01_low	
+				3 = female_clothes_secular_fp2_iberian_christian_nobility_02_low				
 			}
 
 			boy = male
@@ -2992,8 +2992,8 @@ accessory_genes = {
 				2 = male_clothes_secular_western_nobility_02_high
 				2 = male_clothes_secular_western_nobility_03_high
 				###dlc version
-				2 = male_clothes_secular_fp2_iberian_christian_nobility_01_high
-				2 = male_clothes_secular_fp2_iberian_christian_nobility_02_high				
+				3 = male_clothes_secular_fp2_iberian_christian_nobility_01_high
+				3 = male_clothes_secular_fp2_iberian_christian_nobility_02_high				
 			}
 
 			female = {
@@ -3002,8 +3002,8 @@ accessory_genes = {
 				2 = female_clothes_secular_western_nobility_02_high
 				2 = female_clothes_secular_western_nobility_03_high
 				###dlc version
-				2 = female_clothes_secular_fp2_iberian_christian_nobility_01_high	
-				2 = female_clothes_secular_fp2_iberian_christian_nobility_02_high				
+				3 = female_clothes_secular_fp2_iberian_christian_nobility_01_high	
+				3 = female_clothes_secular_fp2_iberian_christian_nobility_02_high				
 			}
 
 			boy = male
@@ -3019,14 +3019,14 @@ accessory_genes = {
 			    ###non-dlc version
 				1 = male_clothes_secular_western_war_nobility_01_low
 				###dlc version				
-				1 = male_clothes_secular_fp2_iberian_christian_war_nobility_01				
+				3 = male_clothes_secular_fp2_iberian_christian_war_nobility_01				
 			}
 
 			female = {
 			    ###non-dlc version			
 				1 = female_clothes_secular_western_war_nobility_01_low
 				###dlc version
-				1 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
+				3 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
 			}
 
 			boy = male
