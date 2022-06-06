@@ -4658,16 +4658,16 @@ accessory_genes = {
 			index = 201
 			male = {
 			    ###non-dlc version				
-				10 = male_iberian_nasalhelm_01			
-				2 = male_early_west_nasalhelm_01
-				1 = male_early_west_nasalhelm_02	
-				1 = male_high_west_phrygian_01	
-				1 = male_high_west_phrygian_02	
-				1 = male_high_west_phrygian_03	
-				1 = male_High_West_Phrygian_Round_Helm_01	
-				1 = male_High_West_Phrygian_Round_Helm_02
-				1 = male_headgear_secular_iberian_cfp_war_cervelliere_01
-				1 = male_headgear_secular_iberian_cfp_war_nasal_01				
+				5 = male_iberian_nasalhelm_01			
+				# 2 = male_early_west_nasalhelm_01
+				# 1 = male_early_west_nasalhelm_02	
+				# 1 = male_high_west_phrygian_01	
+				# 1 = male_high_west_phrygian_02	
+				# 1 = male_high_west_phrygian_03	
+				# 1 = male_High_West_Phrygian_Round_Helm_01	
+				# 1 = male_High_West_Phrygian_Round_Helm_02
+				# 1 = male_headgear_secular_iberian_cfp_war_cervelliere_01
+				# 1 = male_headgear_secular_iberian_cfp_war_nasal_01				
 				###dlc version
 				5 = male_headgear_secular_iberian_cfp_war_cervelliere_01
 				5 = male_headgear_secular_iberian_cfp_war_nasal_01				
@@ -4676,10 +4676,10 @@ accessory_genes = {
 			}
 			female = {
 			    ###non-dlc version				
-				5 = female_headgear_secular_western_war_nobility_01
-				5 = female_headgear_secular_crusades_western_war_nobility_01
-				5 = female_headgear_secular_iberian_cfp_war_cervelliere_01
-				5 = female_headgear_secular_iberian_cfp_war_nasal_01				
+				# 5 = female_headgear_secular_western_war_nobility_01
+				# 5 = female_headgear_secular_crusades_western_war_nobility_01
+				# 5 = female_headgear_secular_iberian_cfp_war_cervelliere_01
+				# 5 = female_headgear_secular_iberian_cfp_war_nasal_01				
 				###dlc version
 				5 = female_headgear_secular_iberian_cfp_war_cervelliere_01
 				5 = female_headgear_secular_iberian_cfp_war_nasal_01				

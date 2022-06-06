@@ -3017,16 +3017,16 @@ accessory_genes = {
 
 			male = {
 			    ###non-dlc version
-				1 = male_clothes_secular_western_war_nobility_01_low
+				#1 = male_clothes_secular_western_war_nobility_01_low
 				###dlc version				
-				3 = male_clothes_secular_fp2_iberian_christian_war_nobility_01				
+				4 = male_clothes_secular_fp2_iberian_christian_war_nobility_01				
 			}
 
 			female = {
 			    ###non-dlc version			
-				1 = female_clothes_secular_western_war_nobility_01_low
+				#1 = female_clothes_secular_western_war_nobility_01_low
 				###dlc version
-				3 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
+				4 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
 			}
 
 			boy = male
