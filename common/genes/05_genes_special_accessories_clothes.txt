@@ -50,6 +50,7 @@ accessory_genes = {
 				1 = male_clothes_secular_western_cfp_doublet_01
 				1 = male_clothes_secular_western_cfp_doublet_02	
             	####CFP India
+            	####CFP Iberia					
 				
 				#Vanilla Clothing
 				1 = male_clothes_secular_western_nobility_01_high
@@ -195,6 +196,8 @@ accessory_genes = {
            	    ####cfp western_war_late
 				1 = female_clothes_secular_western_cfp_war_plate_01
 				# 1 = female_clothes_secular_western_cfp_war_plate_02
+            	####CFP Iberia	
+
 
 				#Vanilla Clothing
 				1 = female_clothes_secular_western_nobility_01_high
@@ -3022,14 +3025,16 @@ accessory_genes = {
 			    ###non-dlc version
 				3 = male_clothes_secular_western_war_nobility_01_low
 				###dlc version				
-				3 = male_clothes_secular_fp2_iberian_christian_war_nobility_01				
+				2 = male_clothes_secular_fp2_iberian_christian_war_nobility_01	
+				1 = male_clothes_secular_fp2_iberian_christian_cfp_war_nobility_01				
 			}
 
 			female = {
 			    ###non-dlc version			
 				3 = female_clothes_secular_western_war_nobility_01_low
 				###dlc version
-				3 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
+				2 = female_clothes_secular_fp2_iberian_christian_war_nobility_01
+				1 = female_clothes_secular_fp2_iberian_christian_cfp_war_nobility_01			
 			}
 
 			boy = male
