@@ -106,7 +106,17 @@
 				boy = male
 				girl = female
 			}
-			
+			andalucia_nobility = {
+				index =8
+				male = {
+					1 = empty
+				}
+				female = {
+					1 = female_epe_andalucia_earing_02
+				}
+				boy = male
+				girl = female
+			}			
 
 		}
 
