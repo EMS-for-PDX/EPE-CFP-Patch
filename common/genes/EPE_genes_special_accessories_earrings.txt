@@ -112,7 +112,9 @@
 					1 = empty
 				}
 				female = {
+					1 = female_epe_andalucia_earing_01				
 					1 = female_epe_andalucia_earing_02
+					1 = female_epe_andalucia_earing_03					
 				}
 				boy = male
 				girl = female
