@@ -192,11 +192,12 @@ accessory_genes = {
 				1 = male_headgear_secular_mena_cfp_war_turban_01
            		####CFP mena high nobility war headgears					
 				1 = male_headgear_secular_mena_cfp_war_mamluk_01		   
-           		####CFP andalusian nobility war headgears			   
+           		####CFP andalusian nobility war headgears	
+				1 = male_headgear_religious_jewish_cfp_judenhut_02				
 				1 = male_headgear_secular_andalusian_cfp_war_turban_01
-				1 = male_headgear_secular_andalusian_cfp_war_nasal_01   
-				#andalusian_war_high_nobility
-				1 = male_headgear_secular_andalusian_cfp_war_sallet_01		   
+				1 = male_headgear_secular_andalusian_cfp_war_nasal_01  
+				1 = male_headgear_secular_andalusian_cfp_war_nasal_02						
+				1 = male_headgear_secular_andalusian_cfp_war_sallet_01						
            		####CFP egyptian headgears			   
 				1 = male_headgear_secular_mena_cfp_zamt_01				
            		####CFP bedouin headgears					
@@ -452,6 +453,7 @@ accessory_genes = {
            		####CFP andalusian nobility war headgears					
 				1 = female_headgear_secular_andalusian_cfp_war_turban_01
 				1 = female_headgear_secular_andalusian_cfp_war_nasal_01	
+				1 = female_headgear_secular_andalusian_cfp_war_nasal_02					
 				#andalusian_war_high_nobility
 				1 = female_headgear_secular_andalusian_cfp_war_sallet_01				
            		####CFP oghuz headgears					
@@ -5832,7 +5834,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_war_nobility_01
 				1 = male_headgear_secular_andalusian_cfp_war_turban_01
-				1 = male_headgear_secular_andalusian_cfp_war_nasal_01	
+				1 = male_headgear_secular_andalusian_cfp_war_nasal_01
+				1 = male_headgear_secular_andalusian_cfp_war_nasal_02					
 				1 = male_headgear_secular_andalusian_cfp_war_sallet_01				
 			}
 			
@@ -5840,6 +5843,7 @@ accessory_genes = {
 				1 = female_headgear_secular_fp2_iberian_muslim_war_nobility_01
 				1 = female_headgear_secular_andalusian_cfp_war_turban_01
 				1 = female_headgear_secular_andalusian_cfp_war_nasal_01	
+				1 = female_headgear_secular_andalusian_cfp_war_nasal_02							
 				1 = female_headgear_secular_andalusian_cfp_war_sallet_01				
 			}
 			boy = male
