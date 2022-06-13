@@ -355,7 +355,60 @@ cfp_portrait_wear_helmet_high_noble_trigger = { # Different from Armor, as Count
 	}
 }
 
+## IBERIA
+cfp_portrait_iberian_christian_clothing_trigger = {
+	OR = {
+		scope:culture = { portrait_fp2_iberian_christian_clothing_contents_trigger = yes }
+		AND = {
+			is_landed = yes
+			religion = religion:christianity_religion
+			capital_province = {
+				geographical_region = world_europe_west_iberia
+			}
+		}
+	}
+}
+cfp_portrait_iberian_christian_clothing_spouse_trigger = {
+	OR = {
+		culture = {
+			portrait_fp2_iberian_christian_clothing_contents_trigger = yes
+		}
+		AND = {
+			is_landed = yes
+			religion = religion:christianity_religion
+			capital_province = {
+				geographical_region = world_europe_west_iberia
+			}
+		}
+	}
+}
 
+cfp_portrait_iberian_muslim_clothing_trigger = {
+	OR = {
+		scope:culture = { portrait_fp2_iberian_muslim_clothing_contents_trigger = yes }
+		AND = {
+			is_landed = yes
+			religion = religion:islam_religion
+			capital_province = {
+				geographical_region = world_europe_west_iberia
+			}
+		}
+	}
+}
+cfp_portrait_iberian_muslim_clothing_spouse_trigger = {
+	OR = {
+		culture = {
+			portrait_fp2_iberian_muslim_clothing_contents_trigger = yes
+		}
+		AND = {
+			is_landed = yes
+			religion = religion:islam_religion
+			capital_province = {
+				geographical_region = world_europe_west_iberia
+			}
+		}
+	}
+}
 
 ## ERA OR INNOVATION TRIGGERS
 cfp_era_high_medieval_trigger = {
