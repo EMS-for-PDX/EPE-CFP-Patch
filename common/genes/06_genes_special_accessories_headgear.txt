@@ -5762,6 +5762,7 @@ accessory_genes = {
 			index = 245
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_common_01_low
+				1 = male_headgear_epe_fp2_iberian_muslim_01_white	
 			}
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_common_01
@@ -5776,6 +5777,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_nobility_01
 				1 = male_headgear_secular_fp2_iberian_muslim_common_01_high
+				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white					
+				1 = male_headgear_epe_fp2_iberian_muslim_01_white_noble					
 			}
 			female = {
 				2 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_low
@@ -5790,6 +5793,8 @@ accessory_genes = {
 			index = 247
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
+				1 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white		
+				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white						
 			}
 			female = {
 				
@@ -5833,6 +5838,7 @@ accessory_genes = {
 			index = 250
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_war_nobility_01
+				1 = male_headgear_epe_fp2_iberian_muslim_war_nobility_01_white					
 				1 = male_headgear_secular_andalusian_cfp_war_turban_01
 				1 = male_headgear_secular_andalusian_cfp_war_nasal_01
 				1 = male_headgear_secular_andalusian_cfp_war_nasal_02					
@@ -5841,6 +5847,7 @@ accessory_genes = {
 			
 			female = {
 				1 = female_headgear_secular_fp2_iberian_muslim_war_nobility_01
+				1 = female_headgear_epe_fp2_iberian_muslim_war_nobility_01_white					
 				1 = female_headgear_secular_andalusian_cfp_war_turban_01
 				1 = female_headgear_secular_andalusian_cfp_war_nasal_01	
 				1 = female_headgear_secular_andalusian_cfp_war_nasal_02							
