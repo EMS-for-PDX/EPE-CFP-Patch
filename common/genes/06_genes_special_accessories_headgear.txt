@@ -4745,16 +4745,17 @@ accessory_genes = {
         maghreb_high_nobility = {
             index = 204
             male = {
-                10 = male_maghreb_high_noble_01	
-				10 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white					
-				10 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white					
+                10 = male_maghreb_high_noble_01				
                 5 = male_headgear_secular_mena_high_nobility_01
 				5 = male_headgear_secular_dde_abbasid_common_01		
                 5 = male_headgear_epe_maghreb_high_01	
 				5 = male_headgear_epe_white_mena_high_01
 				5 = male_headgear_epe_white_mena_high_02
 				5 = male_headgear_epe_white_mena_nobility_02	
-				5 = male_headgear_epe_white_mena_nobility_03					
+				5 = male_headgear_epe_white_mena_nobility_03
+				##Fp2
+				10 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white					
+				10 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white						
             }
             female = {
                 5 = female_headgear_secular_mena_nobility_01
@@ -4768,6 +4769,9 @@ accessory_genes = {
 		maghreb_royalty = {
 			index = 205
 			male = {
+				1 = male_headgear_secular_mena_royalty_01
+				1 = male_headgear_epe_white_mena_royal_01
+				##Fp2					
 				1 = male_headgear_epe_fp2_maghreb_royalty_01						
 			}
 			female = {
@@ -4781,6 +4785,9 @@ accessory_genes = {
 		maghreb_imperial = {
 			index = 206
 			male = {
+				1 = male_headgear_secular_mena_royalty_01
+				1 = male_headgear_epe_white_mena_royal_01
+				##Fp2					
 				1 = male_headgear_epe_fp2_maghreb_royalty_01						
 			}
 			female = {
