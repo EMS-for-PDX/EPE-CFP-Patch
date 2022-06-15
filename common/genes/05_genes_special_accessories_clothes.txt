@@ -3541,13 +3541,16 @@ accessory_genes = {
 				1 = male_clothes_secular_maghreb_nobility_01_common
 				1 = male_clothes_secular_maghreb_nobility_02_common
 				1 = male_clothes_secular_maghreb_nobility_03_common
-
+				##Fp2				
+				2 = male_clothes_fp2_maghreb_nobility_04_common
 			}
 
 			female = {
 				1 = female_clothes_secular_maghreb_nobility_01_common
 				1 = female_clothes_secular_maghreb_nobility_02_common		
 				1 = female_clothes_secular_maghreb_nobility_03_common	
+				##Fp2
+				2 = female_clothes_fp2_maghreb_nobility_04_common					
 			}
 
 			boy = male
@@ -3561,14 +3564,18 @@ accessory_genes = {
 				1 = male_clothes_secular_maghreb_nobility_01_low
 				1 = male_clothes_secular_maghreb_nobility_02_low
 				1 = male_clothes_secular_maghreb_nobility_03_low
-
+				##Fp2		
+				1 = male_clothes_fp2_maghreb_nobility_05_low				
+				1 = male_clothes_fp2_maghreb_nobility_06_low					
 			}
 
 			female = {
 				1 = female_clothes_secular_maghreb_nobility_01_low
 				1 = female_clothes_secular_maghreb_nobility_02_low
 				1 = female_clothes_secular_maghreb_nobility_03_low
-
+				##Fp2	
+				1 = female_clothes_fp2_maghreb_nobility_05_low				
+				1 = female_clothes_fp2_maghreb_nobility_06_low		
 			}
 
 			boy = male
@@ -3582,14 +3589,18 @@ accessory_genes = {
 				1 = male_clothes_secular_maghreb_nobility_01_high
 				1 = male_clothes_secular_maghreb_nobility_02_high
 				1 = male_clothes_secular_maghreb_nobility_03_high
-
+				##Fp2	
+				1 = male_clothes_fp2_maghreb_nobility_05_high				
+				1 = male_clothes_fp2_maghreb_nobility_06_high								
 			}
 
 			female = {
 				1 = female_clothes_secular_maghreb_nobility_01_high
 				1 = female_clothes_secular_maghreb_nobility_02_high
 				1 = female_clothes_secular_maghreb_nobility_03_high
-
+				##Fp2	
+				1 = female_clothes_fp2_maghreb_nobility_05_high				
+				1 = female_clothes_fp2_maghreb_nobility_06_high					
 			}
 
 			boy = male
@@ -3600,11 +3611,11 @@ accessory_genes = {
 			index = 169
 
 			male = {
-				1 = male_clothes_secular_mena_war_nobility_01_low
+				1 = male_clothes_secular_fp2_maghreb_war_nobility_01
 			}
 
 			female = {
-				1 = female_clothes_secular_mena_war_nobility_01_low
+				1 = female_clothes_secular_fp2_maghreb_war_nobility_01
 			}
 
 			boy = male
