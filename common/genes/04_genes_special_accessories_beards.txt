@@ -1346,7 +1346,41 @@ special_genes = {
 				}
 			}
 
+##########################################################################
+####FP2 Mena
+##########################################################################	
+			mena_fp2_beards_straight = {
+				index = 54
 
+				male = {
+				  ###Mashriqi and Bedouin
+					5 = male_beard_fp2_iberian_christian_01 # Short Well-Kept Beard
+					5 = male_beard_fp2_iberian_christian_02 # Iberian goatee
+					5 = male_beard_fp2_iberian_christian_03 # Caballero's beard
+					5 = male_beard_fp2_iberian_christian_04 # Droopy moustache
+					5 = male_beard_fp2_iberian_muslim_01 # Thick Groomed Beard
+					5 = male_beard_fp2_iberian_muslim_02 # Scholar's beard			
+				}
+				female = {
+					1 = empty
+				}
+			}
+
+			mena_fp2_beards_curly = {
+				index = 55
+
+				male = {
+				  ###Mashriqi and Bedouin
+					5 = male_beard_fp2_iberian_muslim_01 # Thick Groomed Beard
+					5 = male_beard_fp2_iberian_christian_01 # Short Well-Kept Beard
+					5 = male_beard_fp2_iberian_muslim_02 # Scholar's beard
+					5 = male_beard_fp2_iberian_muslim_03 # Forked beard
+					5 = male_beard_fp2_iberian_christian_03 # Caballero's beard				
+				}
+				female = {
+					1 = empty
+				}
+			}
 
 
 			
