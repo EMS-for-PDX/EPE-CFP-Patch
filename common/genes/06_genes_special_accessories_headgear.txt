@@ -5780,8 +5780,7 @@ accessory_genes = {
 		fp2_muslim_low_nobility = {
             index = 246
 			male = {
-				1 = male_headgear_secular_fp2_iberian_muslim_nobility_01
-				1 = male_headgear_secular_fp2_iberian_muslim_common_01_high
+				2 = male_headgear_secular_fp2_iberian_muslim_common_01_high
 				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white					
 				1 = male_headgear_epe_fp2_iberian_muslim_01_white_noble					
 			}
@@ -5799,7 +5798,8 @@ accessory_genes = {
 			male = {
 				1 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
 				1 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white		
-				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white						
+				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white		
+				1 = male_headgear_secular_fp2_iberian_muslim_nobility_01					
 			}
 			female = {
 				
