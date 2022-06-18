@@ -2816,7 +2816,54 @@ scripted_character_hairstyles_03 = {
 	girl = female
 }
 
-	
+##########################################################################
+####FP2 Maghrebi 
+##########################################################################
+			fp2_hairstyles_maghrebi_straight_common = {
+				index = 107
+				male = {
+					2 = male_hair_fp2_iberian_muslim_01 # Medium short wavy
+					2 = male_hair_fp2_iberian_muslim_03 # Long windswept
+				}
+
+				female = {
+					2 = female_hair_fp2_iberian_muslim_01_common # Simple long wavy with framing curls
+					2 = female_hair_fp2_iberian_muslim_03_common # Four braids without jewelry
+				}
+				boy = male
+				girl = female
+			}
+
+			fp2_hairstyles_maghrebi_wavy_common = {
+				index = 108
+				male = {
+					2 = male_hair_fp2_iberian_muslim_01 # Medium short wavy
+					2 = male_hair_fp2_iberian_muslim_03 # Long windswept
+				}
+
+				female = {
+					2 = female_hair_fp2_iberian_muslim_01_common # Simple long wavy with framing curls
+					2 = female_hair_fp2_iberian_muslim_03_common # Four braids without jewelry
+				}
+				boy = male
+				girl = female
+			}
+
+			fp2_hairstyles_maghrebi_curly_common = {
+				index = 109
+				male = {
+					2 = male_hair_fp2_iberian_muslim_02 # Long curly middle parted 
+				}
+
+				female = {
+					2 = female_hair_fp2_iberian_muslim_02_common # Fine curls without jewelry 
+					2 = female_hair_fp2_iberian_muslim_03_common # Four braids without jewelry
+				}
+				boy = male
+				girl = female
+			}			
+			
+				
 
 
 
