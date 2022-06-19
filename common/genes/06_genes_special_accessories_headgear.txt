@@ -824,21 +824,18 @@ accessory_genes = {
 		mena_common = {
 			index = 12
 			male = {
-				5 = empty
 				10 = male_headgear_secular_mena_common_01
 				10 = male_headgear_secular_dde_abbasid_common_02
 				10 = male_headgear_epe_white_mena_common_01			
-				10 = male_headgear_epe_white_mena_common_02	
-				10 = male_headgear_secular_mena_cfp_bonnet_low_01					
+				10 = male_headgear_epe_white_mena_common_02
+				5 = male_headgear_epe_white_mena_nobility_02	
+				5 = male_headgear_epe_white_mena_nobility_03				
 			
 			}
 			female = {
-				10 = empty
 				5 = female_headgear_secular_mena_common_01
 				5 = female_headgear_secular_mena_common_02
 				5 = female_headgear_secular_dde_abbasid_common_01
-				5 = male_headgear_epe_white_mena_nobility_02	
-				5 = male_headgear_epe_white_mena_nobility_03					
 				
 			}
 			boy = male
