@@ -1380,9 +1380,9 @@ special_genes = {
 					5 = male_beard_fp2_iberian_muslim_02 # Scholar's beard					
 				  ###Non muslim indian
 					10 = male_beard_fp2_iberian_christian_04 # Droopy moustache
-					5 = male_long_mustache_indian_01	
-					5 = male_long_mustache_indian_02	
-					5 = male_long_mustache_indian_03	
+					3 = male_long_mustache_indian_01	
+					3 = male_long_mustache_indian_02	
+					3 = male_long_mustache_indian_03	
 					2 = epe_male_beard_indian_01 #						
 				  
 				}
