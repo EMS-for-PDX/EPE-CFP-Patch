@@ -349,19 +349,30 @@ special_genes = {
 				}
 			}
 
+##########################################################################
+####Indian non-Muslim/Hindu 
+##########################################################################
 			indian_beards_straight = {
 				index = 11
 
 				male = {
 					# 5 = empty
-					20 = male_beard_indian_01 # Handlebar mustache
-					10 = male_beard_indian_02 # Indian pointy
-					10 = male_beard_indian_03 # Big messy straight beard
-					10 = male_long_mustache_indian_01	
-					10 = male_long_mustache_indian_02	
-					10 = male_long_mustache_indian_03					
+					2 = male_beard_indian_01 # Handlebar mustache
+					2 = male_beard_indian_02 # Indian pointy
+					2 = male_beard_indian_03 # Big messy straight beard
+					2 = male_beard_indian_01 # Handlebar mustache
+					2 = male_beard_indian_02 # Indian pointy
+					2 = male_beard_indian_03 # Big messy straight beard
+					2 = male_long_mustache_indian_01	
+					2 = male_long_mustache_indian_02	
+					2 = male_long_mustache_indian_03					
 					2 = epe_male_beard_indian_01 #	
-					10 = epe_male_beard_fp1_04									
+					2 = epe_male_beard_fp1_04	
+					2 = male_beard_western_8b #		
+				    2 = male_beard_western_8c #		
+				    2 = male_beard_western_8d #	
+				    2 = male_beard_western_8e #	
+				    2 = male_beard_western_8f #						
 				}
 				female = {
 					1 = empty
@@ -373,14 +384,21 @@ special_genes = {
 
 				male = {
 					# 5 = empty
-					20 = male_beard_indian_01 # Handlebar mustache
-					10 = male_beard_indian_02 # Indian pointy
-					10 = male_beard_mena_01 # Very curly medium length full beard
-					5 = male_beard_mena_02 # Big with small mustache
-					15 = male_long_mustache_indian_02	
-					15 = male_long_mustache_indian_03						
+					2 = male_beard_indian_01 # Handlebar mustache
+					2 = male_beard_indian_02 # Indian pointy
+					2 = male_beard_indian_03 # Big messy straight beard
+					2 = male_beard_indian_01 # Handlebar mustache
+					2 = male_beard_indian_02 # Indian pointy
+					2 = male_beard_indian_03 # Big messy straight beard
+					2 = male_long_mustache_indian_02	
+					2 = male_long_mustache_indian_03						
 					2 = epe_male_beard_indian_01 #
-					5 = epe_male_beard_fp1_04									
+					2 = epe_male_beard_fp1_04	
+					1 = male_beard_western_8b #		
+				    1 = male_beard_western_8c #		
+				    1 = male_beard_western_8d #	
+				    1 = male_beard_western_8e #	
+				    1 = male_beard_western_8f #									
 				}
 				female = {
 					1 = empty
@@ -487,9 +505,9 @@ special_genes = {
 			}
 			
 			
-#######################
-###### Northern Indian #######
-#######################
+##########################################################################
+####Indian Muslim
+##########################################################################
 			northern_indian_beards_straight = {
 				index = 18
 
@@ -545,7 +563,6 @@ special_genes = {
 					1 = empty
 				}
 			}			
-			
 #######################
 ###### French #######
 #######################
