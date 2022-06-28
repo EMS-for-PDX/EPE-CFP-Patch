@@ -1370,11 +1370,11 @@ special_genes = {
 			visigoth_royalty = {
 				index = 26
 				male = {
-					1 = male_visigoth_royal_sagum_01
+					1 = male_iberian_royal_sagum_01			
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01
-					1 = female_cloaks_secular_western_royalty_02a				
+					1 = female_iberia_royalty_cloak_01
+					1 = female_iberia_royalty_cloak_02					
 				}
 			}
 
@@ -1662,6 +1662,20 @@ special_genes = {
 				}
 			}
 
+			##########################################################################
+			####Iberia
+			##########################################################################
+
+			high_iberian_royalty = {
+				index = 49
+				male = {
+					1 = male_cloaks_high_iberian_royalty_01			
+				}
+				female = {
+					1 = female_iberia_royalty_cloak_01
+					1 = female_iberia_royalty_cloak_02					
+				}
+			}
 
 
 
