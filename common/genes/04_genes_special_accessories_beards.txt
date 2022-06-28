@@ -1445,7 +1445,48 @@ special_genes = {
 				}
 			}
 
+#######################
+###### Hungarian #######
+#######################
 
+			hungarian_beards_straight = {
+				index = 56
+
+				male = {
+				 1 = empty
+				 5 = male_beard_mena_04b #	
+				 5 = male_beard_western_1b #	
+				 5 = epe_male_beard_fp1_02 #	
+				 5 = male_beard_western_8b #		
+				 5 = male_beard_western_8c #		
+				 5 = male_beard_western_8d #	
+				 5 = male_beard_western_8e #	
+				 5 = male_beard_western_8f #					 
+				}
+				female = {
+					1 = empty
+				}
+			}
+			hungarian_beards_curly = {
+				index = 57
+
+				male = {
+					# 5 = empty
+					5 = male_beard_mena_04b #	
+					5 = male_mustache_iranian_05		
+					5 = male_beard_fp1_02 # Short low beard
+					5 = male_beard_mena_04
+					5 = epe_male_beard_fp1_02 #	
+					5 = male_beard_western_8b #		
+				    5 = male_beard_western_8c #		
+				    5 = male_beard_western_8d #	
+				    5 = male_beard_western_8e #	
+				    5 = male_beard_western_8f #								
+				}
+				female = {
+					1 = empty
+				}
+			}
 
 
 			
