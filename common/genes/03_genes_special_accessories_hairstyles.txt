@@ -331,19 +331,28 @@ special_genes = {
 			western_hairstyles_curly = {
 				index = 4
 				male = {
-					2 = male_hair_western_03 # Buzz cut
-					2 = male_hair_mena_01 # Short curly
-					2 = male_hair_mena_03 # Curly ball
-					2 = male_hair_mena_04 # Medium curly
+					3 = male_hair_western_02 # Medium/long wavy
+					3 = male_hair_western_06 # Messy bowl
+					3 = male_hair_western_07 # Long side part
+					3 = male_hair_mena_01 # Short curly
+					3 = male_hair_mena_03 # Curly ball
+					3 = male_hair_mena_04 # Medium curly
+					1 = male_hair_byzantine_01 # Curled bowl
+					1 = male_hair_byzantine_02 # Roman style
 				}
 				
 				female = {
+					3 = female_hair_western_01 # Crown braid
+					3 = female_hair_western_02 # Long wavy
+					3 = female_hair_western_03 # Rolled braid
+					3 = female_hair_western_04 # Twin braids wavy
 					3 = female_hair_western_05 # Behind head wavy
 					3 = female_hair_western_06 # Tight updo with barbette
+					3 = female_hair_western_08 # Twin braids tied up on head
 				}
 				boy = male
 				girl = female
-			}  
+			}
 
 			western_hairstyles_afro = {
 				index = 5
