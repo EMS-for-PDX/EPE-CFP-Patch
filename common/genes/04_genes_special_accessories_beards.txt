@@ -86,7 +86,8 @@ special_genes = {
 					1 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
 					1 = cfp_male_moustache_slavic_02 # Handlebar Moustache
 					1 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache
-					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache			
+					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache
+					1 = cfp_male_beard_fp1_04 # Moustache variation						
 				}
 				female = {
 					1 = empty
