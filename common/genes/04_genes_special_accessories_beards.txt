@@ -77,16 +77,16 @@ special_genes = {
 				    1 = male_beard_western_9b #	
 
                     ###CFP					
-					1 = cfp_male_sideburns_western_01
-					1 = cfp_male_frenchfork_western_01
 					1 = cfp_male_sideburns_western_02
 					1 = cfp_male_moustache_western_01
+					1 = cfp_male_sideburns_western_01
+					1 = cfp_male_frenchfork_western_01
 					1 = cfp_male_goatee_northern_01
 					1 = cfp_male_goatee_northern_02
 					1 = cfp_male_moustache_slavic_01 # Rus Warrior Moustache
 					1 = cfp_male_moustache_slavic_02 # Handlebar Moustache
 					1 = cfp_male_moustache_slavic_03 # Horse Shoe Moustache
-					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache					
+					1 = cfp_male_moustache_hungarian_01 # Hungarian Moustache			
 				}
 				female = {
 					1 = empty
@@ -1453,15 +1453,26 @@ special_genes = {
 				index = 56
 
 				male = {
-				 1 = empty
-				 5 = male_beard_mena_04b #	
-				 5 = male_beard_western_1b #	
-				 5 = epe_male_beard_fp1_02 #	
-				 5 = male_beard_western_8b #		
-				 5 = male_beard_western_8c #		
-				 5 = male_beard_western_8d #	
-				 5 = male_beard_western_8e #	
-				 5 = male_beard_western_8f #					 
+					1 = empty
+					5 = male_beard_western_01 # Standard full beard
+					5 = male_beard_western_02 # Standard goatee
+					5 = male_beard_western_03 # Short beard
+					5 = male_beard_western_04 # Short goatee
+					5 = male_beard_western_05 # Mustache
+					5 = male_beard_western_06 # Big bushy beard
+					5 = male_beard_western_07 # Chin strap
+					5 = male_beard_western_08 # Big with fancy mustache
+					5 = male_beard_western_09 # Pointy beard
+					5 = male_beard_western_10 # Chin goatee
+					5 = male_beard_mena_04 # Short stylish
+					5 = male_beard_mena_04b #	
+					5 = male_beard_western_1b #	
+					5 = epe_male_beard_fp1_02 #	
+					5 = male_beard_western_8b #		
+					5 = male_beard_western_8c #		
+					5 = male_beard_western_8d #	
+					5 = male_beard_western_8e #	
+					5 = male_beard_western_8f #						
 				}
 				female = {
 					1 = empty
@@ -1481,7 +1492,10 @@ special_genes = {
 				    5 = male_beard_western_8c #		
 				    5 = male_beard_western_8d #	
 				    5 = male_beard_western_8e #	
-				    5 = male_beard_western_8f #								
+				    5 = male_beard_western_8f #	
+					5 = male_beard_western_01 # Standard full beard
+					5 = male_beard_western_02 # Standard goatee
+					5 = male_beard_western_05 # Mustache					
 				}
 				female = {
 					1 = empty
