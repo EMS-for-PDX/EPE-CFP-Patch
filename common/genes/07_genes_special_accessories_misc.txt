@@ -1678,7 +1678,21 @@ special_genes = {
 			}
 
 
+			##########################################################################
+			####Generic high medieval Western
+			##########################################################################
 
+			high_medieval_western_duchy = {
+				index = 50
+				male = {
+					1 = empty				
+					1 = male_early_westerm_royal_sagum_01
+				}
+				female = {
+					1 = empty				
+					1 = female_cloaks_secular_western_royalty_01	
+				}
+			}
 
 
 
