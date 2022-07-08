@@ -2508,98 +2508,7 @@ accessory_genes = {
 		}
 		
 		
-## DDE ADDASID High Middle ages ##
 
-		dde_high_abbasid_commoner_clothes = {
-			index = 117
-
-			male = {
-				1 = male_clothes_secular_dde_abbasid_nobility_01_common
-				1 = male_clothes_secular_dde_abbasid_nobility_02_common
-				1 = male_clothes_secular_dde_abbasid_nobility_03_common
-				1 = male_clothes_secular_mena_nobility_01_common
-				1 = male_clothes_secular_mena_nobility_02_common			
-			}
-
-			female = {
-				# 1 = female_clothes_secular_dde_abbasid_nobility_01_common
-				1 = female_clothes_secular_dde_abbasid_nobility_02_common
-				1 = female_clothes_secular_dde_abbasid_nobility_03_common
-				1 = female_clothes_secular_mena_nobility_01_common
-				1 = female_clothes_secular_mena_nobility_02_common			
-			}
-
-			boy = male
-			girl = female
-		}
-
-		dde_high_abbasid_low_nobility_clothes = {
-			index = 118
-
-			male = {
-				# 1 = male_clothes_secular_dde_abbasid_nobility_01_low
-				1 = male_clothes_secular_dde_abbasid_nobility_02_low
-				1 = male_clothes_secular_dde_abbasid_nobility_03_low
-				1 = male_clothes_secular_mena_nobility_01_low
-				1 = male_clothes_secular_mena_nobility_02_low
-				1 = male_clothes_secular_dde_abbasid_nobility_01_low					
-			}
-
-			female = {
-				# 1 = female_clothes_secular_dde_abbasid_nobility_01_low
-				1 = female_clothes_secular_dde_abbasid_nobility_02_low
-				1 = female_clothes_secular_dde_abbasid_nobility_03_low
-				1 = female_clothes_secular_mena_nobility_01_low
-				1 = female_clothes_secular_mena_nobility_02_low
-				1 = female_clothes_secular_dde_abbasid_nobility_01_low					
-			}
-
-			boy = male
-			girl = female
-		}
-
-		dde_high_abbasid_high_nobility_clothes = {
-			index = 119
-
-			male = {
-				1 = male_clothes_secular_mena_nobility_01_high
-				1 = male_clothes_secular_mena_nobility_02_high
-				1 = male_clothes_secular_dde_abbasid_nobility_01_high				
-				1 = male_clothes_secular_dde_abbasid_nobility_02_high
-				1 = male_clothes_secular_dde_abbasid_nobility_03_high
-				1 = male_clothes_secular_dde_abbasid_nobility_04_high	
-		
-			}
-
-			female = {
-				1 = female_clothes_secular_mena_nobility_01_high
-				1 = female_clothes_secular_mena_nobility_02_high
-				1 = female_clothes_secular_dde_abbasid_nobility_01_high					
-				# 1 = female_clothes_secular_dde_abbasid_nobility_01_high
-				1 = female_clothes_secular_dde_abbasid_nobility_02_high
-				1 = female_clothes_secular_dde_abbasid_nobility_03_high
-	
-			}
-
-			boy = male
-			girl = female
-		}
-
-		dde_high_abbasid_war_nobility_clothes = {
-			index = 120
-
-			male = {
-				1 = male_clothes_secular_dde_abbasid_war_nobility_01_low
-			}
-
-			female = {
-				1 = female_clothes_secular_dde_abbasid_war_nobility_01_low
-			}
-
-			boy = male
-			girl = female
-		}		
-		
 		
 ## Early Eastern/Sogdian iranian  ##
 
@@ -5179,7 +5088,11 @@ accessory_genes = {
 		}
 
 
-
+####free space index = 76
+			#index = 117
+			#index = 118
+			#index = 119
+			#index = 120
 
 
 		
