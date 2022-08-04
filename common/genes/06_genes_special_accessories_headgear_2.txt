@@ -3302,7 +3302,98 @@ accessory_genes = {
             girl = female
 		}			
 		
+##########################################################################
+####Western muslim
+##########################################################################
 		
+
+		western_muslim_common = {
+			index = 180
+			male = {
+				1 = male_headgear_secular_fp2_iberian_muslim_common_01_low
+				1 = male_headgear_epe_fp2_iberian_muslim_01_white
+				1 = male_headgear_epe_white_abbasid_common_01
+				1 = male_headgear_epe_white_mena_nobility_02	
+				1 = male_headgear_epe_white_mena_nobility_03				
+			}
+			female = {
+				1 = female_headgear_secular_fp2_iberian_muslim_common_01
+				1 = female_headgear_secular_mena_common_02				
+			}
+			boy = male
+            girl = female
+		}
+		
+		western_muslim_low_nobility = {
+            index = 181
+			male = {
+				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white					
+				1 = male_headgear_epe_fp2_iberian_muslim_01_white_noble		
+				1 = male_headgear_secular_fp2_iberian_muslim_common_01_high	
+				1 = male_headgear_epe_white_mena_nobility_02	
+				1 = male_headgear_epe_white_mena_nobility_03					
+			}
+			female = {
+				1 = female_headgear_secular_fp2_iberian_muslim_high_nobility_01_low
+				1 = female_headgear_secular_fp2_iberian_muslim_nobility_01			
+			}
+            boy = male
+            girl = female
+        }
+		
+		western_muslim_high_nobility = {
+			index = 182
+			male = {
+				2 = male_headgear_epe_western_muslim_high_noble_01	
+				1 = male_headgear_epe_dde_abbasid_high_nobility_02_white	
+				1 = male_headgear_epe_white_abbasid_high_01					
+				1 = male_headgear_secular_fp2_iberian_muslim_high_nobility_01
+				1 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white		
+				1 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white		
+				1 = male_headgear_secular_fp2_iberian_muslim_nobility_01	
+			}
+			female = {				
+				1 = female_headgear_epe_western_muslim_high_noble_01
+				1 = female_headgear_epe_western_muslim_high_noble_02		
+				1 = female_headgear_epe_fp2_iberian_muslim_high_nobility_01_white						
+			}
+			boy = male
+            girl = female
+		}
+
+		western_muslim_royalty = {
+			index = 183
+			male = {
+				2 = male_headgear_epe_western_muslim_royal_01
+				2 = male_headgear_epe_western_muslim_royal_02
+				2 = male_headgear_epe_western_muslim_royal_03
+				2 = male_headgear_epe_western_muslim_royal_04		
+				1 = male_headgear_epe_white_ep1_mena_royalty_02	
+				1 = male_headgear_epe_white_abbasid_royal_01	
+				
+			}
+			female = {
+				1 = female_headgear_epe_western_muslim_royal_01
+				1 = female_headgear_epe_western_muslim_royal_02				
+			}
+			boy = male
+            girl = female
+		}
+
+
+		western_muslim_imperial = {
+			index = 184
+			male = {
+				1 = male_headgear_epe_western_muslim_imperial_01
+				1 = male_headgear_epe_white_abbasid_imperial_01	
+			}
+			female = {
+				1 = female_headgear_epe_western_muslim_royal_01
+				1 = female_headgear_epe_western_muslim_royal_02						
+			}
+			boy = male
+            girl = female
+		}			
 		
 		
 		

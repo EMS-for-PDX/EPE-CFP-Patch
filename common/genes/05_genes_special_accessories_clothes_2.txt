@@ -566,7 +566,61 @@ accessory_genes = {
 			girl = female
 		}			
 		
-		
+
+##########################################################################
+####Western muslim
+##########################################################################
+
+		western_muslim_commoner_clothes = {
+			index = 27
+
+			male = {
+				1 = male_clothes_fp2_western_muslim_common_01	
+			}
+
+			female = {
+				1 = female_clothes_fp2_western_muslim_common_01			
+			}
+
+			boy = male
+			girl = female
+		}
+
+		 western_muslim_low_nobility_clothes = {
+			index = 28
+
+			male = {
+				1 = male_clothes_fp2_western_muslim_nobility_01_low	
+				1 = male_clothes_fp2_western_muslim_nobility_02_low					
+				
+			}
+
+			female = {
+				1 = female_clothes_fp2_western_muslim_nobility_01_low			
+				1 = female_clothes_fp2_western_muslim_nobility_02_low
+				
+			}
+			boy = male
+			girl = female
+		}
+
+		western_muslim_high_nobility_clothes = {
+			index = 29
+
+			male = {
+				1 = male_clothes_fp2_western_muslim_nobility_01_high
+				1 = male_clothes_fp2_western_muslim_nobility_02_high					
+				
+			}
+
+			female = {
+				1 = female_clothes_fp2_western_muslim_nobility_01_high			
+				1 = female_clothes_fp2_western_muslim_nobility_02_high
+				
+			}
+			boy = male
+			girl = female
+		}		
 		
 
 	}

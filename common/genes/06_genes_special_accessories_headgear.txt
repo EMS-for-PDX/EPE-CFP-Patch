@@ -2937,9 +2937,7 @@ accessory_genes = {
 				1 = male_Circlets_Western_Small_Simple
 				1 = male_Circlets_Western_Small_Simple_silver
 				1 = male_Circlets_Western_Small_Jewells
-				1 = male_Circlets_Western_Small_Jewells_silver	
-                2 = male_headgear_secular_western_common_01
-                2 = male_headgear_secular_western_common_02			
+				1 = male_Circlets_Western_Small_Jewells_silver			
             }
             female = {
 				2 = female_Circlets_Western_Small_Gold_Pearls	
