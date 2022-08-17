@@ -2045,9 +2045,9 @@ accessory_genes = {
 				5 = male_headgear_epe_white_mena_nobility_03					
             }
             female = {
-                5 = female_headgear_secular_mena_nobility_01
+                5 = female_headgear_epe_muslim_iranian_01_high
                 5 = female_high_medieval_islamic_iranian_veil_01_high
-                5 = female_high_medieval_islamic_iranian_veil_02_high				
+                5 = female_high_medieval_islamic_iranian_veil_02_high					
             }
             boy = male
             girl = female
@@ -2089,9 +2089,9 @@ accessory_genes = {
 				
 			}
 			female = {
-				1 = female_headgear_secular_mena_royalty_01
-				1 = female_headgear_iranian_royal_01_royal
-				1 = female_headgear_iranian_royal_02		
+				1 = female_headgear_epe_muslim_iranian_royal_01
+				1 = female_headgear_epe_muslim_iranian_royal_02
+				1 = female_headgear_epe_muslim_iranian_royal_03		
 			}
 			boy = male
             girl = female
@@ -2122,9 +2122,9 @@ accessory_genes = {
 				1 = male_headgear_epe_white_mena_royal_01						
 			}
 			female = {
-				1 = female_headgear_secular_mena_royalty_01
-				1 = female_headgear_iranian_royal_01_royal
-				1 = female_headgear_iranian_royal_02		
+				1 = female_headgear_epe_muslim_iranian_royal_01
+				1 = female_headgear_epe_muslim_iranian_royal_02
+				1 = female_headgear_epe_muslim_iranian_royal_03		
 			}
 			boy = male
             girl = female
@@ -3439,9 +3439,9 @@ accessory_genes = {
 				2 = male_headgear_secular_dde_abbasid_common_01
 				2 = male_headgear_secular_dde_abbasid_common_02
 				1 = male_headgear_epe_white_abbasid_common_01
-				1 = male_headgear_epe_white_mena_common_01	
+				1 = male_headgear_epe_white_mena_common_01
 				3 = male_headgear_epe_white_mena_nobility_02	
-				3 = male_headgear_epe_white_mena_nobility_03					
+				3 = male_headgear_epe_white_mena_nobility_03	
 			}
 			female = {
 				2 = female_headgear_iranian_qub_01_common			
@@ -3472,7 +3472,9 @@ accessory_genes = {
 				3 = male_headgear_secular_mena_nobility_01
 				3 = male_headgear_secular_dde_abbasid_high_nobility_01
 				3 = male_headgear_secular_dde_abbasid_common_01
-				1 = male_headgear_epe_white_mena_nobility_01				
+				1 = male_headgear_epe_white_mena_nobility_01
+				3 = male_headgear_epe_white_mena_nobility_02	
+				3 = male_headgear_epe_white_mena_nobility_03	
             }
             female = {
                 #12 = empty
@@ -3506,15 +3508,17 @@ accessory_genes = {
 				3 = male_headgear_secular_mena_high_nobility_01
                 3 = male_headgear_epe_iranian_high_01
 				1 = male_headgear_epe_white_mena_high_01
-				1 = male_headgear_epe_white_mena_high_02				
+				1 = male_headgear_epe_white_mena_high_02
 				1 = male_headgear_epe_white_mena_nobility_02	
-				1 = male_headgear_epe_white_mena_nobility_03						
-				
+				1 = male_headgear_epe_white_mena_nobility_03		
+				1 = male_headgear_secular_iranian_qalansuwwa_04_white				
+				1 = male_headgear_secular_iranian_qalansuwwa_05_white			
+				1 = male_headgear_secular_iranian_qalansuwwa_06_white						
 			}
 			female = {
-                1 = female_headgear_secular_mena_nobility_01
+                #1 = female_headgear_secular_mena_nobility_01
                 2 = female_early_islamic_iranian_veil_01_high	
-                2 = female_early_islamic_iranian_veil_02_high						
+                2 = female_early_islamic_iranian_veil_02_high					
 			}
 			boy = male
             girl = female
@@ -3528,7 +3532,10 @@ accessory_genes = {
             }
             female = {
 				1 = female_headgear_iranian_royal_01_royal
-				1 = female_headgear_iranian_royal_02					
+				1 = female_headgear_iranian_royal_02	
+				#1 = female_early_iranian_royal_crown_early_01
+				#1 = female_early_iranian_royal_crown_early_02
+
             }
             boy = male
             girl = female
