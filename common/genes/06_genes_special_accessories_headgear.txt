@@ -4701,19 +4701,22 @@ accessory_genes = {
 ##########################################################################
 ####North africa
 ##########################################################################
-
+##Berber
 		maghreb_common = {
 			index = 202
 			male = {
 				5 = empty
-				10 = male_headgear_secular_sub_saharan_common_01				
+				10 = male_headgear_secular_sub_saharan_common_01	
+				10 = male_headgear_epe_berber_tagelmust_01_common	
+				10 = male_headgear_epe_berber_tagelmust_02_common					
 				10 = male_maghreb_common_01				
 				10 = male_headgear_secular_mena_common_01
 				10 = male_headgear_secular_dde_abbasid_common_02
 				10 = male_headgear_epe_white_mena_common_01			
 				10 = male_headgear_epe_white_mena_common_02	
 				5 = male_headgear_epe_white_mena_nobility_02	
-				5 = male_headgear_epe_white_mena_nobility_03					
+				5 = male_headgear_epe_white_mena_nobility_03			
+			
 			}
 			female = {
 				5 = female_headgear_secular_mena_common_01
@@ -4730,11 +4733,16 @@ accessory_genes = {
             male = {
 				1 = male_headgear_secular_sub_saharan_common_01				
                 1 = male_headgear_epe_mena_low_01
+				1 = male_headgear_epe_berber_tagelmust_01_low	
+				1 = male_headgear_epe_berber_tagelmust_02_low					
+				1 = male_headgear_epe_berber_tagelmust_01_high_white	
+				1 = male_headgear_epe_berber_tagelmust_02_high_white				
 				1 = male_headgear_secular_dde_abbasid_common_02
 				1 = male_headgear_epe_white_mena_nobility_01
 				1 = male_headgear_epe_white_mena_nobility_02	
-				1 = male_headgear_epe_white_mena_nobility_03						
+				1 = male_headgear_epe_white_mena_nobility_03	
 				
+		
             }
             female = {
                 5 = female_headgear_secular_mena_common_01
@@ -4747,14 +4755,18 @@ accessory_genes = {
         maghreb_high_nobility = {
             index = 204
             male = {
-                10 = male_maghreb_high_noble_01				
-                5 = male_headgear_secular_mena_high_nobility_01
-				5 = male_headgear_secular_dde_abbasid_common_01		
+                5 = male_maghreb_high_noble_01	
+                5 = male_headgear_epe_berber_tagelmust_01_high
+                5 = male_headgear_epe_berber_tagelmust_02_high					
+				5 = male_headgear_epe_berber_tagelmust_01_high_white	
+				5 = male_headgear_epe_berber_tagelmust_02_high_white					
+                3 = male_headgear_secular_mena_high_nobility_01					
+				2 = male_headgear_secular_dde_abbasid_common_01		
                 5 = male_headgear_epe_maghreb_high_01	
-				5 = male_headgear_epe_white_mena_high_01
-				5 = male_headgear_epe_white_mena_high_02
-				5 = male_headgear_epe_white_mena_nobility_02	
-				5 = male_headgear_epe_white_mena_nobility_03
+				3 = male_headgear_epe_white_mena_high_01
+				2 = male_headgear_epe_white_mena_high_02
+				3 = male_headgear_epe_white_mena_nobility_02	
+				2 = male_headgear_epe_white_mena_nobility_03
 				##Fp2
 				10 = male_headgear_epe_fp2_iberian_muslim_high_nobility_01_white					
 				10 = male_headgear_epe_fp2_iberian_muslim_nobility_01_white						
@@ -4803,7 +4815,11 @@ accessory_genes = {
 			index = 207
 			male = {
 				1 = male_headgear_secular_mena_war_nobility_01
-				1 = male_headgear_secular_crusades_mena_war_nobility_01			
+				1 = male_headgear_secular_crusades_mena_war_nobility_01	
+				1 = male_headgear_epe_berber_tagelmust_01_low	
+				1 = male_headgear_epe_berber_tagelmust_02_low					
+				1 = male_headgear_epe_berber_tagelmust_01_high_white
+				1 = male_headgear_epe_berber_tagelmust_02_high_white					
 			}
 			female = {
 				1 = female_headgear_secular_mena_war_nobility_01

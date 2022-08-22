@@ -839,6 +839,8 @@ accessory_genes = {
 				2 = male_headgear_epe_sahelian_common_02
 				2 = male_headgear_epe_sahelian_common_03	
 				2 = male_headgear_epe_sahelian_common_04	
+				2 = male_headgear_epe_sahelian_tagelmust_01_common	
+				2 = male_headgear_epe_sahelian_tagelmust_02_common					
 		
 			}
 			female = {
@@ -855,7 +857,11 @@ accessory_genes = {
 			male = {
 				2 = male_headgear_epe_sahelian_common_01
 				2 = male_headgear_epe_sahelian_common_02
-				2 = male_headgear_epe_sahelian_common_03				
+				2 = male_headgear_epe_sahelian_common_03	
+				2 = male_headgear_epe_sahelian_tagelmust_01_low	
+				2 = male_headgear_epe_sahelian_tagelmust_02_low					
+				1 = male_headgear_epe_berber_tagelmust_01_high_white
+				1 = male_headgear_epe_berber_tagelmust_02_high_white					
             ####CFP west african headgears	
                 3 = male_headgear_secular_africa_west_cfp_low_nobility_01
                 3 = male_headgear_secular_africa_west_cfp_low_nobility_02				
@@ -877,7 +883,11 @@ accessory_genes = {
             index = 47
             male = {
                 1 = male_headgear_epe_sahelian_high_01
-                1 = male_headgear_epe_sahelian_high_02		
+                1 = male_headgear_epe_sahelian_high_02	
+				2 = male_headgear_epe_sahelian_tagelmust_01_high
+				2 = male_headgear_epe_sahelian_tagelmust_02_high				
+				1 = male_headgear_epe_berber_tagelmust_01_high_white	
+				1 = male_headgear_epe_berber_tagelmust_02_high_white					
             ####CFP west african headgears	
                 1 = male_headgear_secular_africa_west_cfp_high_nobility_01				
             }
@@ -925,6 +935,10 @@ accessory_genes = {
 			index = 50
             male = {
                 1 = male_headgear_secular_africa_west_cfp_helmet_01
+				1 = male_headgear_epe_sahelian_tagelmust_01_low	
+				1 = male_headgear_epe_sahelian_tagelmust_02_low					
+				1 = male_headgear_epe_berber_tagelmust_01_high_white
+				1 = male_headgear_epe_berber_tagelmust_02_high_white					
             }
             female = {
             	1 = female_headgear_secular_africa_west_cfp_helmet_01
