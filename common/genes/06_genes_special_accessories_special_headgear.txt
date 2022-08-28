@@ -431,7 +431,28 @@ accessory_genes = {
             boy = male
             girl = female
         }		
-		
+####Byzantine Imperial War
+		byzantine_imperial_war = {
+			index = 27
+			male = {
+				1 = male_byz_crown_of_basil_II_01 
+			}
+			female = {
+				1 = fem_byz_imperial_stemma_01
+				1 = fem_byz_imperial_stemma_01
+				1 = fem_byz_imperial_stemma_02
+				1 = fem_byz_imperial_stemma_02_veil
+				# 1 = fem_byz_crown_of_theodora_01		
+				# 3 = byz_female_imperial_crown_hair_01				
+				# 1 = female_headgear_secular_byzantine_imperial_01	
+				# 2 = Byzantine_Empress_Veil_Cowl_3
+			    # 2 = Byzantine_Empress_Veil_Cowl_3_transparent	
+			    # 2 = Byzantine_Empress_Veil_Cowl_3_novail					
+				
+			}
+			boy = male
+            girl = female
+		}		
 		
 		
 		

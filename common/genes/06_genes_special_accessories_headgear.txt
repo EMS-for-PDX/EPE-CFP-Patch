@@ -619,6 +619,7 @@ accessory_genes = {
 				3 = male_headgear_secular_western_royalty_02
 				3 = male_Western_Royal_Crown_03	
 				2 = male_western_royal_crown_04							
+				2 = male_western_royal_crown_05				
             ####CFP western headgears			
 				1 = male_headgear_secular_western_cfp_royalty_01
 				#1 = male_headgear_secular_western_cfp_royalty_02	
@@ -640,8 +641,10 @@ accessory_genes = {
 				1 = female_crown_royalty_headvail_03	
 				1 = female_crown_royalty_covervail_03	
 				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_crown_royalty_headvail_04	
+				1 = female_crown_royalty_covervail_04
+				1 = female_western_royal_crown_05
+				1 = female_western_royal_crown_06					
             ####CFP western headgears		
 				1 = female_headgear_secular_western_cfp_royalty_01
 				#1 = female_headgear_secular_western_cfp_royalty_02	
@@ -701,7 +704,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_03	
 				1 = female_western_royal_crown_04	
 				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_crown_royalty_covervail_04	
+				1 = female_western_royal_crown_05		
+				1 = female_western_royal_crown_06					
             ####CFP western headgears				
 				2 = female_headgear_secular_western_cfp_imperial_01						
 			}
@@ -1360,7 +1365,9 @@ accessory_genes = {
 				1 = male_headgear_secular_byzantine_imperial_01	
             ####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_imperial_02
-				1 = male_headgear_secular_byzantine_monomachus_01					
+				1 = male_headgear_secular_byzantine_monomachus_01	
+
+				1 = male_byz_crown_of_basil_II_01 				
 			}
 			female = {
 				1 = fem_byz_imperial_stemma_01
@@ -2376,7 +2383,8 @@ accessory_genes = {
 				1 = male_headgear_secular_western_royalty_01
 				1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
-				1 = male_western_royal_crown_04				
+				1 = male_western_royal_crown_04			
+				1 = male_western_royal_crown_05				
 			}
 			female = {
 				3 = female_frankish_royal_crown_01_b	
@@ -2395,7 +2403,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_03	
 				1 = female_western_royal_crown_04	
 				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_crown_royalty_covervail_04		
+				1 = female_western_royal_crown_05		
+				1 = female_western_royal_crown_06					
 			}
 			boy = male
             girl = female
@@ -2611,7 +2621,8 @@ accessory_genes = {
                 1 = male_headgear_secular_western_royalty_01
                 1 = male_headgear_secular_western_royalty_02
 				1 = male_Western_Royal_Crown_03	
-				1 = male_western_royal_crown_04					
+				1 = male_western_royal_crown_04	
+				1 = male_western_royal_crown_05						
             }
             female = {
 				3 = female_frankish_royal_crown_01_b	
@@ -2630,7 +2641,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_03
 				1 = female_western_royal_crown_04	
 				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04				
+				1 = female_crown_royalty_covervail_04		
+				1 = female_western_royal_crown_05	
+				1 = female_western_royal_crown_06					
             }
             boy = male
             girl = female
@@ -2802,7 +2815,8 @@ accessory_genes = {
 				1 = male_Western_Royal_Crown_03						
                 1 = male_headgear_secular_western_royalty_01
                 1 = male_headgear_secular_western_royalty_02
-				1 = male_western_royal_crown_04					
+				1 = male_western_royal_crown_04		
+				1 = male_western_royal_crown_05							
            ####CFP latin headgears
 				1 = male_headgear_secular_latin_cfp_icol_01
 				1 = male_headgear_secular_western_cfp_royalty_02					
@@ -2819,7 +2833,9 @@ accessory_genes = {
 				1 = female_crown_royalty_covervail_03
 				1 = female_western_royal_crown_04	
 				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_crown_royalty_covervail_04	
+				1 = female_western_royal_crown_05	
+				1 = female_western_royal_crown_06					
            ####CFP latin headgears
 				1 = female_headgear_secular_latin_cfp_icol_01
 				1 = female_headgear_secular_western_cfp_royalty_02					
