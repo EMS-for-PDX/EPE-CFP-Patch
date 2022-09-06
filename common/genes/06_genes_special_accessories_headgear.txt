@@ -1294,7 +1294,12 @@ accessory_genes = {
             female = {
                 5 = female_headgear_secular_byzantine_nobility_01			
                 5 = female_headgear_secular_byzantine_high_nobility_01
-                2 = female_epe_byzantine_high_nobility_01				
+                3 = female_epe_byzantine_high_nobility_01
+				5 = female_byz_noble_hat_01	
+				5 = female_byz_noble_hat_02			
+				5 = female_byz_noble_hat_03	
+				3 = female_byz_noble_hat_02_white			
+				3 = female_byz_noble_hat_03_white				
             ####CFP byzantine headgears	
                 1 = female_headgear_secular_byzantine_propoloma_high_01
                 1 = female_headgear_secular_byzantine_propoloma_high_02
