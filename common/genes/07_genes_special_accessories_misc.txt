@@ -1379,7 +1379,11 @@ special_genes = {
 			frankish_low_noble = {
 				index = 23
 				male = {
+					1 = empty
 					1 = male_frankish_low_sagum_01
+					1 = male_west_sagum_02a_low		
+					1 = male_west_sagum_03a_low		
+					1 = male_west_sagum_04a_low						
 				}
 				female = {
 					1 = empty			
@@ -1389,7 +1393,12 @@ special_genes = {
 			frankish_high_noble = {
 				index = 24
 				male = {
+					2 = empty
+					2 = male_frankish_high_sagum_01
 					1 = male_frankish_high_sagum_01
+					2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
 				}
 				female = {
 					1 = female_cloaks_secular_western_royalty_01	
@@ -1400,7 +1409,12 @@ special_genes = {
 			frankish_royalty = {
 				index = 25
 				male = {
-					1 = male_frankish_royal_sagum_01
+					3 = male_frankish_royal_sagum_01
+					3 = male_west_sagum_02a_royalty	
+					4 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					2 = male_west_sagum_03a_royalty		
+					# 2 = male_west_sagum_04a_royalty					
 				}
 				female = {
 					1 = female_cloaks_secular_western_royalty_01			
@@ -1412,7 +1426,12 @@ special_genes = {
 			visigoth_royalty = {
 				index = 26
 				male = {
-					1 = male_iberian_royal_sagum_01			
+					3 = male_iberian_royal_sagum_01	
+					3 = male_west_sagum_02a_visigoth_royalty
+					4 = male_iberian_royal_sagum_01	
+					4 = male_west_sagum_02a_visigoth_royalty	
+					2 = male_west_sagum_03a_visigoth_royalty		
+					# 2 = male_west_sagum_04a_visigoth_royalty						
 				}
 				female = {
 					1 = female_iberia_royalty_cloak_01
@@ -1516,6 +1535,9 @@ special_genes = {
 				index = 35
 				male = {
 					1 = male_early_westerm_royal_sagum_01
+					1 = male_west_sagum_02a_visigoth_royalty
+					1 = male_west_sagum_03a_visigoth_royalty		
+					1 = male_west_sagum_04a_visigoth_royalty					
 				}
 				female = {
 					1 = female_cloaks_secular_western_royalty_01	
@@ -1600,7 +1622,10 @@ special_genes = {
 				male = {
 					1 = empty			
 					1 = male_byzantine_duchy_sagum_01	
-					1 = male_byzantine_duchy_sagum_02				
+					1 = male_byzantine_duchy_sagum_02	
+					1 = male_west_sagum_02a_byzantine_duke		
+					1 = male_west_sagum_03a_byzantine_duke		
+					1 = male_west_sagum_04a_byzantine_duke						
 				}
 				female = {
 					1 = empty
@@ -1727,12 +1752,32 @@ special_genes = {
 			high_medieval_western_duchy = {
 				index = 50
 				male = {
-					1 = empty				
+					# 1 = empty				
 					1 = male_early_westerm_royal_sagum_01
+					1 = male_west_sagum_02a_high
+					1 = male_west_sagum_03a_high	
+					1 = male_west_sagum_04a_high					
 				}
 				female = {
 					1 = empty				
 					1 = female_cloaks_secular_western_royalty_01	
+				}
+			}
+
+			frankish_imperial = {
+				index = 51
+				male = {
+					2 = male_early_western_imperial_sagum_01
+					2 = male_frankish_royal_sagum_01
+					2 = male_frankish_royal_sagum_01
+					1 = male_west_sagum_02a_royalty	
+					1 = male_west_sagum_02a_royalty	
+					2 = male_west_sagum_03a_royalty		
+					2 = male_west_sagum_04a_royalty						
+				}
+				female = {
+					1 = female_early_western_imperial_sagum_01
+					1 = female_cloaks_secular_western_royalty_01					
 				}
 			}
 
