@@ -1371,7 +1371,7 @@ special_genes = {
 					1 = female_cloaks_secular_western_cfp_ermine_01	
 				}
 			}
-
+			
 			##########################################################################
 			####Frankish
 			##########################################################################
@@ -1381,7 +1381,7 @@ special_genes = {
 				male = {
 					1 = empty
 					1 = male_frankish_low_sagum_01
-					1 = male_west_sagum_02a_low		
+					# 1 = male_west_sagum_02a_low		
 					1 = male_west_sagum_03a_low		
 					1 = male_west_sagum_04a_low						
 				}
@@ -1396,12 +1396,14 @@ special_genes = {
 					2 = empty
 					2 = male_frankish_high_sagum_01
 					1 = male_frankish_high_sagum_01
-					2 = male_west_sagum_02a_high
+					# 2 = male_west_sagum_02a_high
 					2 = male_west_sagum_03a_high	
 					2 = male_west_sagum_04a_high					
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01	
+					2 = empty
+					2 = female_cloaks_secular_western_royalty_01		
+					2 = female_cloaks_secular_western_royalty_01		
 				}
 			}
 
@@ -1417,7 +1419,7 @@ special_genes = {
 					# 2 = male_west_sagum_04a_royalty					
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01			
+					1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 			##########################################################################
@@ -1469,7 +1471,7 @@ special_genes = {
 
 			byzantine_imperial = {
 				index = 30
-				male = {			
+				male = {
 					5 = male_byzantine_imperial_sagum_01	
 					5 = male_byzantine_imperial_sagum_02
 					2 = male_byzantine_imperial_sagum_02_plane					
@@ -1543,6 +1545,7 @@ special_genes = {
 					1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
+
 			####Western Spymaster
 
 			western_spymaster_cloaks = {
@@ -1555,7 +1558,6 @@ special_genes = {
 					1 = female_cloak_western_spy_master_01
 				}
 			}
-
 			####MENA Spymaster		
 
 			mena_spymaster_cloaks = {
@@ -1567,7 +1569,6 @@ special_genes = {
 					1 = female_cloak_mena_spy_master_01
 				}
 			}
-
 
 			##########################################################################
 			####War german cloak tribal
@@ -1599,7 +1600,6 @@ special_genes = {
 				}
 			}
 
-
 			##########################################################################
 			####South Slav Royal
 			##########################################################################
@@ -1630,7 +1630,7 @@ special_genes = {
 				female = {
 					1 = empty
 				}
-			}
+			}			
 
 			##########################################################################
 			####Georgia Royal
@@ -1657,6 +1657,7 @@ special_genes = {
 					1 = female_armenian_royalty_cloak_01
 				}
 			}
+
 
 			##########################################################################
 			####Early West Slav
@@ -1706,7 +1707,7 @@ special_genes = {
 					1 = empty
 				}
 			}
-
+			
 			byzantine_imperial_war_cloak = {
 				index = 47
 				male = {
@@ -1717,7 +1718,7 @@ special_genes = {
 					1 = empty
 				}
 			}
-
+			
 			byzantine_high_noble_war_cloak = {
 				index = 48
 				male = {
@@ -1754,12 +1755,13 @@ special_genes = {
 				male = {
 					# 1 = empty				
 					1 = male_early_westerm_royal_sagum_01
-					1 = male_west_sagum_02a_high
+					# 1 = male_west_sagum_02a_high
 					1 = male_west_sagum_03a_high	
 					1 = male_west_sagum_04a_high					
 				}
 				female = {
-					1 = empty				
+					# 1 = empty				
+					1 = female_cloaks_secular_western_royalty_01	
 					1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
@@ -1778,6 +1780,29 @@ special_genes = {
 				female = {
 					1 = female_early_western_imperial_sagum_01
 					1 = female_cloaks_secular_western_royalty_01					
+				}
+			}
+
+
+			christian_norse_royalty = {
+				index = 52
+				male = {
+					1 = male_cloaks_secular_western_royalty_01
+				}
+				female = {
+					1 = female_cloaks_secular_western_royalty_01
+					1 = female_cloaks_secular_western_royalty_02a				
+				}
+			}
+			
+			anglo_saxon_royalty = {
+				index = 53
+				male = {
+					1 = male_cloaks_secular_western_royalty_01
+				}
+				female = {
+					1 = female_cloaks_secular_western_royalty_01
+					1 = female_cloaks_secular_western_royalty_02a				
 				}
 			}
 
