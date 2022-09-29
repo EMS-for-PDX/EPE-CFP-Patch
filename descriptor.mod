@@ -6,5 +6,5 @@ tags={
 }
 name="EPE-CFP-Patch"
 
-supported_version="1.7.1"
+supported_version="1.7.2"
 
