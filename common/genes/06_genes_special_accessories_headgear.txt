@@ -1905,7 +1905,7 @@ accessory_genes = {
 
 
 #########################
-		polish_imperial = {
+		polish_boleslaw = {
 			index = 70
 			male = {
 				1 = male_headgear_secular_polish_imperial_01
