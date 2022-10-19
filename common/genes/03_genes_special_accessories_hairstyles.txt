@@ -2479,8 +2479,10 @@ special_genes = {
 						3 = male_hair_western_01 # Bowl cut
 						3 = male_hair_western_07 # Long side part
 						2 = male_hair_western_09 # Short clumpy
-						1 = male_hair_byzantine_02 # Roman style
-				        1 = male_hair_frankish_01							
+						3 = male_hair_byzantine_02 # Roman style
+				        3 = male_hair_frankish_01		
+						3 = male_hair_frankish_01
+						3 = male_hair_frankish_01	
 					}
 					
 					female = {
@@ -2492,14 +2494,14 @@ special_genes = {
 						3 = female_hair_western_07 # Twin tails with ribbons
 						3 = female_hair_western_09 # Chignon
 						3 = female_hair_western_10 # Single tail ribboned
-						3 = female_hair_custom_01 # Indian Long Hair (Redone)
 						3 = female_hair_custom_05 # Mena Long Hair (Redone)
+						3 = female_hair_custom_06 # Curly updo without Earings
 						3 = female_hair_custom_06 # Curly updo without Earings
 
 					}
 					boy = male
 					girl = female
-				}    
+				}   
 
 				early_western_hairstyles_wavy = {
 					index = 91
@@ -2513,9 +2515,12 @@ special_genes = {
 						3 = male_hair_western_08 # Medium/long center part
 						1 = male_hair_western_09 # Short clumpy
 						3 = male_hair_mena_02 # Well kempt wavy
-						1 = male_hair_byzantine_01 # Curled bowl
-						1 = male_hair_byzantine_02 # Roman style
-				        1 = male_hair_frankish_01							
+						3 = male_hair_byzantine_01 # Curled bowl
+						3 = male_hair_byzantine_02 # Roman style
+				        3 = male_hair_frankish_01	
+						3 = male_hair_frankish_01
+						3 = male_hair_frankish_01	
+						3 = male_hair_frankish_01	
 					}
 					
 					female = {
@@ -2526,8 +2531,8 @@ special_genes = {
 						3 = female_hair_western_07 # Twin tails with ribbons
 						3 = female_hair_western_07 # Twin tails with ribbons
 						3 = female_hair_western_09 # Chignon
-						3 = female_hair_custom_01 # Indian Long Hair (Redone)
 						3 = female_hair_custom_05 # Mena Long Hair (Redone)
+						3 = female_hair_custom_06 # Curly updo without Earings
 						3 = female_hair_custom_06 # Curly updo without Earings
 						3 = female_hair_western_10 # Single tail ribboned
 						3 = female_hair_western_02 # Long wavy
@@ -2539,7 +2544,7 @@ special_genes = {
 						3 = female_hair_custom_01 # Indian Long Hair (Redone)
 						3 = female_hair_custom_05 # Mena Long Hair (Redone)
 						3 = female_hair_custom_06 # Curly updo without Earings
-						1 = female_hair_western_cover # Cover Art Hair by Celticus	
+						3 = female_hair_custom_06 # Curly updo without Earings
 					}
 					boy = male
 					girl = female

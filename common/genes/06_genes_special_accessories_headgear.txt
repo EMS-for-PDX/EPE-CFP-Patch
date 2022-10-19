@@ -1046,9 +1046,10 @@ accessory_genes = {
 				
 			}
 			female = {
-				1 = female_headgear_secular_dde_hre_royalty_01
-				1 = female_hre_royalty_Headvail_01					
-				1 = female_hre_royalty_covervail_01				
+				1 = fra_empress_crown_01a		
+				# 1 = female_headgear_secular_dde_hre_royalty_01
+				# 1 = female_hre_royalty_Headvail_01					
+				# 1 = female_hre_royalty_covervail_01				
 			}
 			boy = male
             girl = female
@@ -1098,10 +1099,11 @@ accessory_genes = {
 			index = 26
 			male = {
 				1 = male_headgear_secular_dde_hre_royalty_02
-				1 = male_headgear_secular_western_cfp_imperial_01
+			
 			}
 			female = {
 				1 = female_headgear_secular_dde_hre_royalty_01
+				1 = female_hre_royalty_Headvail_01					
 				1 = female_hre_royalty_covervail_01				
 			}
 			boy = male
@@ -2852,27 +2854,11 @@ accessory_genes = {
         italian_imperial = {
             index = 114
             male = {
-                1 = male_headgear_secular_western_royalty_01
-                1 = male_headgear_secular_western_royalty_02
-				1 = male_Western_Royal_Crown_03	
-				1 = male_western_royal_crown_04					
+				1 = male_western_royal_crown_05				
             }
             female = {
-                1 = female_headgear_secular_western_royalty_01
-                1 = female_headgear_secular_western_royalty_02  
-				1 = female_Western_Royal_Crown_03					
-				1 = female_crown_royalty_Headvail_01				
-				1 = female_crown_royalty_covervail_01	
-				1 = female_crown_royalty_Headvail_02	
-				1 = female_crown_royalty_covervail_02
-				2 = female_headgear_secular_dde_hre_royalty_01
-				2 = female_hre_royalty_Headvail_01					
-				2 = female_hre_royalty_covervail_01
-				1 = female_crown_royalty_headvail_03	
-				1 = female_crown_royalty_covervail_03	
-				1 = female_western_royal_crown_04	
-				1 = female_crown_royalty_headvail_04
-				1 = female_crown_royalty_covervail_04					
+				1 = female_western_royal_crown_05		
+				1 = female_western_royal_crown_06
             }
             boy = male
             girl = female
