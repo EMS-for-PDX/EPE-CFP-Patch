@@ -4620,8 +4620,13 @@ accessory_genes = {
 				# 2 = male_Western_Royal_Crown_03		
 				# 2 = male_western_royal_crown_04	
 				###dlc version
-				5 = male_headgear_secular_fp2_iberian_christian_cfp_royalty_01				
-				5 = male_headgear_secular_fp2_iberian_christian_royalty_01				
+				#15 = male_headgear_secular_fp2_iberian_christian_royalty_01				
+				2 = male_headgear_secular_fp2_iberian_christian_cfp_royalty_01				
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				2 = male_Western_Royal_Crown_03	
+				3 = male_western_royal_crown_04	
+				2 = male_western_royal_crown_05						
 			}
 			female = {
 			    ###non-dlc version				
@@ -4650,7 +4655,13 @@ accessory_genes = {
 				# 1 = male_Western_Royal_Crown_03	
 				# 1 = male_western_royal_crown_04	
 				###dlc version
-				15 = male_headgear_secular_fp2_iberian_christian_royalty_01
+				#15 = male_headgear_secular_fp2_iberian_christian_royalty_01				
+				2 = male_headgear_secular_fp2_iberian_christian_cfp_royalty_01				
+				3 = male_headgear_secular_western_royalty_01
+				3 = male_headgear_secular_western_royalty_02
+				2 = male_Western_Royal_Crown_03	
+				3 = male_western_royal_crown_04	
+				2 = male_western_royal_crown_05	
 				
 			}
 			female = {	
