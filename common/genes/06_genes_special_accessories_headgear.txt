@@ -37,16 +37,9 @@ accessory_genes = {
 				1 = male_headgear_secular_western_pillbox_common_01
 				1 = male_headgear_secular_western_cfp_royalty_01
 				1 = male_headgear_secular_western_cfp_royalty_02	
-				1 = male_headgear_secular_western_cfp_royalty_03
-				1 = male_headgear_secular_western_cfp_royalty_04
-				1 = male_headgear_secular_western_cfp_royalty_05
-				1 = male_headgear_secular_western_cfp_royalty_06
-				1 = male_headgear_secular_western_cfp_royalty_07				
 				1 = male_headgear_secular_western_pillbox_common_01
 				1 = male_headgear_secular_western_headband_common_01	
 				1 = male_headgear_secular_western_cfp_imperial_01
-				1 = male_headgear_secular_western_cfp_high_nobility_01	
-				1 = male_headgear_secular_slavic_cfp_royalty_02				
             	####CFP western war headgears		
 				1 = male_headgear_secular_western_war_kettle_hat_01
 				1 = male_headgear_secular_western_war_kettle_hat_02
@@ -264,12 +257,7 @@ accessory_genes = {
                 1 = male_headgear_secular_indian_cfp_war_tibetan_01
                 1 = male_headgear_secular_indian_cfp_war_timurid_01	
                 1 = male_headgear_religious_hindu_cfp_mask_01	
-            	####CFP Norse
-				1 = male_headgear_secular_northern_cfp_high_nobility_01
-				1 = male_headgear_secular_northern_cfp_high_nobility_01
-            	####CFP Fantasy
-                1 = male_headgear_fantasy_cfp_enchanter_hat_01	
-                1 = male_headgear_fantasy_cfp_wizard_hat_01				
+
 				#Vanilla Headgear
 			# RELIGIOUS #
 				1 = male_headgear_religious_zorastrian_high_01
@@ -332,15 +320,8 @@ accessory_genes = {
 				1 = female_headgear_secular_western_nobility_06
 				1 = female_headgear_secular_western_cfp_royalty_01
 				1 = female_headgear_secular_western_cfp_royalty_02	
-				1 = female_headgear_secular_western_cfp_royalty_03
-				1 = female_headgear_secular_western_cfp_royalty_04
-				1 = female_headgear_secular_western_cfp_royalty_05
-				1 = female_headgear_secular_western_cfp_royalty_06
-				1 = female_headgear_secular_western_cfp_royalty_07				
 				1 = female_headgear_secular_western_headband_common_01	
 				1 = female_headgear_secular_western_cfp_imperial_01
-				1 = female_headgear_secular_western_cfp_high_nobility_01
-				1 = female_headgear_secular_slavic_cfp_royalty_02		
             	####CFP western war headgears
 				1 = female_headgear_secular_western_war_kettle_hat_01
 				1 = female_headgear_secular_western_war_kettle_hat_02
@@ -513,13 +494,7 @@ accessory_genes = {
 				1 = female_headgear_secular_western_war_flat_top_01
 				1 = female_headgear_secular_western_war_topf_01
 				1 = female_headgear_secular_western_war_sugarloaf_01
-            	####CFP Norse
-				1 = female_headgear_secular_northern_cfp_high_nobility_01				
-				1 = female_headgear_secular_northern_cfp_high_nobility_01	
-            	####CFP Fantasy
-                1 = female_headgear_fantasy_cfp_enchanter_hat_01				
-                1 = female_headgear_fantasy_cfp_celtic_circlet_01	
-                1 = female_headgear_fantasy_cfp_wizard_hat_01				
+
 				#Vanilla Headgear
                 1 = female_headgear_secular_fp1_common_01
 				1 = female_headgear_secular_fp1_common_02
@@ -615,8 +590,7 @@ accessory_genes = {
             ####CFP western headgears	
 				1 = male_headgear_secular_western_high_nobility_04	
 				1 = male_headgear_secular_slavic_high_nobility_01	
-				1 = male_headgear_secular_western_pillbox_low_01	
-				1 = male_headgear_secular_western_cfp_high_nobility_01				
+				1 = male_headgear_secular_western_pillbox_low_01				
 			}
 			female = {
 				2 = female_west_early_noble_circlet_01
@@ -632,7 +606,6 @@ accessory_genes = {
             ####CFP western headgears				
 				1 = female_headgear_secular_western_high_nobility_04
 				1 = female_headgear_secular_slavic_high_nobility_01	
-				1 = male_headgear_secular_western_cfp_high_nobility_01				
 				
 			}
 			boy = male
@@ -2945,9 +2918,7 @@ accessory_genes = {
 				1 = male_northern_norse_1_noble_circlet_01
 				1 = male_northern_norse_2_noble_circlet_02	
 				1 = male_northern_norse_3_noble_circlet_01
-				1 = male_northern_norse_3_noble_circlet_02	
-                ###CFP
-				1 = male_headgear_secular_northern_cfp_high_nobility_01				
+				1 = male_northern_norse_3_noble_circlet_02					
 			}
 			female = {
 				1 = female_northern_norse_1_noble_circlet_01
@@ -2955,9 +2926,7 @@ accessory_genes = {
 				1 = female_northern_norse_1_noble_circlet_01
 				1 = female_northern_norse_2_noble_circlet_02	
 				1 = female_northern_norse_3_noble_circlet_01
-				1 = female_northern_norse_3_noble_circlet_02	
-                ###CFP	
-				1 = female_headgear_secular_northern_cfp_high_nobility_01				
+				1 = female_northern_norse_3_noble_circlet_02					
 			}
 			boy = male
             girl = female
@@ -3846,17 +3815,13 @@ accessory_genes = {
 			index = 159
 			male = {
 				1 = male_headgear_religious_northern_high_01
-            ####CFP norse				
-				1 = male_headgear_secular_northern_cfp_high_nobility_01				
 
 			}
 			female = {
 				1 = female_headgear_secular_fp1_nobility_01
 				1 = female_headgear_secular_fp1_nobility_02
 				1 = female_headgear_secular_fp1_nobility_03		
-            ####CFP norse
-				1 = female_headgear_secular_northern_cfp_high_nobility_01			
-			
+
 			}
 		}
 
