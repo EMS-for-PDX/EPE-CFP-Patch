@@ -770,14 +770,98 @@ special_genes = {
 
 
 			
-			
-			javanese_spymasters_dagger = {
-				index = 64
+		####CFP	
+			cfp_javanese_dagger = {
+				index = 62
 				male = {
 					1 = cfp_kris_dagger_equipped_01
 				}
 				female = {
 					1 = cfp_kris_dagger_equipped_01		
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_globus = {
+				index = 63
+				male = {
+					1 = cfp_globus_01
+				}
+				female = {
+					1 = cfp_globus_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_scepter = {
+				index = 64
+				male = {
+					1 = cfp_scepter_01
+				}
+				female = {
+					1 = cfp_scepter_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_scepter_regalia = {
+				index = 66
+				male = {
+					1 = cfp_scepter_02
+				}
+				female = {
+					1 = cfp_scepter_02
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_potion = {
+				index = 67
+				male = {
+					1 = cfp_potion_01
+				}
+				female = {
+					1 = cfp_potion_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_cauldron = {
+				index = 68
+				male = {
+					1 = cfp_cauldron_01
+				}
+				female = {
+					1 = cfp_cauldron_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_bonfire = {
+				index = 69
+				male = {
+					1 = cfp_bonfire_01
+				}
+				female = {
+					1 = cfp_bonfire_01
+				}
+				boy = male
+				girl = female
+			}
+			
+			cfp_broom = {
+				index = 70
+				male = {
+					1 = cfp_broom_01
+				}
+				female = {
+					1 = cfp_broom_01
 				}
 				boy = male
 				girl = female
@@ -1044,6 +1128,7 @@ special_genes = {
 					1 = male_cloaks_religious_catholic_cfp_head_01
 					1 = male_cloaks_religious_catholic_cfp_tribal_01
 					1 = male_cloaks_religious_orthodox_cfp_omophorion_01
+					1 = male_cloaks_secular_fantasy_cfp_wings_01					
 					
 				}
 				female = {
@@ -1056,6 +1141,7 @@ special_genes = {
 					1 = female_cloaks_secular_northern_war_viking_shield_01
 					1 = female_cloaks_secular_western_war_norman_shield_01
 					1 = female_cloaks_secular_sub_saharan_cfp_apron_01
+					1 = female_cloaks_secular_fantasy_cfp_wings_01					
 
 					
 				}
@@ -1066,6 +1152,7 @@ special_genes = {
 					1 = male_cloaks_secular_western_royalty_01
 				}
 				female = {
+					2 = fem_western_royal_cloak_02		
 					1 = female_cloaks_secular_western_royalty_01
 					1 = female_cloaks_secular_western_royalty_02a				
 				}
@@ -1077,8 +1164,8 @@ special_genes = {
 					1 = male_cloaks_secular_french_royalty_01
 				}
 				female = {
-					1 = female_cloaks_secular_french_royalty_01
-					1 = female_cloaks_secular_french_royalty_02a				
+					2 = fem_frankish_royal_cloak_02
+					1 = female_cloaks_secular_french_royalty_01			
 				}
 			}		
 			
@@ -1086,11 +1173,10 @@ special_genes = {
 				index = 4
 				male = {
 					1 = male_cloaks_secular_byzantine_royalty_01
-					1 = male_byzantine_royal_sagum_01					
+					1 = male_byzantine_royal_sagum_01				
 				}
 				female = {
 					1 = female_cloaks_secular_byzantine_royalty_01
-					1 = female_cloaks_secular_byzantine_royalty_02a		
 				}
 			}			
 			
@@ -1100,8 +1186,8 @@ special_genes = {
 					1 = male_cloaks_secular_italian_royalty_01
 				}
 				female = {
+					4 = fem_western_royal_cloak_02		
 					1 = female_cloaks_secular_italian_royalty_01
-					1 = female_cloaks_secular_italian_royalty_02a		
 				}
 			}			
 					
@@ -1109,7 +1195,6 @@ special_genes = {
 			early_iranian_royalty = {
 				index = 6
 				male = {
-					1 = male_cloak_early_iranian_nobility
 					5 = male_cloak_early_iranian_nobility_v2				
 				}
 				female = {
@@ -1125,7 +1210,7 @@ special_genes = {
 				female = {
 					1 = female_cloak_eastern_iranian_nobility
 				}
-			}		
+			}	
 					
 		
 
@@ -1393,7 +1478,7 @@ special_genes = {
 			frankish_high_noble = {
 				index = 24
 				male = {
-					2 = empty
+					# 2 = empty
 					2 = male_frankish_high_sagum_01
 					1 = male_frankish_high_sagum_01
 					# 2 = male_west_sagum_02a_high
@@ -1401,9 +1486,11 @@ special_genes = {
 					2 = male_west_sagum_04a_high					
 				}
 				female = {
-					2 = empty
-					2 = female_cloaks_secular_western_royalty_01		
-					2 = female_cloaks_secular_western_royalty_01		
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
 				}
 			}
 
@@ -1412,14 +1499,20 @@ special_genes = {
 				index = 25
 				male = {
 					3 = male_frankish_royal_sagum_01
-					3 = male_west_sagum_02a_royalty	
+					4 = male_west_sagum_02a_royalty	
+					4 = male_west_sagum_02a_royalty	
 					4 = male_frankish_royal_sagum_01
 					4 = male_west_sagum_02a_royalty	
-					2 = male_west_sagum_03a_royalty		
+					2 = male_west_sagum_03a_royalty	
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high
 					# 2 = male_west_sagum_04a_royalty					
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01	
+					2 = female_west_sagum_04a_royalty
+					2 = female_west_sagum_04a_high
+					2 = fem_frankish_royal_cloak_02	
+					# 1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 			##########################################################################
@@ -1433,11 +1526,11 @@ special_genes = {
 					4 = male_iberian_royal_sagum_01	
 					4 = male_west_sagum_02a_visigoth_royalty	
 					2 = male_west_sagum_03a_visigoth_royalty		
-					# 2 = male_west_sagum_04a_visigoth_royalty						
+					2 = male_west_sagum_04a_visigoth_royalty						
 				}
 				female = {
-					1 = female_iberia_royalty_cloak_01
-					1 = female_iberia_royalty_cloak_02					
+					1 = female_west_sagum_04a_visigoth_royalty	
+					1 = fem_visigoth_royal_cloak_02
 				}
 			}
 
@@ -1537,12 +1630,13 @@ special_genes = {
 				index = 35
 				male = {
 					1 = male_early_westerm_royal_sagum_01
-					1 = male_west_sagum_02a_visigoth_royalty
-					1 = male_west_sagum_03a_visigoth_royalty		
-					1 = male_west_sagum_04a_visigoth_royalty					
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01	
+					1 = female_early_western_sagum_04a_royalty
+					1 = fem_western_royal_cloak_02
+					# 1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 
@@ -1741,7 +1835,8 @@ special_genes = {
 				}
 				female = {
 					1 = female_iberia_royalty_cloak_01
-					1 = female_iberia_royalty_cloak_02					
+					1 = female_iberia_royalty_cloak_02
+					2 = fem_visigoth_royal_cloak_02				
 				}
 			}
 
@@ -1754,15 +1849,18 @@ special_genes = {
 				index = 50
 				male = {
 					# 1 = empty				
-					1 = male_early_westerm_royal_sagum_01
+					2 = male_early_westerm_royal_sagum_01
 					# 1 = male_west_sagum_02a_high
-					1 = male_west_sagum_03a_high	
+					2 = male_west_sagum_03a_high	
 					1 = male_west_sagum_04a_high					
 				}
 				female = {
-					# 1 = empty				
-					1 = female_cloaks_secular_western_royalty_01	
-					1 = female_cloaks_secular_western_royalty_01	
+					# 3 = empty	
+					2 = fem_western_duke_cloak_02
+					2 = fem_western_royal_cloak_02
+					2 = female_west_sagum_04a_high			
+					# 1 = female_cloaks_secular_western_royalty_01	
+					# 1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 
@@ -1778,11 +1876,12 @@ special_genes = {
 					2 = male_west_sagum_04a_royalty						
 				}
 				female = {
-					1 = female_early_western_imperial_sagum_01
-					1 = female_cloaks_secular_western_royalty_01					
+					# 1 = female_early_western_imperial_sagum_01
+					# 1 = female_cloaks_secular_western_royalty_01
+					2 = female_west_sagum_04a_royalty
+					2 = fem_frankish_royal_cloak_02					
 				}
 			}
-
 
 			##########################################################################
 			####Anglo-Saxon
@@ -1792,10 +1891,10 @@ special_genes = {
 				index = 52
 				male = {
 					1 = empty
-					1 = male_frankish_low_sagum_01
+					2 = male_frankish_low_sagum_01
 					# 1 = male_west_sagum_02a_low		
-					1 = male_west_sagum_03a_low		
-					1 = male_west_sagum_04a_low						
+					2 = male_west_sagum_03a_low		
+					2 = male_west_sagum_04a_low						
 				}
 				female = {
 					1 = empty			
@@ -1805,17 +1904,21 @@ special_genes = {
 			anglo_saxon_high_noble = {
 				index = 53
 				male = {
-					2 = empty
+					# 1 = empty
 					2 = male_frankish_high_sagum_01
 					1 = male_frankish_high_sagum_01
 					# 2 = male_west_sagum_02a_high
 					2 = male_west_sagum_03a_high	
-					2 = male_west_sagum_04a_high					
+					4 = male_west_sagum_04a_high
+					2 = male_west_sagum_03a_high	
+					3 = male_west_sagum_04a_high				
 				}
 				female = {
 					2 = empty
-					2 = female_cloaks_secular_western_royalty_01		
-					2 = female_cloaks_secular_western_royalty_01		
+					2 = fem_western_duke_cloak_02
+					2 = female_west_sagum_04a_high		
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
 				}
 			}
 
@@ -1823,15 +1926,17 @@ special_genes = {
 			anglo_saxon_royalty = {
 				index = 54
 				male = {
-					3 = male_frankish_royal_sagum_01
-					3 = male_west_sagum_02a_royalty	
-					4 = male_frankish_royal_sagum_01
-					4 = male_west_sagum_02a_royalty	
-					2 = male_west_sagum_03a_royalty		
-					# 2 = male_west_sagum_04a_royalty					
+					4 = male_anglo_saxon_sagum_04a_royalty
+					1 = male_early_westerm_royal_sagum_01	
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high	
 				}
 				female = {
-					1 = female_cloaks_secular_western_royalty_01	
+					4 = female_anglo_saxon_sagum_04a_royalty
+					2 = female_early_western_sagum_04a_royalty
+					2 = female_west_sagum_04a_high
+					4 = fem_western_royal_cloak_02		
+					# 2 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 			
@@ -1877,18 +1982,274 @@ special_genes = {
 				index = 57
 				male = {
 					3 = male_frankish_royal_sagum_01
-					3 = male_west_sagum_02a_royalty	
+					# 3 = male_west_sagum_02a_royalty	
 					4 = male_frankish_royal_sagum_01
-					4 = male_west_sagum_02a_royalty	
+					# 4 = male_west_sagum_02a_royalty	
 					2 = male_west_sagum_03a_royalty		
-					# 2 = male_west_sagum_04a_royalty					
+					2 = male_west_sagum_04a_royalty					
 				}
 				female = {
+					2 = fem_western_royal_cloak_02	
 					1 = female_cloaks_secular_western_royalty_01	
 				}
 			}
 
 
+			##########################################################################
+			####Gaelic / Irish
+			##########################################################################
+			
+			gaelic_cloak_royalty_nobility = {
+				index = 58
+				male = {
+					2 = male_cloaks_irish_royalty_01
+					2 = male_cloaks_irish_royalty_02
+					2 = male_cloaks_irish_royalty_03
+				}
+				female = {
+					2 = female_cloaks_irish_royalty_01
+					2 = female_cloaks_irish_royalty_02
+					2 = female_cloaks_irish_royalty_03				
+				}
+			}
+
+			##########################################################################
+			####Western high nobles  
+			##########################################################################
+			
+			french_high_noble = {
+				index = 59
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}			
+			
+			
+			german_high_noble = {
+				index = 60
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}			
+			
+			italian_high_noble = {
+				index = 61
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}
+			
+			##########################################################################
+			####Early German
+			##########################################################################
+			early_german_low_noble = {
+				index = 62
+				male = {
+					1 = empty
+					1 = male_frankish_low_sagum_01
+					# 1 = male_west_sagum_02a_low		
+					1 = male_west_sagum_03a_low		
+					1 = male_west_sagum_04a_low						
+				}
+				female = {
+					1 = empty			
+				}
+			}
+
+			early_german_high_noble = {
+				index = 63
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}
+
+
+			early_german_royalty = {
+				index = 64
+				male = {
+					3 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					4 = male_west_sagum_02a_royalty	
+					4 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					2 = male_west_sagum_03a_royalty	
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high
+					# 2 = male_west_sagum_04a_royalty					
+				}
+				female = {
+					2 = female_west_sagum_04a_royalty
+					2 = female_west_sagum_04a_high
+					2 = fem_frankish_royal_cloak_02	
+					# 1 = female_cloaks_secular_western_royalty_01	
+				}
+			}
+
+
+			##########################################################################
+			####Early Italian
+			##########################################################################
+			early_italian_low_noble = {
+				index = 65
+				male = {
+					1 = empty
+					1 = male_frankish_low_sagum_01
+					# 1 = male_west_sagum_02a_low		
+					1 = male_west_sagum_03a_low		
+					1 = male_west_sagum_04a_low						
+				}
+				female = {
+					1 = empty			
+				}
+			}
+
+			early_italian_high_noble = {
+				index = 66
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}
+
+
+			early_italian_royalty = {
+				index = 67
+				male = {
+					3 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					4 = male_west_sagum_02a_royalty	
+					4 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					2 = male_west_sagum_03a_royalty	
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high
+					# 2 = male_west_sagum_04a_royalty					
+				}
+				female = {
+					2 = female_west_sagum_04a_royalty
+					2 = female_west_sagum_04a_high
+					2 = fem_frankish_royal_cloak_02	
+					# 1 = female_cloaks_secular_western_royalty_01	
+				}
+			}
+
+			##########################################################################
+			####Early Briton (welsh)
+			##########################################################################	
+
+			early_briton_low_noble = {
+				index = 68
+				male = {
+					1 = empty
+					1 = male_frankish_low_sagum_01
+					# 1 = male_west_sagum_02a_low		
+					1 = male_west_sagum_03a_low		
+					1 = male_west_sagum_04a_low						
+				}
+				female = {
+					1 = empty			
+				}
+			}
+
+			early_briton_high_noble = {
+				index = 69
+				male = {
+					# 2 = empty
+					2 = male_frankish_high_sagum_01
+					1 = male_frankish_high_sagum_01
+					# 2 = male_west_sagum_02a_high
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high					
+				}
+				female = {
+					# 2 = empty
+					2 = female_west_sagum_04a_high	
+					2 = fem_western_duke_cloak_02
+					# 2 = female_cloaks_secular_western_royalty_01		
+					# 2 = female_cloaks_secular_western_royalty_01		
+				}
+			}
+
+
+			early_briton_royalty = {
+				index = 70
+				male = {
+					3 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					4 = male_west_sagum_02a_royalty	
+					4 = male_frankish_royal_sagum_01
+					4 = male_west_sagum_02a_royalty	
+					2 = male_west_sagum_03a_royalty	
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high
+					# 2 = male_west_sagum_04a_royalty					
+				}
+				female = {
+					2 = female_west_sagum_04a_royalty
+					2 = female_west_sagum_04a_high
+					2 = fem_frankish_royal_cloak_02	
+					# 1 = female_cloaks_secular_western_royalty_01	
+				}
+			}			
 
 
 			
