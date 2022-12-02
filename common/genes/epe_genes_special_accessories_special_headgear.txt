@@ -36,8 +36,7 @@ accessory_genes = {
 		matilda_headgear = {
 			index = 2
 			male = {
-		
-				100 = male_Circlet_High_Noble_Headwear_Silver_01
+				100 = male_headgear_secular_western_high_nobility_01
 			}
 			female = {
 				100 = female_headgear_secular_latin_cfp_hennin_high_01
