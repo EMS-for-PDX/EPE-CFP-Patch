@@ -620,6 +620,29 @@ accessory_genes = {
 			}
 			boy = male
 			girl = female
+		}
+
+
+##########################################################################
+####Gaelic / Irish
+##########################################################################
+
+		gaelic_royalty_nobility_clothes = {
+			index = 30
+
+			male = {
+				1 = male_clothes_gaelic_nobility_01_royalty
+				1 = male_clothes_gaelic_nobility_02_royalty
+				1 = male_clothes_gaelic_nobility_03_royalty
+			}
+
+			female = {
+				1 = female_clothes_gaelic_nobility_01_royalty			
+				1 = female_clothes_gaelic_nobility_02_royalty
+				1 = female_clothes_gaelic_nobility_03_royalty
+			}
+			boy = male
+			girl = female
 		}		
 		
 
