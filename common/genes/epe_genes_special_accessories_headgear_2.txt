@@ -3048,12 +3048,10 @@ accessory_genes = {
         christian_iranian_royalty = {
             index = 166
             male = {
-                1 = male_early_iranian_royal_crown_early_01
-                1 = male_early_iranian_royal_crown_early_02
+                1 = male_persian_crown_01
             }
             female = {
-				1 = female_early_iranian_royal_crown_early_01
-				1 = female_early_iranian_royal_crown_early_02	
+				1 = female_persian_crown_01
 
             }
             boy = male
@@ -3063,17 +3061,15 @@ accessory_genes = {
         christian_iranian_imperial = {
             index = 167
             male = {
-                1 = male_early_iranian_royal_crown_early_01
-                1 = male_early_iranian_royal_crown_early_02
-				
+                1 = male_persian_crown_01
             }
             female = {
-				1 = female_early_iranian_royal_crown_early_01
-				1 = female_early_iranian_royal_crown_early_02						
+				1 = female_persian_crown_01
+
             }
             boy = male
             girl = female
-        }			
+        }		
 		
 ##########################################################################
 ####Kirghiz  
