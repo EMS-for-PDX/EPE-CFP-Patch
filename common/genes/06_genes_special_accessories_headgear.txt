@@ -1342,7 +1342,7 @@ accessory_genes = {
 				1 = male_byz_imp_stemma_02	
 				1 = male_byz_imp_stemma_03
 				1 = male_byz_imp_stemma_04			
-				1 = male_headgear_secular_byzantine_imperial_01	
+				# 1 = male_headgear_secular_byzantine_imperial_01	
             ####CFP byzantine headgears	
 				1 = male_headgear_secular_byzantine_imperial_02
 				1 = male_headgear_secular_byzantine_monomachus_01	
