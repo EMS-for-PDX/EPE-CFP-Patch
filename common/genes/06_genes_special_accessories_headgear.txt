@@ -3875,7 +3875,10 @@ accessory_genes = {
 				5 = empty
 				5 = male_headgear_northern_slav_common_01
 				5 = male_headgear_northern_slav_common_02				
-				5 = male_headgear_northern_slav_headband_01_common		
+				5 = male_headgear_northern_slav_headband_01_common
+           ####CFP slavic headgears
+				7 = male_headgear_secular_ruthenian_cfp_common_01
+		   
 			}
 			female = {
 				5 = empty
@@ -3883,6 +3886,8 @@ accessory_genes = {
 				2 = female_headgear_northern_slav_common_02	
 				2 = female_headgear_northern_slav_common_03					
 				2 = female_headgear_northern_slav_headband_01_common
+           ####CFP slavic headgears
+				4 = female_headgear_secular_ruthenian_cfp_common_01		   
 
 			}
 			boy = male
@@ -3896,12 +3901,16 @@ accessory_genes = {
 				5 = male_headgear_northern_slav_common_01
 				5 = male_headgear_northern_slav_common_02						
                 5 = male_headgear_northern_slav_headband_01_low
+           ####CFP slavic headgears
+				7 = male_headgear_secular_ruthenian_cfp_low_01		   
             }
             female = {
 				2 = female_headgear_northern_slav_common_01
 				2 = female_headgear_northern_slav_common_02	
 				2 = female_headgear_northern_slav_common_03	
                 2 = female_headgear_northern_slav_headband_01_low
+           ####CFP slavic headgears
+				4 = female_headgear_secular_ruthenian_cfp_low_01		   
             }
             boy = male
             girl = female
@@ -3912,12 +3921,14 @@ accessory_genes = {
             male = {
 				1 = male_headgear_northern_slav_headband_01_high
            ####CFP slavic headgears
-				1 = male_headgear_secular_slavic_high_nobility_01					
+				1 = male_headgear_secular_slavic_high_nobility_01	
+				1 = male_headgear_secular_ruthenian_cfp_high_01				
             }
             female = {
                 1 = female_headgear_northern_slav_headband_01_high
            ####CFP slavic headgears
 				1 = female_headgear_secular_slavic_high_nobility_01
+				1 = female_headgear_secular_ruthenian_cfp_high_01				
 
             }
             boy = male
@@ -3927,13 +3938,15 @@ accessory_genes = {
 		northern_slav_royalty = {
 			index = 171
 			male = {
-				5 = male_headgear_secular_byzantine_nobility_01
+				#5 = male_headgear_secular_byzantine_nobility_01
            ####CFP slavic headgears
-				1 = male_headgear_secular_slavic_royalty_01		   
+				1 = male_headgear_secular_ruthenian_cfp_royalty_01
+				1 = male_headgear_secular_slavic_royalty_01	   
 			}
 			female = {
-				5 = female_headgear_secular_byzantine_nobility_01
+				#5 = female_headgear_secular_byzantine_nobility_01
            ####CFP slavic headgears
+				1 = female_headgear_secular_ruthenian_cfp_royalty_01
 				1 = female_headgear_secular_slavic_royalty_01		   
 			}
 			boy = male
@@ -3945,11 +3958,13 @@ accessory_genes = {
 			male = {
 
            ####CFP slavic headgears
-				1 = male_headgear_secular_slavic_cfp_monomakh_01				
+				5 = male_headgear_secular_slavic_cfp_monomakh_01	
+				5 = male_headgear_secular_ruthenian_cfp_imperial_01				
 			}
 			female = {
            ####CFP slavic headgears
-				1 = female_headgear_secular_slavic_cfp_monomakh_01		   
+				5 = female_headgear_secular_slavic_cfp_monomakh_01	
+				5 = female_headgear_secular_ruthenian_cfp_imperial_01				
 			}
 			boy = male
             girl = female
@@ -3961,17 +3976,19 @@ accessory_genes = {
 				#5 = male_headgear_secular_northern_war_nobility_01
 				5 = male_epe_byz_spangenhelm_01		
            ####CFP slavic war headgears
-				1 = male_headgears_secular_slavic_war_helmet_01
-				1 = male_headgears_secular_slavic_war_helmet_02	
-				1 = male_headgear_secular_slavic_cfp_war_type4_01					
+				4 = male_headgears_secular_slavic_war_helmet_01
+				4 = male_headgears_secular_slavic_war_helmet_02
+				4 = male_headgear_secular_ruthenian_cfp_war_01
+				2 = male_headgear_secular_slavic_cfp_war_type4_01				
 
 			}
 			female = {
 				#1 = female_headgear_secular_northern_war_nobility_01
            ####CFP slavic war headgears
-				1 = female_headgears_secular_slavic_war_helmet_01
-				1 = female_headgears_secular_slavic_war_helmet_02
-				1 = female_headgear_secular_slavic_cfp_war_type4_01				
+				4 = female_headgears_secular_slavic_war_helmet_01
+				4 = female_headgears_secular_slavic_war_helmet_02
+				4 = female_headgear_secular_ruthenian_cfp_war_01
+				2 = female_headgear_secular_slavic_cfp_war_type4_01			
 
 			}
 			boy = male
