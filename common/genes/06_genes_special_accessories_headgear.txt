@@ -3779,7 +3779,7 @@ accessory_genes = {
 			index = 162
 			male = {
 				3 = male_headgear_secular_fp1_royalty_01
-				1 = male_headgear_secular_fp1_cfp_royalty_01
+				# 1 = male_headgear_secular_fp1_cfp_royalty_01
 				
 
 			}
