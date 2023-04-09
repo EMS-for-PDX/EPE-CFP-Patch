@@ -10,7 +10,7 @@ special_genes = {
 	# 			  BEARDS 				#
 	#									#
 	#####################################
-
+ 
 		
 		beards = {
 			group = beard
@@ -74,7 +74,8 @@ special_genes = {
 				    1 = male_beard_western_8d #	
 				    1 = male_beard_western_8e #	
 				    1 = male_beard_western_8f #	
-				    1 = male_beard_western_9b #	
+				    1 = male_beard_western_9b #
+					1 = m_beard_sp2_western_01 # The Ultimate Moustache 		
 
                     ###CFP					
 					1 = cfp_male_sideburns_western_02
@@ -1533,6 +1534,17 @@ special_genes = {
 				}
 			}	
 			
+			sp2_beards_straight = {
+				index = 59
+
+				male = {
+					5 = m_beard_sp2_western_01	# The Ultimate Moustache	
+				}
+
+				female = {
+					1 = empty
+				}
+			}
 			
 			
 

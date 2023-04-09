@@ -10,7 +10,7 @@ special_genes = {
 		#####################################
 
 
-
+ 
 		props = {
 		
 			no_props = {
@@ -1439,10 +1439,14 @@ special_genes = {
 				index = 21
 				male = {
 					1 = male_cloaks_epe_german_royalty_01
+					2 = male_west_sagum_03a_high	
+					2 = male_west_sagum_04a_high	
 				}
 				female = {
+					2 = female_west_sagum_04a_royalty
 					1 = female_cloaks_epe_german_royalty_01
-					1 = female_cloaks_epe_german_royalty_01a				
+					1 = female_cloaks_epe_german_royalty_01a
+					2 = fem_western_royal_cloak_02						
 				}
 			}
 
@@ -1453,6 +1457,7 @@ special_genes = {
 					1 = male_cloaks_secular_western_cfp_ermine_01
 				}
 				female = {
+					2 = fem_frankish_royal_cloak_02
 					1 = female_cloaks_secular_western_cfp_ermine_01	
 				}
 			}
@@ -2005,11 +2010,17 @@ special_genes = {
 					2 = male_cloaks_irish_royalty_01
 					2 = male_cloaks_irish_royalty_02
 					2 = male_cloaks_irish_royalty_03
+					2 = male_cloaks_irish_high_01
+					2 = male_cloaks_irish_high_02
+					2 = male_cloaks_irish_high_03
 				}
 				female = {
 					2 = female_cloaks_irish_royalty_01
 					2 = female_cloaks_irish_royalty_02
-					2 = female_cloaks_irish_royalty_03				
+					2 = female_cloaks_irish_royalty_03
+					2 = female_cloaks_irish_high_01
+					2 = female_cloaks_irish_high_02
+					2 = female_cloaks_irish_high_03						
 				}
 			}
 
@@ -2251,7 +2262,17 @@ special_genes = {
 				}
 			}			
 
-
+			sp2_cloak_imperial = {
+				index = 71
+				male = {
+					1 = m_cloaks_sec_sp2_western_imp_01
+				}
+				female = {
+					1 = f_cloaks_sec_sp2_western_imp_01
+				}
+				boy = male
+				girl = female
+			}
 			
 		}		
 			

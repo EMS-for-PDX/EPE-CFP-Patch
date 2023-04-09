@@ -8,7 +8,7 @@ accessory_genes = {
 # 			  HEADGEAR 			    #
 #									#
 #####################################
-
+ 
 	
 	headgear_2 = {
 
@@ -3433,6 +3433,44 @@ accessory_genes = {
             girl = female
 		}			
 		
+		#ADDED IN 1.8.0 ROBE UPDATE
+		reward_western_royalty = {
+			index = 185
+			male = {
+				1 = male_headgear_secular_western_royalty_03
+			}
+			female = {
+				1 = female_headgear_secular_western_royalty_03
+			}
+			boy = male
+			girl = male
+		}
+		
+		## SP2 - Elegance of the Empire ##
+
+		sp2_western_imperial = {
+			index = 186
+			male = {
+				1 = m_headgear_sec_sp2_western_imp_01
+			}
+			female = {
+				1 = f_headgear_sec_sp2_western_imp_01
+			}
+			boy = male
+			girl = female
+		}
+
+		sp2_western_high_nobility = {
+			index = 187
+			male = {
+				1 = m_headgear_sec_sp2_western_hi_nob_01
+			}
+			female = {
+				1 = f_headgear_sec_sp2_western_hi_nob_01
+			}
+			boy = male
+			girl = female
+		}
 		
 		
 		

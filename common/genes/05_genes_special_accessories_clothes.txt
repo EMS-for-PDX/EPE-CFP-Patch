@@ -11,7 +11,7 @@ accessory_genes = {
 #									#
 #####################################
   
-	
+	 
 	clothes = {
 		most_clothes = {
 			index = 0
@@ -2438,8 +2438,24 @@ accessory_genes = {
 			girl = female
 		}
 		
-		
 
+		#DLC SP2
+		
+		sp2_western_royalty_clothes = {
+			index = 117
+
+			male = {
+				1 = m_clothes_sec_sp2_western_imp_01
+			}
+
+			female = {
+				1 = f_clothes_sec_sp2_western_imp_01
+			}
+
+			boy = male
+			girl = female
+
+		}
 		
 ## Early Eastern/Sogdian iranian  ##
 
@@ -5020,7 +5036,6 @@ accessory_genes = {
 
 
 ####free space index = 76
-			#index = 117
 			#index = 118
 			#index = 119
 			#index = 120
